@@ -314,7 +314,7 @@ data-show
 
 - [Materialsammlung der DINI/nestor UAG Schulungen](https://rs.cms.hu-berlin.de/uag_fdm/pages/home.php)
 
-- [Foer.de - OER Plattform der CAU](https://rs.cms.hu-berlin.de/uag_fdm/pages/home.php)
+- [Foer.de - OER Plattform der CAU](https://oer.uni-kiel.de/)
 
 - [FutureSkills Plattform](https://futureskills-sh.de/)
 
