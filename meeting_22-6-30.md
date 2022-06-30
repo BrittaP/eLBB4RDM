@@ -192,7 +192,6 @@ https://cloudlab-demohub.rz.uni-kiel.de/hub/login?next=%2Fhub%2F
 data-type="BarChart"
 data-title="Durchschnittliche Bearbeitungszeit"
 data-show
-data-ylim="0,5" 
 -->
 | Rückmeldungen    | ET (n=4) | G1 (n=6) | G2 (n=10) | G3 (n=14) |
 | ---------------- | --------:| --------:| ---------:| ---------:|
@@ -203,6 +202,7 @@ data-ylim="0,5"
 data-type="BarChart"
 data-title="EvaSys Rückmeldungen"
 data-show
+data-ylim="0,5" 
 -->
 | Rückmeldungen                 | ET (n=4) | G1 (n=6) | G2 (n=10) | G3 (n=14) | Aushilfsachse |
 | ----------------------------- | --------:| --------:| ---------:| ---------:| -------------:|
