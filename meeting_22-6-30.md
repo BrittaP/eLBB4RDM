@@ -199,13 +199,9 @@ data-show
 
 
 <!-- data-ylim="0,5" -->
-
 | Rückmeldungen | ET (n=4) | G1 (n=6) | G2 (n=10) | G3 (n=14) |
-
 |------------------------------|---------:|---------:|----------:|----------:|
-
 | Technischer Zugang | 1.5 | 1.0 | 1.1 | 1.7 |
-
 | Inhaltlich klar strukturiert | 1.0 | 2.2 | 1.2 | 1.6 |
 
 
