@@ -352,3 +352,11 @@ Geplant zum Wintersemester 2022/23
 - Wer hat Interesse und die Möglichkeit eines der Module zu testen?
 
 - Wer hat Interesse und die Möglichkeit, an Modulen mitzuschreiben?
+
+# Wünsche / Anmerkungen / Sonstiges
+
+- Wir werden uns an der Weiterentwicklung von LiaScript beteiligen -> Exporter in klickbare Anwendung überführen
+
+- In Absprache mit dem elk.Medien-Team ggf. auf Integrationsmöglichkeit von SCORM2004 hinwirken (ist in unserem Olat noch nicht implementiert) 
+
+- In Absprache mit relevanten Stellen/Personen Datenschutzfragen klären / Allgemeingültigen Disclaimer erstellen
