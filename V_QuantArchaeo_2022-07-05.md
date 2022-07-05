@@ -136,6 +136,9 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
 ![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
 
+{{1}}
+********************************************************************************
+
 > - Reproduzierbarkeit von Ergebnissen
 > - Rückverfolgbarkeit und Transparenz der Forschung
 > - gute Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und bescheibende Metadaten
@@ -148,8 +151,9 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 > - Erfüllung von Auflagen der Drittmittelgeber
 > - ….
 
+********************************************************************************
 
-# Aktuelle Entwicklungen / wichitge Player
+# Aktuelle Entwicklungen / wichtige Player
 
 - **Forschungsdatenmanagement ist Teil Guter Wissenschaftlicher Praxis**
 - **Forschungsförderer (DFG, BMBF, EU)** legen zunehmend Wert auf ein gutes Forschungsdatenmanagement und fordern z. B. den Nachweis entsprechender Planungen (DMPs)
