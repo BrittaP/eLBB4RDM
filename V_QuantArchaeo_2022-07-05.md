@@ -220,4 +220,9 @@ info@fdm.uni-kiel.de
 
 # Quellen und Weiterführendes
 
+https://ianus-fdz.de/
+https://www.nfdi4objects.net/
 https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/
+https://www.forschungsdaten.info/
+https://www.forschungsdaten.org/
+
