@@ -20,6 +20,7 @@ tags:     Forschungsdaten, eLBB4RDM, Projektmeeting
 
 ![Bild](images\fdm_lehre.png "Illustration: Cleo Michelsen")
 
+TinyURL zu dieser Präsi: https://tinyurl.com/m9v96284
 
 Zentrales Forschungsdatenmanagement
 
