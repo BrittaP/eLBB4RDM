@@ -214,7 +214,7 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
   - **Für Ihren Fachbereich: [NFDI4Ing](https://nfdi4ing.de/de/)**
 
-![Bild](images\NFDI4Ing.png)
+![Bild](images\nfdi4ing.jpg)
 
 ********************************************************************************
 
