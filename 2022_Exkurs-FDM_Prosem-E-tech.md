@@ -14,13 +14,9 @@ comment:  This document provides a brief introduction to    research data manage
 
 # Exkurs Forschungsdatenmanagement
 
-> To see this document as an interactive LiaScript rendered version, click on the following link/badge:
->
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://raw.githubusercontent.com/BrittaP/eLBB4RDM/main/2022_Exkurs-FDM_Prosem-E-tech.md)
+TinyURL zu dieser Präsentation: https://tinyurl.com/Etech-Prosem22
 
 ![Bild](images\fdm_lehre.png "Illustration: Cleo Michelsen")
-
-TinyURL zu dieser Präsentation:
 
 Zentrales Forschungsdatenmanagement
 
@@ -246,7 +242,7 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 ## Strukturierte Ordner- und Dateibenennung
 ---
 
-https://tinyurl.com/4vu8uyzk
+https://tinyurl.com/dateibenennung
 
 
 ![Bild](images\Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
