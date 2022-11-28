@@ -1,26 +1,26 @@
 <!--
+
 author:   Britta Petersen
-
 email:    b.petersen@rz.uni-kiel.de
-
-icon: images\Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
-
 version:  0.1.0
+language: en
+narrator: UK English Female
 
-language: de
+logo:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
-narrator: Deutsch Female
+comment:  This document provides a brief introduction to    research data management. It was written for electrical engineering students in introductory phase.
 
-comment:  Präsentation zum Projektmeeting, 30.06.2022
-
-tags:     Forschungsdaten, eLBB4RDM, Projektmeeting
 -->
 
 # Exkurs Forschungsdatenmanagement
 
+> To see this document as an interactive LiaScript rendered version, click on the following link/badge:
+>
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://raw.githubusercontent.com/BrittaP/eLBB4RDM/main/2022_Exkurs-FDM_Prosem-E-tech.md)
+
 ![Bild](images\fdm_lehre.png "Illustration: Cleo Michelsen")
 
-TinyURL zu dieser Präsi: https://tinyurl.com/m9v96284
+TinyURL zu dieser Präsentation:
 
 Zentrales Forschungsdatenmanagement
 
@@ -33,17 +33,32 @@ b.petersen@rz.uni-kiel.de
 
 ![Bild](images\FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
 
+**Lassen Sie uns kurz gemeinsam sammeln!**
+
+* Was denken Sie, wie können wir den Begriff Forschungsdaten definieren?
+
+* Welche Beispiele für Forschungsdaten können Sie nennen?
+
+---
+
 {{1}}
 ********************************************************************************
+Die DFG schreibt hierzu:
 
-- „Zu Forschungsdaten zählen u. a. Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten oder Beobachtungsdaten, methodische Testverfahren sowie Fragebögen. Korpora und Simulationen können ebenfalls zentrale Ergebnisse wissenschaftlicher Forschung darstellen und werden daher ebenfalls unter den Begriff Forschungsdaten gefasst. Da Forschungsdaten in einigen Fachbereichen auf der Analyse von Objekten basieren (z. B. Gewebe-, Material-, Gesteins-, Wasser- und Bodenproben, Prüfkörper, Installationen, Artefakte und Kunstgegenstände), muss der Umgang mit diesen ebenso sorgfältig sein und eine fachlich adäquate Nachnutzungsmöglichkeit, wann immer sinnvoll und möglich, mitgedacht werden. Ähnliches gilt, wenn Software für die Entstehung oder Verarbeitung von Forschungsdaten erforderlich ist.“ (**DFG 2021**)
+> „Zu Forschungsdaten zählen u. a. Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten oder Beobachtungsdaten, methodische Testverfahren sowie Fragebögen. Korpora und Simulationen können ebenfalls zentrale Ergebnisse wissenschaftlicher Forschung darstellen und werden daher ebenfalls unter den Begriff Forschungsdaten gefasst. Da Forschungsdaten in einigen Fachbereichen auf der Analyse von Objekten basieren (z. B. Gewebe-, Material-, Gesteins-, Wasser- und Bodenproben, Prüfkörper, Installationen, Artefakte und Kunstgegenstände), muss der Umgang mit diesen ebenso sorgfältig sein und eine fachlich adäquate Nachnutzungsmöglichkeit, wann immer sinnvoll und möglich, mitgedacht werden. Ähnliches gilt, wenn Software für die Entstehung oder Verarbeitung von Forschungsdaten erforderlich ist.“
+>
+> (**DFG 2021**)
 
 ********************************************************************************
 
 {{2}}
 ********************************************************************************
 
-- “Any information you use in your research.” – (**University of Camebridge PrePARe Project**)
+Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge University den Begriff Forschungsadaten:
+
+> “Any any information you use in your research.”
+>
+> (**University of Camebridge PrePARe Project**)
 
 ********************************************************************************
 
@@ -72,51 +87,86 @@ b.petersen@rz.uni-kiel.de
 
 ![Bild](images\kurzberichte.png) <!-- width="250px" align="right" -->
 
-- Forschungsdatenmanagement (FDM) umfasst die Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten mit dem gemeinsamen Ziel, diese langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten. (**forschungsdaten.info**)
+**Tauschen Sie sich bitte kurz mit einer benachbarten Person aus.**
 
+* Spekulieren Sie darüber, welche Tätigkeitsbereiche und Fragestellungen zum Management von Forschungsdaten gehören könnten.
 
-# Transformation, Selektion und Speicherung von Forschungsdaten entlang des Forschungsdatenlebenszyklus
-
-![Bild](images\FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen") <!-- width="450px" align="right" -->
-
-In Anlehnung an die [Checkliste für Antragstellende](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_de.pdf) zur Planung und zur Beschreibung des Umgangs mit
-Forschungsdaten in Forschungsvorhaben der DFG (2021):
+---
 
 {{1}}
 ********************************************************************************
 
-**Planung**: Auf welche Weise entstehen in dem Foschungsprojekt neue Daten? Werden existierende Daten wiederverwendet? Welche Datentypen, im Sinne von Datenformaten (z. B. Bilddaten, Textdaten oder Messdaten) entstehen dem Forschungsrojekt und auf welche Weise werden sie weiterverarbeitet? In welchem Umfang fallen diese an bzw. welches Datenvolumen ist zu erwarten? Berücksichtigung ethischer Aspekte.
+> Forschungsdatenmanagement (FDM) umfasst die Prozesse der **Transformation**, **Selektion** und **Speicherung** von Forschungsdaten mit dem gemeinsamen **Ziel**, diese *langfristig* und *personenunabhängig* **zugänglich**, **nachnutzbar** und **nachprüfbar** zu halten.
+>
+>(**forschungsdaten.info**)
 
-**Verantwortlichkeiten und Ressourcen**: Wer ist verantwortlich für den adäquaten Umgang mit den Forschungsdaten (Beschreibung der Rollen und Verantwortlichkeiten innerhalb des Projekts)? Welche Ressourcen (Kosten; Zeit oder anderes) sind erforderlich, um einen adäquaten Umgang mit Forschungsdaten im Projekt umzusetzen? Wer ist nach Ende der Laufzeit des Projekts für das Kuratieren der Daten verantwortlich?
+********************************************************************************
+
+# Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entlang des Forschungsdatenlebenszyklus
+
+![Bild](images\FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen")
+
+
+{{1}}
+********************************************************************************
+![Bild](images\Planung_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+
+**Planung**:
+
+* Auf welche Weise entstehen neue Daten?
+* Werden Daten wiederverwendet?
+* Welche Datentypen, im Sinne von Datenformaten (z. B. Bilddaten, Textdaten oder Messdaten in Tabellen) entstehen?
+* Welche Analysen sind geplant?
+* Welches Datenvolumen ist zu erwarten?
+* Welche rechtlichen und ethischen Aspekte müssen berücksichtigt werden?
+* Wer ist verantwortlich?
+
+---
 
 ********************************************************************************
 
 {{2}}
 ********************************************************************************
+![Bild](images\erhebung-analyse_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
-**Erhebung und Analyse**: Welche Ansätze werden verfolgt, um die Daten nachvollziehbar zu beschreiben (z. B. Nutzung vorhandener Metadaten- bzw. Dokumentationsstandards oder Ontologien)?
-Welche Maßnahmen werden getroffen, um eine hohe Qualität der Daten zu gewährleisten? Sind Qualitätskontrollen vorgesehen und wenn ja, auf welche Weise? Welche digitalen Methoden und Werkzeuge (z. B. Software) sind zur Nutzung und Analyse der Daten erforderlich?
+**Erhebung und Analyse**:
 
-Speicherung und technische Sicherung während des Projektverlaufs: Auf welche Weise werden die Daten während der Projektlaufzeit gespeichert und
-gesichert? Wie wird die Sicherheit sensibler Daten während der Projektlaufzeit gewährleistet (Zugriffs- und Nutzungsverwaltung)?
+* Welche Ansätze werden verfolgt, um die Daten nachvollziehbar zu dokumentieren?
+* Welche Maßnahmen werden getroffen, um eine hohe Qualität der Daten zu gewährleisten?
+* Welche digitalen Methoden und Werkzeuge (z. B. Software) sind zur Nutzung und Analyse der Daten erforderlich?
+* Auf welche Weise werden die Daten während der Projektlaufzeit gespeichert und gesichert?
+* Wie wird die Sicherheit sensibler Daten während der Projektlaufzeit gewährleistet (Zugriffs- und Nutzungsverwaltung)?
 
 ********************************************************************************
+---
 
 {{3}}
 ********************************************************************************
 
-**Archivierung & Veröffentlichung**: Welche rechtlichen Besonderheiten bestehen im Zusammenhang mit dem Umgang mit Forschungsdaten in dem Forschungsprojekt? Sind Auswirkungen oder Einschränkungen in Bezug
-auf die spätere Veröffentlichung bzw. Zugänglichkeit zu erwarten? Auf welche Weise
-werden nutzungs- und urheberrechtliche Aspekte sowie Eigentumsfragen berücksichtigt?
-Existieren wichtige wissenschaftliche Kodizes bzw. fachliche Normen, die Berücksichtigung finden sollten?
+![Bild](images\veroeffentl-archiv_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
+**Archivierung & Veröffentlichung**:
+
+* Welche rechtlichen Besonderheiten bestehen im Zusammenhang mit dem Umgang mit Forschungsdaten in dem Forschungsprojekt?
+* Sind Auswirkungen oder Einschränkungen in Bezug auf die spätere Veröffentlichung bzw. Zugänglichkeit zu erwarten?
+* Auf welche Weise werden nutzungs- und urheberrechtliche Aspekte sowie Eigentumsfragen berücksichtigt?
+* Existieren wichtige wissenschaftliche Kodizes bzw. fachliche Normen, die Berücksichtigung finden sollten?
+
+---
 ********************************************************************************
 
 {{4}}
 ********************************************************************************
 
-**Nachnutzung**: Welche Daten bieten sich für die Nachnutzung in anderen Kontexten besonders an?
-Nach welchen Kriterien werden Forschungsdaten ausgewählt, um diese für die Nachnutzung durch andere zur Verfügung zu stellen? Planen Sie die Archivierung Ihrer Daten in einer geeigneten Infrastruktur? Falls ja, wie und wo? Gibt es Sperrfristen? Wann sind die Forschungsdaten für Dritte nutzbar?
+![Bild](images\nachnutzung-fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+
+**Nachnutzung**:
+
+* Welche Daten bieten sich für eine Nachnutzung besonders an?
+* Nach welchen Kriterien werden Forschungsdaten ausgewählt, um diese für die Nachnutzung durch andere zur Verfügung zu stellen?
+* Planen Sie die Archivierung Ihrer Daten in einer geeigneten Infrastruktur?
+* Falls ja, wie und wo? Gibt es Sperrfristen?
+* Wann sind die Forschungsdaten für Dritte nutzbar?
 
 ********************************************************************************
 
@@ -133,20 +183,25 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
 ********************************************************************************
 
-# Kurz zusammengefasst: Warum Forschungsdatenmanagement?
+# Welchen Nutzen hat Forschungsdatenmanagement?
 
 ![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
 
+**Tauschen Sie sich bitte noch einmal kurz mit einer benachbarten Person aus.**
+
+* Welchen Nutzen kann ein gutes Forschungsdatenmanagement haben und warum ist es als ein Teil **~~guter wissenschaftlicher Praxis~~** zu sehen?
+
 {{1}}
 ********************************************************************************
-
+>**Gutes Forschungsdatenmanagement trägt bei zu...**
+>
 > - Reproduzierbarkeit von Ergebnissen
 > - Rückverfolgbarkeit und Transparenz der Forschung
-> - gute Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und bescheibende Metadaten
+> - gute Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und beschreibende Metadaten
 > - Wissenserhalt – Daten sollen unabhängig von einzelnen Menschen, Projekten oder Institutionen zugänglich sein
 > - Erleichterung der Zusammenarbeit
 > - Vorbeugung von Datenverlusten
-> - Kostenersparnis durch Nachnutzung statt neuer Erhebung
+> - Kostenersparnis, z. B. durch Nachnutzung statt neuer Erhebung
 > - Transfer der Daten in zukünftige Projekte
 > - Erhöhung der Sichtbarkeit der eigenen Arbeit durch Forschungsdatenzitation
 > - Erfüllung von Auflagen der Drittmittelgeber
@@ -156,52 +211,39 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
 # Aktuelle Entwicklungen / wichtige Player
 
-- **Forschungsdatenmanagement ist Teil Guter Wissenschaftlicher Praxis**
-- **Forschungsförderer (DFG, BMBF, EU)** legen zunehmend Wert auf ein gutes Forschungsdatenmanagement und fordern z. B. den Nachweis entsprechender Planungen (DMPs)
+- **Forschungsförderer (DFG, BMBF, EU)** legen zunehmend Wert auf ein gutes Forschungsdatenmanagement und fordern z. B. den Nachweis entsprechender Planungen (DMPs).
 - **Aufbau einer Nationalen Forschungsdateninfrastruktur (NFDIs)**: Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kompetenz- und Infrastrukturnetzwerk, das die Bereitstellung und Erschließung von Forschungsdaten für die Wissenschaft sicherstellen soll.
 
 {{1}}
 ********************************************************************************
 
-  - **Für Ihren Fachbereich: [NFDI4Objects](https://www.nfdi4objects.net/)**
+  - **Für Ihren Fachbereich: [NFDI4Ing](https://nfdi4ing.de/de/)**
 
-![Bild](images\nfdi4objects.png)
-
-********************************************************************************
-
-{{2}}
-********************************************************************************
-
-- **Für Ihren Fachbereich: [IANUS - Forschungsdatenzentrum Archäologie & Altertumswissenschaften](https://ianus-fdz.de/)**
-
-![Bild](images\ianus.png)
+![Bild](images\nfdi4ing.png)
 
 ********************************************************************************
 
 # Berufliche Perspektiven
 
-> Die Archäologie braucht Manager*innen mit hoher wissenschaftlicher Expertise, in Form von
+> Mit wissenschaftlicher Expertise ***und*** guten Kenntnissen im Bereich des Datenmanagements entstehen zusätzliche berufliche Perspektiven innerhalb der Ingenieurswissenschaften sowie in zentralen Einrichtungen, wie Rechenzentren oder Universitätsbibliotheken.
 >
-> * Data Stewards,
-> - Data Curator und
-> - Data Collector,
+> Mögliche Berufsbezeichnungen für diese Tätigkeitsbereiche sind z. B.:
 >
-> denn Qualifikation ist der Schlüssel zum erfolgreichen Datenmanagement.
+> * Data Steward,
+> * Data Curator und/oder
+> * Data Collector
 >
->Dabei ist eine ensprechende Aus- und Weiterbildung erforderlich, die momentan nicht vorhanden ist.
->
-> Ein Kompetenzrahmen ist unerlässlich, denn aus ihm werden allgemeine Kompetenzen genauso abgeleitet, wie spezifische Qualifizierungsprofile.
->
->(Kai-Christian Bruhn 2020, https://zenodo.org/record/4279741#.YsPYKnZBxPY)
+> Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich.
 
-** -> Was denken Sie? Welche Kenntnisse und Kompetenzen benötigen Sie zusätzlich zu den bisher unterrichteten Lehrinhalten?**
+** -> Was denken Sie? Welche Kenntnisse und Kompetenzen benötigen Sie zusätzlich zu fachlichen Inhalten?**
 
 ** -> Welche Lehr-/Lernformate halten Sie für geeignet, Kompetenzen im Umgang mit digitalen Forschungsdaten zu erwerben?**
 
 
 
-# Ein erster kleiner Schritt im FDM:
-Strukturierte Ordner- und Dateibenennung
+# Erste Schritte im FDM:
+
+## Strukturierte Ordner- und Dateibenennung
 ---
 
 https://tinyurl.com/4vu8uyzk
@@ -209,20 +251,32 @@ https://tinyurl.com/4vu8uyzk
 
 ![Bild](images\Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
 
+## Literaturverwaltung
 
+Eine **Literaturverwaltungssoftware** hilft Ihnen, die für Ihre Arbeiten genutzten Quellen zu verwalten!
 
-# Ansprechpersonen an der CAU
+{{1}}
+***
+Das Rechenzentrum stellt Ihnen eine Citavi-Campuslizenz zur Verfügung:
 
-![Bild](images\rdmCAU.png) <!-- width="150px" align="right" -->
+![Bild](images\citavi-RZ.jpg)
 
-https://www.fdm.uni-kiel.de/de
+https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi
 
-info@fdm.uni-kiel.de
+***
 
-# Quellen und Weiterführendes
+{{2}}
+***
+An der Universitätsbibliothek finden Sie Kurse zu citavi sowie verschiedenes Selbstlernmaterial:
 
-https://ianus-fdz.de/
-https://www.nfdi4objects.net/
-https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/
-https://www.forschungsdaten.info/
-https://www.forschungsdaten.org/
+![Bild](images\citavi-UB.jpg)
+
+https://www.ub.uni-kiel.de/de/beratung-kurse/Kurse/c3-12.html
+
+***
+
+# Herzlichen Dank!
+
+![Bild](images\rdmCAU.png) <!-- width="250px" align="right" -->
+
+Mehr zum FDM an der CAU finden Sie hier: https://www.fdm.uni-kiel.de/de
