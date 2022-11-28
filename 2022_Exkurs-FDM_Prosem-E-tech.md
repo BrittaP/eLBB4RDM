@@ -100,7 +100,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 # Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entlang des Forschungsdatenlebenszyklus
 
-![Bild](images\FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen")
+![Bild](images\FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen") <!-- width="400px" align="right" -->
 
 
 {{1}}
