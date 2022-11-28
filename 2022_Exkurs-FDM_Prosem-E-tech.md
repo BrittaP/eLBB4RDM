@@ -6,9 +6,9 @@ version:  0.1.0
 language: en
 narrator: UK English Female
 
-logo:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
-comment:  This document provides a brief introduction to    research data management. It was written for electrical engineering students in introductory phase.
+comment:  This document provides a brief introduction to research data management. It was used to present the topic to engineering students in introductory phase.
 
 -->
 
