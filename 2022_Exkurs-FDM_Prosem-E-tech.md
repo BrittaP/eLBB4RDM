@@ -185,16 +185,15 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
 **Tauschen Sie sich bitte noch einmal kurz mit einer benachbarten Person aus.**
 
-* Welchen Nutzen kann ein gutes Forschungsdatenmanagement haben und warum ist es als ein Teil **~~guter wissenschaftlicher Praxis~~** zu sehen?
-
+* Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen? Welchen Nutzen kann ein gutes Forschungsdatenmanagement darüber hinaus haben? 
 {{1}}
 ********************************************************************************
 >**Gutes Forschungsdatenmanagement trägt bei zu...**
 >
-> - Reproduzierbarkeit von Ergebnissen
-> - Rückverfolgbarkeit und Transparenz der Forschung
+> - Reproduzierbarkeit von Ergebnissen (GWP)
+> - Rückverfolgbarkeit und Transparenz der Forschung (GWP)
 > - gute Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und beschreibende Metadaten
-> - Wissenserhalt – Daten sollen unabhängig von einzelnen Menschen, Projekten oder Institutionen zugänglich sein
+> - Wissenserhalt – Daten sollen unabhängig von einzelnen Menschen, Projekten oder Institutionen zugänglich sein (GWP)
 > - Erleichterung der Zusammenarbeit
 > - Vorbeugung von Datenverlusten
 > - Kostenersparnis, z. B. durch Nachnutzung statt neuer Erhebung
