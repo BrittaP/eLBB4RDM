@@ -8,11 +8,13 @@ narrator: UK English Female
 
 icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
-comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
+comment:  This document provides a brief introduction to Blended Learning 
 
 -->
 
-# Kurz-Input fdm@studium.nrw
+# Blended Lerning: Ein Kurz-Input 
+
+Workshop fdm@studium.nrw, 15. Dezember 2022
 
 <center><img src="images/fdm_lehre.png" alt="what image shows" height="auto" width="auto"></center>
 
@@ -20,7 +22,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 Britta Petersen, b.petersen@rz.uni-kiel.de
 
-## Asynchrone Lehre / Blended Learning  
+## Blended Learning  
 
 Unter Blended Learning wird die Verknüpfung von Elementen von traditionellen Präsenzveranstaltungen mit Elementen des elektronischen Lernens verstanden.
 
