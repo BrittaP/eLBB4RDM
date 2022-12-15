@@ -33,7 +33,7 @@ tags:     Forschungsdaten, Forschungsdatenmanagement, FDM, eLBB4RDM, Vernetzungs
 
 ![Bild](images/fdm_lehre.png) <!-- width="100px" align="right" -->
 
-{{1-2}}
+{{0-1}}
 ********************************************************************************
 
 **Mitantragstellende Projektpartner\*innen und Fachbereiche:**
@@ -48,7 +48,7 @@ tags:     Forschungsdaten, Forschungsdatenmanagement, FDM, eLBB4RDM, Vernetzungs
 
 ********************************************************************************
 
-{{2-3}}
+{{1-2}}
 ********************************************************************************
 
 **Kooperationspartner\*innen:**
@@ -62,7 +62,7 @@ tags:     Forschungsdaten, Forschungsdatenmanagement, FDM, eLBB4RDM, Vernetzungs
 
 ********************************************************************************
 
-{{3-4}}
+{{2-3}}
 ********************************************************************************
 
 **Beteiligte Studierende:**
@@ -140,6 +140,7 @@ tags:     Forschungsdaten, Forschungsdatenmanagement, FDM, eLBB4RDM, Vernetzungs
 
 * Punktuelle Begleitung von Lehrveranstaltungen im WS 2022/23 sowie Erarbeitung weiterer Inhalte, erneuter Einsatz des Bausteins "**Digitale Forschungsdaten ordnen und strukturieren**"
 * Begleitung des [**Projektseminars zur Geschichte der Neuzeit**](https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=philos/histor/zentr/projek_1&anonymous=1&founds=philos/histor/zentr/aufbau_8,/bungim_94,/projek,/projek_1&nosearch=1&ref=main&sem=2022w&__e=341) (Projekt Modulare Bausteine für die digitale Lehre in den Geisteswissenschaften; Dr. Swantje Piotrowski) unter Nutzung des [Cloulab](https://cloudlab.rz.uni-kiel.de/) der CAU.
+* Erarbeitung weiterer Inhalte
 
 ********************************************************************************
 
