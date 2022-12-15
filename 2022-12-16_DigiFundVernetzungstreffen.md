@@ -73,6 +73,10 @@ tags:     Forschungsdaten, Forschungsdatenmanagement, FDM, eLBB4RDM, Vernetzungs
 
 ********************************************************************************
 
+# Ansatz: Bausteinsystem
+
+![Bild](images/elBB4RDM_Bausteinsystem.png)
+
 # Aktivitäten
 
 ![Bild](images/fdm_lehre.png) <!-- width="100px" align="right" -->
@@ -167,10 +171,6 @@ Rückmeldungen zum Baustein "Forschungsdaten ordnen und strukturieren"
 - Weniger textlastige Einheiten und mehr Interaktion.
 - Eventuell ein bisschen weniger Umfang oder eine abschließende kurze Zusammenfassung mit den wichtigsten Punkten (muss auch nicht ausführlich sein).
 - Weniger kleinschrittig
-
-# Ansatz: Bausteinsystem
-
-![Bild](images/elBB4RDM_Bausteinsystem.png)
 
 # Technische Umsetzung
 
