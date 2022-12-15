@@ -208,7 +208,7 @@ Rückmeldungen zum Baustein "Forschungsdaten ordnen und strukturieren"
 {{2-3}}
 ********************************************************************************
 
-![Bild](images/Olat_webextern.png)
+![Bild](images/Olat_Webextern.png)
 
 ********************************************************************************
 
