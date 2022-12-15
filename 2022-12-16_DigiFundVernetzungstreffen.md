@@ -149,7 +149,7 @@ Rückmeldungen zum Baustein "Forschungsdaten ordnen und strukturieren"
 
 ***Ich als Teilnehmende\*r empfand folgende Inhalte des Moduls als hilfreich:***
 
-![Bild](images\tipp2.png) <!-- width="100px" align="right" -->
+![Bild](images/tipp2.png) <!-- width="100px" align="right" -->
 
 - Der Inhalt selbst (also zur Datenorganisation) ist zweifellos sehr hilfreich. Auch die Idee der Lernüberprüfung durch Ankreuzen hilft sehr dabei sicherzustellen, dass man das gelesene auch ein wenig durchdrungen hat.
 - Die Hinweise, wie vermieden werden kann eine Hausarbeit kurz vor Abgabe zu löschen, waren sehr hilfreich und haben mich zum Nachdenken angeregt. Der Baustein hat mich motiviert meine Datensicherungen zu checken und zu überarbeiten.
@@ -160,7 +160,7 @@ Rückmeldungen zum Baustein "Forschungsdaten ordnen und strukturieren"
 
 ***Ich als Teilnehmende\*r habe folgende Verbesserungsvorschläge für diese e-Learning-Einheit:***
 
-![Bild](images\tipp2.png) <!-- width="100px" align="right" -->
+![Bild](images/tipp2.png) <!-- width="100px" align="right" -->
 
 - Studienanfängern das Modul zeigen. Wer bis jetzt noch keine Ordnerstruktur hat, wird es vermutlich auch nicht mehr ändern.
 - Auf die Apple User und deren Verzeichnissystem noch mal eingehen.
