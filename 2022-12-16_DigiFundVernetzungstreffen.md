@@ -39,7 +39,7 @@ tags:     Forschungsdaten, Forschungsdatenmanagement, FDM, eLBB4RDM, Vernetzungs
 **Mitantragstellende Projektpartner\*innen und Fachbereiche:**
 
 * Prof. Dr. Nicola Fohrer und Dr. Georg Hörmann, Natur- und Ressourcenschutz
-* Prof. Martina Gerken und Michael Meisser, Elektrotechnik
+* Prof. Dr. Martina Gerken und Michael Meisser, Elektrotechnik
 * Gregor Große-Bölting, Informatik
 * Johannes Labrenz, Biowissenschaften
 * Dr. Stefan Kratzenstein, Sportwissenschaften
