@@ -24,7 +24,7 @@ Zentrales Forschungsdatenmanagement, Britta Petersen, b.petersen@rz.uni-kiel.de
 
 > **Lassen Sie uns zum Aufwärmen ein kleines Spiel spielen:**
 >
-> Bitte verdecken Sie Ihre Kamera mit einem Post-it oder einem Finger.
+> Verdecken Sie Ihre Kamera mit einem Post-it oder einem Finger.
 >
 > Ich lese Aussagen vor.
 >
@@ -129,7 +129,7 @@ Zentrales Forschungsdatenmanagement, Britta Petersen, b.petersen@rz.uni-kiel.de
 - Fehler zulassen -> positive Fehlerkultur.
 - Geben Sie Bescheid, wenn Sie eine Pause benötigen.
 
-## Erwartungen an den Workshop
+## ~~Kartenabfrage~~: Erwartungen an den Workshop
 
 Ich würde gerne etwas mehr über Ihre Erwartungen und Befürchtungen in Bezug auf diesen Workshop erfahren.
 
@@ -145,7 +145,7 @@ Sie werden in Kleingruppen für 10 Minuten in Break-Out-Räumen zusammenkommen.
 >* Sammeln Sie Ihre Punkte bitte auf **ONCOO-Karten**: https://www.oncoo.de/jzvb
 >* Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.  
 
-### Review: Erwartungen an den Workshop
+### ~~Review~~: Erwartungen an den Workshop
 
 <iframe src="https://www.oncoo.de/t/jzvb" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
@@ -191,7 +191,7 @@ Unsere Agenda für heute
 
 ---
 
-** Wir machen eine Stunde Mittagspause**: 12:45 - 13:45 Uhr
+** Wir machen eine Stunde Mittagspause**: ca. 12:45 - 13:45 Uhr
 
 # Allgemeine didaktische Hinweise
 
@@ -280,7 +280,7 @@ Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine d
 {{2-3}}
 ********************************************************************************
 
-**Planungsrater/Lehrdrehbücher**
+**Planungsraster/Lehrdrehbücher**
 
 ![Bild](images/Planungsraster.png)
 
@@ -292,9 +292,9 @@ Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine d
 
 **Warum sollten wir den Themenkomplex FDM in die Lehre integrieren?**
 
---> Forschungsdatenmanagement und Data Literacy sind in allen wissenschaftlichen Disziplinen ein in den letzten Jahren immer mehr diskutiertes Thema.
+* Forschungsdatenmanagement und Data Literacy sind in allen wissenschaftlichen Disziplinen ein in den letzten Jahren immer mehr diskutiertes Thema.
 
---> Nachdem zunächst die Aus- und Weiterbildung von Forschenden und Infrastrukturmitarbeitenden im Bereich FDM fokussiert wurde, wird heute zunehmend eine Integration des Themenbereichs in die Lehre gefordert:
+* Nachdem zunächst die Aus- und Weiterbildung von Forschenden und Infrastrukturmitarbeitenden im Bereich FDM fokussiert wurde, wird heute zunehmend eine Integration des Themenbereichs in die Lehre gefordert:
 
 {{1-2}}
 ********************************************************************************
@@ -333,7 +333,9 @@ Es existieren auch Forderungen von Studierendenseite:
 
 ********************************************************************************
 
-# Was ist das eigentlich: Forschungsdatenmanagement?
+# Orientierung im Themenbereich FDM
+
+## ~~Wordcloud~~: Forschungsdatenmanagement
 
 ![Bild](images\FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
 
@@ -341,12 +343,14 @@ Es existieren auch Forderungen von Studierendenseite:
 
 Welche Inhaltsaspekte gehören eigentlich dazu? Lassen Sie uns kurz gemeinsam sammeln!
 
-* Was denken Sie? Welche Inhaltsaspekte gehören zum Themenspektrum FDM?
+> Was denken Sie? Welche Inhaltsaspekte gehören zum Themenspektrum FDM?
+>
+> Geben Sie unter https://answergarden.ch/2861448 Begriffe ein, die Sie mit dem Begriff Forschungsdatenmanagement verbinden. Sie dürfen so viele Eingaben machen, wie Sie möchten.
 
 <iframe src="https://answergarden.ch/2861448" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
-## Orientierung Themenbereich FDM
+## ~~Gruppenarbeit~~: Lernzielmatrix zum Themenbereich FDM
 
 ![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
 
@@ -361,14 +365,14 @@ Welche Inhaltsaspekte gehören eigentlich dazu? Lassen Sie uns kurz gemeinsam sa
 
 ---
 
-Notieren Sie Stichpunkte zu Ihren Diskussionen in den zur Verfügung gestellten ZUM-Pads.
+Notieren Sie Stichpunkte zu Ihren Diskussionen auf den zur Verfügung gestellten Zum-Pads.
 
 Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.
 
 Sie haben 10 Minuten Zeit.
 ---
 
-### Begriffsdefinition Forschungsdatenmanagement
+## Begriffsdefinition Forschungsdatenmanagement
 
 {{1}}
 ********************************************************************************
@@ -380,7 +384,7 @@ Das Portal **Forschungsdaten.info** definiert den Begriff **"Forschungsdatenmana
 
 ********************************************************************************
 
-### Begriffsdefinition Forschungsdaten
+## Begriffsdefinition Forschungsdaten
 
 **Und was sind Forschungsdaten?**
 
@@ -425,7 +429,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 - Topographie-Daten
 - Abschriften
 
-### Forschungsdatenlebenszyklus
+## Forschungsdatenlebenszyklus
 
 ![Bild](images\FDM_Zyklus_klein_ohneText.jpg) <!-- width="350px" align="right" -->
 
@@ -494,9 +498,9 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ********************************************************************************
 
-### Ziel: FAIRe Daten
+## FAIRe Daten
 
-Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar halten.
+Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten.
 ---
 
 ![Bild](images\fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")
@@ -507,15 +511,17 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
 ********************************************************************************
 
-### Welchen Nutzen hat Forschungsdatenmanagement?
+## ~~Think-Pair-Share~~: Welchen Nutzen hat Forschungsdatenmanagement?
 
 ![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
 
 **Tauschen Sie sich bitte kurz mit einer anderen teilnehmenden Person aus.**
 
-* Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen? Welchen Nutzen kann ein gutes Forschungsdatenmanagement darüber hinaus haben?
+* Welchen Nutzen kann ein gutes Forschungsdatenmanagement hinaus haben?
+* Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen?
 
-Sie werden für drei Minuten mit einem/einer Partner\*in in die Break-Out-Räume geschickt.
+Sie werden für fünf Minuten mit einem/einer Partner\*in in die Break-Out-Räume geschickt.
+Notieren Sie gerne Stichpunkte zu Ihrer Diskussion auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/  
 
 {{1}}
 ********************************************************************************
@@ -675,7 +681,14 @@ Beispiele für Benennungskonventionen:
 
 ********************************************************************************
 
-### Aktivität: Ordner- und Dateibenennung
+### ~~Einzelarbeit~~: Ordner- und Dateibenennung als e-Learning Baustein
+
+https://tinyurl.com/dateibenennung
+
+![Bild](images/Comic_Datenverlust_v2_2022_web.jpg "Illustration: Cleo Michelsen")
+
+
+### ~~Einzelarbeit~~: Dateibenennungskonvention für Abgaben
 
 <div style="text-align:center">
 ><p style="color:#9a047f">**Haben Sie sich schon mal über die Dateinamen von bei Ihnen eingereichten Hausarbeiten oder sonstigen abgabepflichtigen Aufgaben geärgert?**</p>
@@ -683,7 +696,7 @@ Beispiele für Benennungskonventionen:
 
 >**Einzelarbeit** (gerne auch in Partnerarbeit, falls Sie eine Veranstaltung gemeinsam durchführen)
 >
->Denken Sie bitte an eine Ihrer Lehrveranstaltungen, in der Studierende die Bearbeitung von Aufgaben in Form von Dateien bei Ihnen einreichen müssen. Bitte erstellen Sie eine Dateibenennungskonvention, die Ihren Studierenden vorgibt, in welcher Form die abzugebenden Dateien benannt werden sollen.
+>Denken Sie an eine Ihrer Lehrveranstaltungen, in der Studierende die Bearbeitung von Aufgaben in Form von Dateien bei Ihnen einreichen müssen. Erstellen Sie eine Dateibenennungskonvention, die Ihren Studierenden vorgibt, in welcher Form die abzugebenden Dateien benannt werden sollen.
 >
 >Bitte dokumentieren Sie in Form einer README-Datei
 >
@@ -691,17 +704,13 @@ Beispiele für Benennungskonventionen:
 >2. die zu benennenden, beschreibenden Namensaspekte und deren Reihenfolge sowie
 >3. die ggf. zu verwendenden Abkürzungen.  
 
-### e-Learning: Ordner- und Dateibenennung
+## Blended Learning   
 
-https://tinyurl.com/dateibenennung
+Das sogenannte Blended Learning verknüpft die beiden unterschiedlichen Lernformen (Präsenz- und E-Learning) zu einer Einheit mit dem Ziel, die Vorteile der jeweiligen Lernform einzubringen und die Nachteile der jeweils anderen Lernform zu kompensieren.
 
-![Bild](images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
+Ein e-Learning Baustein, wie das gezeigte Beispiel zu Ordnerstrukturen und Dateibenennung, oder sonstige elektronisch verfügbaren Lernressourcen können gut in asynchronen Phasen der Lehre zum Einsatz kommen. In Präsenzphasen kann das Gelernte wieder aufgegriffen, diskutiert und vertieft werden.
 
-## Asynchrone Lehre / Blended Learning  
-
-Ein e-Learning Baustein, wie das eben gezeigte Beispiel, oder sonstige Lernressourcen können gut in asynchronen Phasen der Lehre zum Einsatz kommen.
-
-Asynchrone Lehre, auch als Blended Learning bekannt, kann in verschiedenen Szenarien durchgeführt werden.
+Blended Learning kann in verschiedenen Szenarien durchgeführt werden.
 
 **Blended Learning Szenarien\* am Beispiel e-Learning Baustein Ordnung und Struktur:**
 
@@ -761,7 +770,7 @@ Komplexere Lerneinheiten können sich auch über die verschiedenen Phasen erstre
 {{0-1}}
 ********************************************************************************
 
-![Bild](images\versioning-geek-and-poke.jpg "https://geek-and-poke.com/, lizenced under CC-BY-3.0")
+![Bild](images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
 
 ********************************************************************************
 
@@ -791,7 +800,7 @@ Die Versionierung kann als Bestandteil des Dateinamens definiert werden und dabe
 * Beispiel für kleinere Änderungen = Beispieldatei\_v1.1 -> Beispieldatei\_v1.2
 * Beispiel für Major.Minor.Sub-Minor = Beispieldatei\_v0.1.0 -> Beispieldatei\_v0.1.1
 
-><p style="color:#9a047f">**Unspezifische Bezeichnungen bitte vermeiden!**</p>
+><p style="color:#9a047f">**Unspezifische Bezeichnungen vermeiden!**</p>
 >
 >* ~original1~
 >* ~neu~
@@ -847,7 +856,7 @@ Die am weitesten verbreiteten basieren auf dem Versionsverwaltungssystem Git und
 * Bitbucket: https://bitbucket.org
 * Gitea: https://gitea.io/en-us
 
-#### Gitlab RZ CAU
+### Gitlab RZ CAU
 
 > **Das Rechenzentrum betreibt einen zentral den Git-Dienst [Gitlab RZ CAU](https://cau-git.rz.uni-kiel.de/) für die Einrichtungen der CAU.**
 >
@@ -923,18 +932,18 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 ********************************************************************************
 
-## Reflexion
+### ~~Gruppenarbeit~~: Reflexion zur Integration in die Lehre
 
 >![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
 >
 >**Kleingruppenarbeit**
 >
->* Bitte tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrzusammenhänge die Thematisierung von Ordnerstrukturen, Dateibenennung und Dateiversionierung (einfach oder toolgestützt) integriert werden könnte.
->* Haben Sie Ideen für mögliche Aufgabenstellungen?
+>* Bitte tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrzusammenhänge die ***Thematisierung von Ordnerstrukturen, Dateibenennung und/oder die Dateiversionierung*** (einfach oder toolgestützt) integriert werden könnte.
+>* Brainstormen Sie zu möglichen Aufgabenstellungen.
 >
 >Sie haben zehn Minuten für den Austausch in den Break-Out-Räumen.
 >
->Bitte dokumentieren Sie Ihre Ideen auf dem Miro-Board:
+>Bitte dokumentieren Sie Ihre Ideen auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/
 
 
 ## Datendokumentation & Datenqualität
@@ -956,7 +965,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 ********************************************************************************
 
-### Aktivität - Datendokumentation & Datenqualität
+### ~~Gruppenarbeit~~: Datendokumentation & Datenqualität
 
 >![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
 >
@@ -966,10 +975,10 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 >
 >Bitte diskutieren Sie in Ihrer Gruppe:
 >
->* Welche zusätzlichen Informationen benötigen Sie, um mit diesem Datensatz arbeiten zu können?
+>* Welche Informationen benötigen Sie, um mit diesem Datensatz arbeiten zu können?
 >* Was fällt Ihnen hinsichtlich der Datenqualität an diesem Datensatz auf?
 >
->Notieren Sie die wichtigsten Punkte Ihrer Diskussion bitte auf dem Miro-Board:
+>Notieren Sie in Stichpunkten, welche Informationen in einer guten Datendokumentation enthalten sein sollten sowie die wichtigsten Punkte Ihrer Diskussionen zur Datenqualität auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/
 >
 >Die Excel-Datei Ihres Kollegen finden Sie hier: <A HREF="downloads/average_d.xlsx" download>average_d.xlsx</A> oder auf dem Miro-Board.
 
@@ -982,7 +991,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 * Datenstrukturen, Beziehungen zwischen Objekten
 * Wertebereiche, Qualitätskriterien, Gültigkeit
 * Änderungen im Projektverlauf, Versionierung
-* Informationen zum Zugang und Nutzungsbedingungen
+* Informationen zu Datenzugang und Nutzungsbedingungen
 
 ---
 
@@ -996,7 +1005,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 * Kodierung fehlende Werte / Gründe für fehlende Werte
 * Abgeleitete Daten, verwendete Algorithmen, Gewichtungen ...
 
-### Reflexion: Datendokumentation & Datenqualität
+### ~~Gruppenarbeit~~: Reflexion zur Integration in die Lehre
 
 >![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
 >
@@ -1028,16 +1037,15 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 ********************************************************************************
 
-### Aktivität: Datenformate
+### ~~Gruppenarbeit~~: Storytelling Datenformate
 
 >![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
 >
 >**Kleingruppenarbeit**
 >
->Entwickeln Sie in Ihrer Gruppe eine eigene kurze "Story" (in Stichworten), die die Bedeutung der Wahl von Dateiformaten in einem wissenschaftlichen oder hochschulbezogenen Kontext thematisiert und z. B. als Einstieg in eine Lerneinheit "Formate" dienen könnte.
+>Entwickeln Sie in Ihrer Gruppe eine eigene kurze "Story" (in Stichpunkten), die die Bedeutung der Wahl von Dateiformaten in einem wissenschaftlichen oder hochschulbezogenen Kontext thematisiert und z. B. als Einstieg in eine Lerneinheit "Formate" dienen könnte.
 
-
-## World-Café: Themen-Potpourri
+## ~~World-Café~~: Themen-Potpourri
 
 ![Bild](images/worldcafe.jpg)<!-- width="350px" align="right" -->
 
@@ -1079,15 +1087,15 @@ Bitte tauschen Sie sich zu Erfahrungen und Ideen für Möglichkeiten der Themati
 
 ********************************************************************************
 
-### Reflexion World-Café
+### ~~Reflexion~~: World-Café
 
->**Plenum**
+>**Diskussion im Plenum**
 >
 >Können Sie sich den Einsatz eines eigenen World-Cafés zum Themenbereich FDM in einer Ihrer Lehrveranstaltungen vorstellen?
 >
->Fallen Ihnen spontan mögliche Diskussionsthemen oder Aufgabenstellungen ein?
+>Fallen Ihnen spontan mögliche Diskussionsthemen zum Umgang mit Daten ein?
 
-## Gamification: Methoden und Materialien finden
+## ~~Gamification~~: Informationen, Forschungsdaten, Lehr-Lernmaterialien und -methoden finden
 
 {{0}}
 ********************************************************************************
@@ -1097,9 +1105,9 @@ Umgebungen (bspw. eine Lernplattform wie Open Olat) und Prozesse (wie das Lernen
 
 Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen neuer Level und/oder gestaffelter Ziele, Wettbewerb und Kooperation sowie das Erhalten von Auszeichnungen und anderen kleinen Belohnungen in z. B. Olat-Kursen.
 
---> Typische Spielprinzipien in das Lehrkonzept integrieren, um bspw. traditionelle und tendenziell passive Lernformen abzulösen bzw. aufzulockern.
+-> Typische Spielprinzipien in das Lehrkonzept integrieren, um bspw. traditionelle und tendenziell passive Lernformen abzulösen bzw. aufzulockern.
 
---> Die „gamifizierte“ Lehre verbindet die Vermittlung von Wissen mit Spaß und lohnenden Herausforderungen. Im Idealfall führt das zu einem höheren Maß an Motivation und Engagement der Studierenden.
+-> Die „gamifizierte“ Lehre verbindet die Vermittlung von Wissen mit Spaß und lohnenden Herausforderungen. Im Idealfall führt das zu einem höheren Maß an Motivation und Engagement der Studierenden.
 
 ********************************************************************************
 
@@ -1108,18 +1116,34 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 
 **Probieren wir es aus!**
 
->*Stellen Sie sich vor, Sie sind eine engagierte Lehrkraft an einer Hochschule und gerade dabei, das nächste Semester zu planen, als Sie eine E-Mail der Hochschulleitung erhalten. Ihnen wird mitgeteilt, dass Sie umgehend sämtliche Lehrveranstaltungen um FDM-Aspekte ergänzen müssen! Nach dem ersten Schock, Schweißausbrüchen und Schnappatmung fällt Ihnen die Legende von der geheimnisvollen digitalen Schatzkiste ein, in der Methoden und Materialien enthalten sein sollen, die immerhin als erste Grundlage dienen können. Sie machen sich auf die Suche und finden die geheimnisvolle Kiste tatsächlich versteckt in einem dunklen Olat-Kurswald. Doch, herrje! Was ist das? Die Kiste ist verschlossen und kann nur mit einem Passwort geöffnet werden…!*
+>*Stellen Sie sich vor, Sie sind eine engagierte Lehrkraft an einer deutschen Hochschule und gerade dabei, das nächste Semester zu planen, als Sie eine E-Mail der Hochschulleitung erhalten. Ihnen wird mitgeteilt, dass Sie umgehend sämtliche Lehrveranstaltungen um FDM-Aspekte ergänzen müssen! Nach einem ersten Schock und einigen Schweißausbrüchen fällt Ihnen die Legende von der geheimnisvollen digitalen Schatzkiste ein, in der Hinweise zu Fundorten für nachnutzbare Forschungsdaten sowie für Lehrmethoden und -materialien enthalten sein sollen. Möglicherweise könnte diese Kiste als erste Grundlage dienen...*
+>
+>*Sie machen sich auf die Suche und finden die geheimnisvolle Kiste tatsächlich versteckt in einem dunklen Olat-Kurswald. Doch, herrje! Was ist das? Die Kiste ist verschlossen und kann nur mit einem Passwort geöffnet werden…!*
 >
 >Und Ihnen bleiben nur 15 Minuten Zeit, die Rätsel zu lösen…
+>
+>**Gruppenarbeit**
+>
+>Lösen Sie die Aufgaben in folgendem Word-Dokument: <A HREF="downloads/2023_FDM_EscapeGame_Aufgaben.docx" download>2023\_FDM\_EscapeGame\_Aufgaben.docx</A>
+>
+>Mit dem ermittelten Passwort können Sie die Lösungsdatei öffnen: <A HREF="downloads/2023_FDM_EscapeGame_Lösungen.docx" download>2023\_FDM\_EscapeGame\_Lösungen.docx</A>
 
 ********************************************************************************
+
+### ~~Reflexion~~: Escape-Game
+
+>**Diskussion im Plenum**
+>
+>Können Sie sich die Entwicklung und den Einsatz eines eigenen Escape-Games oder anderer spielerischer Elemente zum Themenbereich FDM in eigenen Lehrveranstaltungen vorstellen?
+>
+>Welche spielerischen Elemente setzen Sie bereits in der Lehre ein? Können Sie Erfahrungen oder Empfehlungen hierzu teilen?
 
 # Aktuelle Entwicklungen / wichtige Player
 
 - **Forschungsförderer (DFG, BMBF, EU)** legen zunehmend Wert auf ein gutes Forschungsdatenmanagement und fordern z. B. den Nachweis entsprechender Planungen (DMPs).
 - **Aufbau einer Nationalen Forschungsdateninfrastruktur (NFDIs)**: Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kompetenz- und Infrastrukturnetzwerk, das die Bereitstellung und Erschließung von Forschungsdaten für die Wissenschaft sicherstellen soll.
 
-# Berufliche Perspektiven
+# Berufliche Perspektiven aufzeigen
 
 > Mit wissenschaftlicher Expertise ***und*** guten Kenntnissen im Bereich des Datenmanagements entstehen zusätzliche berufliche Perspektiven innerhalb der Fachwissenschaften sowie in zentralen Einrichtungen, wie Rechenzentren oder Universitätsbibliotheken zur Verfügung.
 >
@@ -1135,9 +1159,33 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 
 ** -> Welche Lehr-/Lernformate halten Sie für geeignet, Kompetenzen im Umgang mit digitalen Forschungsdaten zu erwerben?**
 
-# Feedback
+# Themen- und Vertiefungswünsche
 
-to do
+>**Gemeinschaftsarbeit im Plenum**
+>
+>Tragen Sie bitte Themen- und Vertiefungswünsche für zukünftige Workshops in das Miro-Board ein: https://miro.com/app/board/uXjVP0G7n2Y=/
+
+# ~~Fragen und Anmerkungen~~
+
+>Wir haben es fast geschafft!
+>
+>Haben Sie noch Fragen oder Anmerkungen?
+
+# ~~Einzelarbeit~~: One-Minute-Paper
+
+Nehmen Sie sich ein Blatt Papier und einen Stift oder erstellen Sie einen eigenes Pad, z. B. ein [ZUM-Pad](https://zumpad.zum.de/).
+
+Notieren Sie sich die für Sie wichtigsten Punkte unseres heutigen Workshops.
+
+Sie haben genau eine Minute Zeit.
+
+# ~~Feedback~~: Na, wie war´s?
+
+>![Bild](images\FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
+>
+>Sie haben heute Abend noch eine Verabredung mit einigen Freunden. Ihre Freunde erinnern sich daran, dass Sie heute an einem Workshop zum Thema Forschungsdatenmanagement teilgenommen haben und fragen: "Na, wie war's"?
+>
+>Was antworten Sie?
 
 # Herzlichen Dank!
 
