@@ -16,14 +16,14 @@ comment:  This document provides a brief introduction to research data managemen
 
 TinyURL zu dieser Präsentation:
 
-![Bild](images\fdm_lehre.png "Illustration: Cleo Michelsen")
+![Bild](images/fdm_lehre.png "Illustration: Cleo Michelsen")
 
 Zentrales Forschungsdatenmanagement, Britta Petersen (b.petersen@rz.uni-kiel.de) und Cleo Michelsen (michelsen@rz.uni-kiel.de)
 
 
 # Was sind Forschungsdaten?
 
-![Bild](images\FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
+![Bild](images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
 
 >**Lassen Sie uns kurz gemeinsam sammeln!**
 >
@@ -58,7 +58,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 {{3}}
 ********************************************************************************
 
-![Bild](images\forschungsdatenBSP.png) <!-- width="350px" align="right" -->
+![Bild](images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
 
 **Beispiele für Forschungsdaten**:
 
@@ -82,7 +82,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 # Was ist Forschungsdatenmanagement?
 
-![Bild](images\kurzberichte.png) <!-- width="250px" align="right" -->
+![Bild](images/kurzberichte.png) <!-- width="250px" align="right" -->
 
 **Tauschen Sie sich bitte kurz mit einer benachbarten Person aus.**
 
@@ -113,7 +113,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 
 {{1-2}}
 ********************************************************************************
-![Bild](images\Planung_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](images/Planung_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Planung**:
 
@@ -131,7 +131,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 
 {{2-3}}
 ********************************************************************************
-![Bild](images\erhebung-analyse_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](images/erhebung-analyse_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Erhebung und Analyse**:
 
@@ -147,7 +147,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 {{3-4}}
 ********************************************************************************
 
-![Bild](images\veroeffentl-archiv_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](images/veroeffentl-archiv_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Archivierung & Veröffentlichung**:
 
@@ -162,7 +162,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 {{4-5}}
 ********************************************************************************
 
-![Bild](images\nachnutzung-fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](images/nachnutzung-fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Nachnutzung**:
 
@@ -181,17 +181,17 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar halten.
 ---
 
-![Bild](images\fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")
+![Bild](images/fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")
 
 {{1}}
 ********************************************************************************
-![Bild](images\fair.jpg "Quelle: Pundir, Sangya https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg [letzter Zugriff: 25.11.2021], CC-BY-SA-4.0.")
+![Bild](images/fair.jpg "Quelle: Pundir, Sangya https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg [letzter Zugriff: 25.11.2021], CC-BY-SA-4.0.")
 
 ********************************************************************************
 
 # Welchen Nutzen hat Forschungsdatenmanagement?
 
->![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
+>![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
 >
 >Tauschen Sie sich kurz mit einer benachbarten Person aus.
 >
@@ -222,11 +222,11 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 https://tinyurl.com/dateibenennung
 
 
-![Bild](images\Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
+![Bild](images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
 
 # Organisation einer wissenschaftlichen Tagung
 
->![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
+>![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
 >
 >**Tauschen Sie sich kurz mit einer benachbarten Person aus.**
 >
