@@ -31,10 +31,14 @@ Zentrales Forschungsdatenmanagement, Britta Petersen (b.petersen@rz.uni-kiel.de)
 >
 >https://answergarden.ch/2992576 ![Bild](images/QR_anwergarden.png)
 ---
+{{1}}
+********************************************************************************
 
 <iframe src="https://answergarden.ch/2992576" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-{{1}}
+********************************************************************************
+
+{{2}}
 ********************************************************************************
 Die DFG schreibt hierzu:
 
@@ -44,7 +48,7 @@ Die DFG schreibt hierzu:
 
 ********************************************************************************
 
-{{2}}
+{{3}}
 ********************************************************************************
 
 Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge University den Begriff Forschungsadaten:
@@ -55,7 +59,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ********************************************************************************
 
-{{3}}
+{{4}}
 ********************************************************************************
 
 ![Bild](images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
