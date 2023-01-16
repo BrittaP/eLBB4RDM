@@ -12,7 +12,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 -->
 
-# Exkurs Forschungsdatenmanagement
+# Forschungsdatenmanagement
 
 TinyURL zu dieser Präsentation:
 
