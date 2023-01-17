@@ -12,11 +12,11 @@ comment:  This document provides a brief introduction to research data managemen
 
 -->
 
-# Train-the-lecturer Forschungsdatenmanagement
+# Train-the-Lecturer Forschungsdatenmanagement
 
-TinyURL zu dieser Präsentation:
+<center><img src="images/fdm_lehre.png" alt="people standing in front of " height="auto" width="auto"></center>
+(Illustration: Cleo Michelsen)
 
-<center><img src="images/fdm_lehre.png" alt="what image shows" height="auto" width="auto"></center>
 
 Zentrales Forschungsdatenmanagement, Britta Petersen, b.petersen@rz.uni-kiel.de
 
@@ -517,11 +517,11 @@ Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten la
 
 **Tauschen Sie sich bitte kurz mit einer anderen teilnehmenden Person aus.**
 
-* Welchen Nutzen kann ein gutes Forschungsdatenmanagement hinaus haben?
+* Welchen Nutzen/welche Vorteile kann ein gutes Forschungsdatenmanagement haben?
 * Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen?
 
 Sie werden für fünf Minuten mit einem/einer Partner\*in in die Break-Out-Räume geschickt.
-Notieren Sie gerne Stichpunkte zu Ihrer Diskussion auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/  
+Notieren Sie gerne Stichpunkte zu Ihrer Diskussion auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542714668208&cot=14
 
 {{1}}
 ********************************************************************************
@@ -703,6 +703,10 @@ https://tinyurl.com/dateibenennung
 >1. für welche Dateien Ihre Namenskonvention gilt,
 >2. die zu benennenden, beschreibenden Namensaspekte und deren Reihenfolge sowie
 >3. die ggf. zu verwendenden Abkürzungen.  
+>
+>Legen Sie sich ein eigenes zumpad für Ihre Dokumentation an: https://zumpad.zum.de/
+>
+>Posten Sie den Link zu Ihrem Dokument auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542714668602&cot=14
 
 ## Blended Learning   
 
@@ -837,7 +841,7 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 {{5}}
 ********************************************************************************
 
-**Beispiel dokumentiertes Versionierungsschema:**
+**Beispiel eines dokumentierten Versionierungsschemas:**
 
 ![Bild](images/OstData_Versionierungsschema.png)
 
@@ -943,7 +947,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 >
 >Sie haben zehn Minuten für den Austausch in den Break-Out-Räumen.
 >
->Bitte dokumentieren Sie Ihre Ideen auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/
+>Bitte dokumentieren Sie Ihre Ideen auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542717413738&cot=14
 
 
 ## Datendokumentation & Datenqualität
@@ -955,6 +959,36 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 {{1}}
 ********************************************************************************
 
+**Kurzer Rechercheauftrag**:
+
+Welche Leitlinie der **~~DFG Leitlinien zur guten wissenschaftlichen Praxis~~** beschäftigt sich mit der Dokumentation?
+
+********************************************************************************
+
+{{2}}
+********************************************************************************
+
+><p style="color:#9a047f">**Leitlinie 12: Dokumentation**
+„Wissenschaftlerinnen und Wissenschaftler dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können. […]“
+</p>
+>
+><P><SMALL>Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur guten wissenschaftlichen Praxis. Kodex. http://doi.org/10.5281/zenodo.3923602, S. 17.  
+</SMALL></P>
+
+********************************************************************************
+
+{{3}}
+********************************************************************************
+
+**Kurze Chatumfrage:**:
+
+Warum ist Datendokumentation wichtig?
+
+********************************************************************************
+
+{{4}}
+********************************************************************************
+
 >**Ohne Dokumentation laufen wir Gefahr**
 >
 >* Daten nicht wiederzufinden
@@ -962,6 +996,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 >* Daten wegen fehlender Kontextinformationen nicht mehr interpretieren zu können
 >* Dateien zu verwechseln (veraltete oder konkurrierende Versionen)
 >* Daten nicht mit anderen Personen austauschen oder mit Daten aus anderen Quellen zusammenführen zu können
+>* Zusammenarbeit zu erschweren.
 
 ********************************************************************************
 
@@ -978,7 +1013,8 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 >* Welche Informationen benötigen Sie, um mit diesem Datensatz arbeiten zu können?
 >* Was fällt Ihnen hinsichtlich der Datenqualität an diesem Datensatz auf?
 >
->Notieren Sie in Stichpunkten, welche Informationen in einer guten Datendokumentation enthalten sein sollten sowie die wichtigsten Punkte Ihrer Diskussionen zur Datenqualität auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/
+>Notieren Sie in Stichpunkten, welche Informationen in einer guten Datendokumentation enthalten sein sollten sowie die wichtigsten Punkte Ihrer Diskussionen zur Datenqualität auf dem Miro-Board:
+>https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542723643956&cot=14
 >
 >Die Excel-Datei Ihres Kollegen finden Sie hier: <A HREF="downloads/average_d.xlsx" download>average_d.xlsx</A> oder auf dem Miro-Board.
 
@@ -998,12 +1034,13 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 **Fokus Datenqualität**:
 
 * Erläuterung der verwendeten Terminologie, ggf. Definitionen / kontrollierten Vokabularen und Ontologien bzw. Thesauri
-* ggf. vordefinierte Wertebereiche, Format-vorgaben (z.B. Datum YYYY-MM-DD)
+* ggf. vordefinierte Wertebereiche, Format-Vorgaben (z.B. Datum YYYY-MM-DD)
 * Aussagekräftige Bezeichnungen von Spaltenköpfen (Sonderzeichen vermeiden)
 * Namen, Bezeichnungen für Variablen, Einheiten und ihre Werte dokumentieren
 * Erklärungen für Codes /Klassifikationsschemata
 * Kodierung fehlende Werte / Gründe für fehlende Werte
 * Abgeleitete Daten, verwendete Algorithmen, Gewichtungen ...
+* Innerhalb einer Zelle nicht mit Komma trennen -> Probleme bei der Umwandlung in csv.
 
 ### ~~Gruppenarbeit~~: Reflexion zur Integration in die Lehre
 
@@ -1014,6 +1051,7 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 >Diskutieren Sie in welchen Zusammenhängen Ihrer eigenen Lehre die Thematisierung der Aspekte Datendokumentation und Datenqualität sinnvoll und passend wäre.
 >
 >Brainstormen Sie zu möglichen Sensibilisierungsübungen und Aufgabenstellungen. Notieren Sie diese auf dem Miro-Board:
+>https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542724092914&cot=14
 
 ## Formate
 
@@ -1026,6 +1064,19 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 
 ********************************************************************************
+
+### ~~Partnerarbeit~~: Datenformate
+
+>![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
+>
+>**Partnerarbeit**
+>
+>Tauschen Sie sich mit Ihrem Partner zu Dateiformaten aus, mit denen Sie in Ihren Forschungs- und Lehrzusammenhängen arbeiten.
+>
+>* Mit welchen Dateiformaten arbeiten Sie?
+>* Welche Software wird benötigt, um die Formate zu lesen und zu bearbeiten?
+>* Welche Besonderheiten sind zu beachten?
+
 
 {{2}}
 ********************************************************************************
@@ -1044,6 +1095,8 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 >**Kleingruppenarbeit**
 >
 >Entwickeln Sie in Ihrer Gruppe eine eigene kurze "Story" (in Stichpunkten), die die Bedeutung der Wahl von Dateiformaten in einem wissenschaftlichen oder hochschulbezogenen Kontext thematisiert und z. B. als Einstieg in eine Lerneinheit "Formate" dienen könnte.
+>
+> Dokumentieren Sie auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542724517416&cot=14
 
 ## ~~World-Café~~: Themen-Potpourri
 
@@ -1077,13 +1130,13 @@ Nach Ablauf der vorgegebenen Diskussionszeit, Umsetzung der Gruppen durch „Ver
 
 Bitte tauschen Sie sich zu Erfahrungen und Ideen für Möglichkeiten der Thematisierung dieser Aspekte in Ihren Lehrveranstaltungen aus.
 
-**Tisch 2**: Welche Aspekte des **Datenschutzes**, der **guten wissenschaftlichen Praxis** und der **Forschungsethik** (sind für Ihre Studierenden relevant / kommen in Ihren Forschungs- und Lehrzusammenhängen zum Tragen?
+**Tisch 2**: Welche Aspekte des **Datenschutzes**, der **guten wissenschaftlichen Praxis** und der **Forschungsethik** sind für Ihre Studierenden relevant / kommen in Ihren Forschungs- und Lehrzusammenhängen zum Tragen?
 
-Bitte tauschen Sie sich zu Erfahrungen und Ideen für Möglichkeiten der Thematisierung dieser Aspekte in Ihren Lehrveranstaltungen aus.
+Bitte tauschen Sie sich zu Erfahrungen und Ideen für Möglichkeiten der Thematisierung dieser Aspekte sowie Einübung bestimmter Techniken, wie Anonymisierung/Pseudonymisierung in Ihren Lehrveranstaltungen aus.
 
 **Tisch 3**: Diskutieren Sie bitte, welche Kenntnisse und Fähigkeiten ihre Studierenden bzgl. der **Nachnutzung** und der **Publikation** von Forschungsdaten haben sollten.
 
-Bitte tauschen Sie sich zu Erfahrungen und Ideen für Möglichkeiten der Thematisierung dieser Aspekte in Ihren Lehrveranstaltungen aus.
+Bitte tauschen Sie sich zu Erfahrungen und Ideen für Möglichkeiten der Thematisierung  dieser Aspekte sowie Einübung bestimmter Techniken (z. B. Zitation, Recherchetechniken) in Ihren Lehrveranstaltungen aus.
 
 ********************************************************************************
 
@@ -1093,7 +1146,7 @@ Bitte tauschen Sie sich zu Erfahrungen und Ideen für Möglichkeiten der Themati
 >
 >Können Sie sich den Einsatz eines eigenen World-Cafés zum Themenbereich FDM in einer Ihrer Lehrveranstaltungen vorstellen?
 >
->Fallen Ihnen spontan mögliche Diskussionsthemen zum Umgang mit Daten ein?
+>Fallen Ihnen spontan mögliche Diskussionsthemen und Fragestellungen zum Umgang mit Daten ein?
 
 ## ~~Gamification~~: Informationen, Forschungsdaten, Lehr-Lernmaterialien und -methoden finden
 
@@ -1126,7 +1179,7 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 >
 >Lösen Sie die Aufgaben in folgendem Word-Dokument: <A HREF="downloads/2023_FDM_EscapeGame_Aufgaben.docx" download>2023\_FDM\_EscapeGame\_Aufgaben.docx</A>
 >
->Mit dem ermittelten Passwort können Sie die Lösungsdatei öffnen: <A HREF="downloads/2023_FDM_EscapeGame_Lösungen.docx" download>2023\_FDM\_EscapeGame\_Lösungen.docx</A>
+>Mit dem ermittelten Passwort können Sie die Schatzkiste öffnen: <A HREF="downloads\2023_FDM_EscapeGame_Schatzkiste.docx" download>2023\_FDM\_EscapeGame\_Schatzkiste.docx</A>
 
 ********************************************************************************
 
@@ -1163,7 +1216,7 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 
 >**Gemeinschaftsarbeit im Plenum**
 >
->Tragen Sie bitte Themen- und Vertiefungswünsche für zukünftige Workshops in das Miro-Board ein: https://miro.com/app/board/uXjVP0G7n2Y=/
+>Tragen Sie bitte Themen- und Vertiefungswünsche für zukünftige Workshops in das Miro-Board ein: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764543457520234&cot=14
 
 # ~~Fragen und Anmerkungen~~
 
