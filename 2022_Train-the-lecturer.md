@@ -1042,6 +1042,35 @@ Warum ist Datendokumentation wichtig?
 * Abgeleitete Daten, verwendete Algorithmen, Gewichtungen ...
 * Innerhalb einer Zelle nicht mit Komma trennen -> Probleme bei der Umwandlung in csv.
 
+### Dokumentationsformen
+
+Folgende Dokumentationsformen kommen für eine Datendokumentation in Betracht:
+
+* README Files
+* Data Dictionaries
+* Codebooks
+* Electronic Lab Notebooks
+* Artikel in einem Data Journal
+
+{{1}}
+********************************************************************************
+
+Beispiel für eine Readme-Vorlage:
+https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
+
+![Bild](images\datendoku_readme-beispiel.png)
+
+********************************************************************************
+
+{{2}}
+********************************************************************************
+
+Beispiele für Data Dictionary und Codebook
+
+![Bild](images\datendoku_dictionary-codebook.png)
+
+********************************************************************************
+
 ### ~~Gruppenarbeit~~: Reflexion zur Integration in die Lehre
 
 >![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
@@ -1193,8 +1222,70 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 
 # Aktuelle Entwicklungen / wichtige Player
 
-- **Forschungsförderer (DFG, BMBF, EU)** legen zunehmend Wert auf ein gutes Forschungsdatenmanagement und fordern z. B. den Nachweis entsprechender Planungen (DMPs).
-- **Aufbau einer Nationalen Forschungsdateninfrastruktur (NFDIs)**: Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kompetenz- und Infrastrukturnetzwerk, das die Bereitstellung und Erschließung von Forschungsdaten für die Wissenschaft sicherstellen soll.
+{{0-2}}
+********************************************************************************
+
+**Forschungsförderer** legen zunehmend Wert auf ein gutes Forschungsdatenmanagement und fordern bei Forschungsanträgen z. B. den Nachweis von Planungen (DMPs) zum Umgang mit Daten.
+
+********************************************************************************
+
+{{1-2}}
+********************************************************************************
+
+---
+
+![Bild](images/dfg_logo_schriftzug_blau.jpg) <!-- width="100px" align="right" -->
+
+**Deutsche Forschungsgemeinschaft (DFG)**:
+
+Als größter Forschungsförderer in Deutschland hat sich die **DFG** mit dem Thema Forschungsdatenmanagement auseinandergesetzt. 2015 wurden die [DFG-Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/) veröffentlicht und ist durch fachspezifische Empfehlungen ergänzt. Der neue [Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis"](https://wissenschaftliche-integritaet.de/kodex/) geht an vielen Stellen auf ***FAIR & Open Data*** ein.
+
+---
+![Bild](images/BMBF-logo.png) <!-- width="150px" align="right" -->
+
+Das **Bundesministerium für Bildung und Forschung (BMBF)**:
+
+Als einer der Förderer und Initiatoren der Nationalen Forschungsdateninfrastruktur verlangt das BMBF in den Richtlinien zur Förderung eine Datenmanagementplanung, wobei die Vorlagen hierzu variieren.
+
+---
+
+![Bild](images/European-Commission-logo.png) <!-- width="150px" align="right" -->
+
+**Europäische Kommission (EC):**
+
+Im Rahmenprogramm Horizon 2020 wurden erstmals die Anforderungen an das Forschungsdatenmanagement im Open Data Pilot formuliert. Seit 2017 ist die Beteiligung am Open Data Pilot und somit das Datenmanagement nach den FAIR-Data-Prinzipien (findable, accessible, interoperable and reusable) mit einer mehrstufigen Datenmanagementplanung und der Veröffentlichung unter Open Access der Standard. Das gilt auch für das aktuelle [Rahmenprogramm Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf).
+
+********************************************************************************
+
+{{2-3}}
+********************************************************************************
+
+---
+
+![Bild](images/nfdi_logo.png) <!-- width="150px" align="right" -->
+
+**Nationale Forschungsdateninfrastruktur (NFDIs)**:
+
+Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kompetenz- und Infrastrukturnetzwerk, das die Bereitstellung und Erschließung von Forschungsdaten für die Wissenschaft sicherstellen soll.
+
+[**NFDI e. V.**](https://www.nfdi.de/)
+
+![Bild](images/screenshot_nfdi.jpg)
+
+********************************************************************************
+
+{{3}}
+********************************************************************************
+
+---
+
+**Kurzer Rechercheauftrag**:
+
+Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
+
+[**NFDI e. V.**](https://www.nfdi.de/)
+
+********************************************************************************
 
 # Berufliche Perspektiven aufzeigen
 
