@@ -12,20 +12,42 @@ comment:  This document provides a brief introduction to research data managemen
 
 -->
 
+>**Britta Petersen, Cleo Michelsen**
+>
+>Central Research Data Management of Kiel University
+>
+>**Disclaimer**: Please note that you are leaving the CAU pages once you open this presentation in your brwoser. This presentation includes links to other third party websites and services. When you click on these links you will leave this presentation and will be redirected to respective another site. These sites are not under our control.
+>
+>RDM@CAU is not responsible for the content of linked third party websites. Please be aware that the security and privacy policies on these sites may be different than CAU policies, so please read third party privacy and security policies closely.
+>
+> To see this document as an interactive LiaScript rendered version, click on the
+> following link/badge:
+>
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://cau-git.rz.uni-kiel.de/fdm/schulungen/git-einfuehrung/-/raw/main/course.md)
+>
+> If you need help, feel free to ask us any questions:
+>
+> [b.petersen@rz.uni-kiel.de](mailto:b.petersen@rz.uni-kiel.de)
+>
+> ____________________________________________
+>
+> ![ccby](images/ccby.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/) with exception of the used material from other copyright holders.
+
 # Forschungsdatenmanagement
 
-TinyURL zu dieser Präsentation:
+TinyURL zu dieser Präsentation: https://tinyurl.com/FDM-biol-116
 
-![Bild](images/fdm_lehre.png "Illustration: Cleo Michelsen")
-
-Zentrales Forschungsdatenmanagement, Britta Petersen (b.petersen@rz.uni-kiel.de) und Cleo Michelsen (michelsen@rz.uni-kiel.de)
-
+<center><img src="images/fdm_lehre.png" alt="teaching RDM" height="150" width="200"></center>
+<sup>Illustration: Cleo Michelsen</sup>
 
 # Was sind Forschungsdaten?
 
-![Bild](images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
-
 >**Lassen Sie uns kurz gemeinsam sammeln!**
+>![image](images/kurzberichte.png)<!--
+style="width: 20%; max-width: 800px; float:right"
+title="working"
+onclick="alert('Group work');"
+-->
 >
 >* Welche Beispiele für Forschungsdaten können Sie nennen?
 >
@@ -195,9 +217,12 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
 # Welchen Nutzen hat Forschungsdatenmanagement?
 
->![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
->
->Tauschen Sie sich kurz mit einer benachbarten Person aus.
+>**Tauschen Sie sich kurz mit einer benachbarten Person aus.**
+>![image](images/kurzberichte.png)<!--
+style="width: 20%; max-width: 800px; float:right"
+title="working"
+onclick="alert('Group work');"
+-->
 >
 >* Welchen Nutzen kann ein gut strukturiertes Datenmanagement für die eigene Forschung wie für die Wissenschaft insgesamt haben?
 >* Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen?
