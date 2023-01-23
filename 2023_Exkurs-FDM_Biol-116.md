@@ -39,8 +39,8 @@ comment:  This document provides a brief introduction to research data managemen
 
 TinyURL zu dieser Präsentation: https://tinyurl.com/FDM-biol-116
 
-<center><img src="images/fdm_lehre.png" alt="teaching RDM" height="150" width="200"></center>
-<sup>Illustration: Cleo Michelsen</sup>
+<center><img src="images/fdm_lehre.png" alt="teaching RDM" height="300">
+<sup>Illustration: Cleo Michelsen</sup></center>
 
 # Was sind Forschungsdaten?
 
