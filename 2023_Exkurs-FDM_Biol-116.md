@@ -49,7 +49,7 @@ TinyURL zu dieser Präsentation: https://tinyurl.com/FDM-biol-116
 
 # Was sind Forschungsdaten?
 
->![Bild](images/QR_anwergarden.png) <!-- style="width: 20%; float:right" -->
+>![Bild](images/QR_anwergarden.png) <!-- style="width: 10%; float:right" -->
 >
 >**Lassen Sie uns kurz gemeinsam sammeln!**
 >
