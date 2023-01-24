@@ -39,30 +39,31 @@ comment:  This document provides a brief introduction to research data managemen
 
 TinyURL zu dieser Präsentation: https://tinyurl.com/FDM-biol-116
 
-<center><img src="images/fdm_lehre.png" alt="teaching RDM" height="300">
-<sup>Illustration: Cleo Michelsen</sup></center>
+<div style="center; width:60%;">
+  <img src="images/fdm_lehre.png" alt="teaching rdm">
+    <sub style="text-align: center;">Illustration: Cleo Michelsen</sub>
+</div>
+
+
+
 
 # Was sind Forschungsdaten?
 
+>![Bild](images/QR_anwergarden.png) <!-- style="width: 20%; float:right" -->
+>
 >**Lassen Sie uns kurz gemeinsam sammeln!**
->![image](images/kurzberichte.png)<!--
-style="width: 20%; max-width: 800px; float:right"
-title="working"
-onclick="alert('Group work');"
--->
 >
 >* Welche Beispiele für Forschungsdaten können Sie nennen?
 >
->https://answergarden.ch/2992576 ![Bild](images/QR_anwergarden.png)
+>https://answergarden.ch/2992576
+>
+> Sie dürfen so viele Begriffe eingeben, wie Sie möchten.
+
 ---
-{{1}}
-********************************************************************************
 
 <iframe src="https://answergarden.ch/2992576" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-********************************************************************************
-
-{{2}}
+{{1}}
 ********************************************************************************
 Die DFG schreibt hierzu:
 
@@ -72,7 +73,7 @@ Die DFG schreibt hierzu:
 
 ********************************************************************************
 
-{{3}}
+{{2}}
 ********************************************************************************
 
 Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge University den Begriff Forschungsadaten:
@@ -83,10 +84,10 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ********************************************************************************
 
-{{4}}
+{{3}}
 ********************************************************************************
 
-![Bild](images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
+![Bild](images\forschungsdatenBSP.png) <!-- width="350px" align="right" -->
 
 **Beispiele für Forschungsdaten**:
 
@@ -110,7 +111,11 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 # Was ist Forschungsdatenmanagement?
 
-![Bild](images/kurzberichte.png) <!-- width="250px" align="right" -->
+![Bild](images\kurzberichte.png) <!--
+style="width: 20%; max-width: 800px; float:right"
+title="Zusammenarbeit"
+onclick="alert('Let´s work together!');"
+-->
 
 **Tauschen Sie sich bitte kurz mit einer benachbarten Person aus.**
 
@@ -129,29 +134,37 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 # Der Forschungsdatenlebenszyklus
 
-{{0-1}}
-********************************************************************************
-
 Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entlang des Forschungsdatenlebenszyklus...
 
-![Bild](images/FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen")
+<center>
+{{0-1}}
+************
+
+![RD-Lifecyrcle](images\FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
 
 
-********************************************************************************
+************
+</center>
+
 
 {{1-2}}
 ********************************************************************************
-![Bild](images/Planung_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](images\Planung_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Planung**:
 
-* Auf welche Weise entstehen neue Daten?
 * Werden Daten wiederverwendet?
-* Welche Datentypen, im Sinne von Datenformaten (z. B. Bilddaten, Textdaten oder Messdaten in Tabellen) entstehen?
-* Welche Analysen sind geplant?
+* Brauche ich eine Erlaubnis, um die Daten nachzunutzen oder zu erheben?
+* Wem gehören die Daten, die ich erhebe?
+* Welche Erhebungsmethode ist angemessen?
+* Welche Datendokumentation ist angemessen und notwendig?
 * Welches Datenvolumen ist zu erwarten?
-* Welche rechtlichen und ethischen Aspekte müssen berücksichtigt werden?
+* Welche Datentypen, im Sinne von Datenformaten (z. B. Bilddaten, Textdaten oder Messdaten in Tabellen) entstehen?
+* Wie sieht eine sichere Datenaufbewahrung aus?
+* Wer hat Zugang zu meinen Daten?
 * Wer ist verantwortlich?
+* Welche Rechte habe ich, um die Daten zu publizieren?
+
 
 ---
 
@@ -159,11 +172,11 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 
 {{2-3}}
 ********************************************************************************
-![Bild](images/erhebung-analyse_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](images\erhebung-analyse_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Erhebung und Analyse**:
 
-* Welche Ansätze werden verfolgt, um die Daten nachvollziehbar zu dokumentieren?
+* Welche Ansätze werden verfolgt, um die Daten kontinuierlich nachvollziehbar zu dokumentieren?
 * Welche Maßnahmen werden getroffen, um eine hohe Qualität der Daten zu gewährleisten?
 * Welche digitalen Methoden und Werkzeuge (z. B. Software) sind zur Nutzung und Analyse der Daten erforderlich?
 * Auf welche Weise werden die Daten während der Projektlaufzeit gespeichert und gesichert?
@@ -175,7 +188,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 {{3-4}}
 ********************************************************************************
 
-![Bild](images/veroeffentl-archiv_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](images\veroeffentl-archiv_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Archivierung & Veröffentlichung**:
 
@@ -190,7 +203,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 {{4-5}}
 ********************************************************************************
 
-![Bild](images/nachnutzung-fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](images\nachnutzung-fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Nachnutzung**:
 
@@ -209,27 +222,24 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar halten.
 ---
 
-![Bild](images/fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")
+![Bild](images\fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).") <!-- width="500px" -->
 
 {{1}}
 ********************************************************************************
-![Bild](images/fair.jpg "Quelle: Pundir, Sangya https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg [letzter Zugriff: 25.11.2021], CC-BY-SA-4.0.")
+![Bild](images\fair.jpg "Quelle: Pundir, Sangya https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg [letzter Zugriff: 25.11.2021], CC-BY-SA-4.0.")
 
 ********************************************************************************
 
 # Welchen Nutzen hat Forschungsdatenmanagement?
 
+>![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
+>
 >**Tauschen Sie sich kurz mit einer benachbarten Person aus.**
->![image](images/kurzberichte.png)<!--
-style="width: 20%; max-width: 800px; float:right"
-title="working"
-onclick="alert('Group work');"
--->
 >
 >* Welchen Nutzen kann ein gut strukturiertes Datenmanagement für die eigene Forschung wie für die Wissenschaft insgesamt haben?
 >* Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen?
 
-{{1}}
+{{1-2}}
 ********************************************************************************
 >**Gutes Forschungsdatenmanagement trägt bei zu...**
 >
@@ -247,17 +257,85 @@ onclick="alert('Group work');"
 
 ********************************************************************************
 
-# Dateibenennung: Ein erster Schritt
----
+{{2}}
+********************************************************************************
+
+**Kurzer Rechercheauftrag**:
+
+Welche Leitlinie der **~~DFG Leitlinien zur guten wissenschaftlichen Praxis~~** beschäftigt sich mit der Dokumentation?
+
+********************************************************************************
+
+{{3}}
+********************************************************************************
+
+><p style="color:#9a047f">**Leitlinie 12: Dokumentation**
+„Wissenschaftlerinnen und Wissenschaftler dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können. […]“
+</p>
+>
+><P><SMALL>Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur guten wissenschaftlichen Praxis. Kodex. http://doi.org/10.5281/zenodo.3923602, S. 17.  
+</SMALL></P>
+
+********************************************************************************
+
+
+# Erste Schritte im FDM
+
+<div style="text-align:center">
+><p style="color:#9a047f">**Es mag banal erscheinen, aber eine strukturierte Ordner- und Dateibenennung ist ein erster Schritt im Forschungsdatenmanagement!**</p>
+</div>
+
+<center><img src="images/naming-data-comic.png" alt="wild file names" height="150" width="200"></center>
+
+<div style="text-align:center">
+<P><SMALL>https://xkcd.com/1459. Shared under CC-BY-NC License</SMALL></P>
+</div>
+
+## Ordnung und Struktur
 
 https://tinyurl.com/dateibenennung
 
 
-![Bild](images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
+![Bild](images\Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
+
+## Literaturverwaltung
+
+Eine **Literaturverwaltungssoftware** hilft Ihnen, die für Ihre Arbeiten genutzten Quellen zu verwalten!
+
+{{1}}
+***
+Das Rechenzentrum stellt Ihnen eine Citavi-Campuslizenz zur Verfügung:
+
+![Bild](images\citavi-RZ.jpg)
+
+https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi
+
+***
+
+{{2}}
+***
+An der Universitätsbibliothek finden Sie Kurse zu citavi sowie verschiedenes Selbstlernmaterial:
+
+![Bild](images\citavi-UB.jpg)
+
+https://www.ub.uni-kiel.de/de/beratung-kurse/Kurse/c3-12.html
+
+***
+
+## opendata@uni-kiel.de
+
+Für die Publikation von Daten, für die es keinen fachspezifischen Speicherort gibt, kann das Open-Data-Portal der CAU genutzt werden.
+
+Sie schreiben bald eine Bachelorarbeit.
+
+Denken Sie jetzt schon daran, wie Sie Ihre Daten nachhaltig aufbewahren können: https://opendata.uni-kiel.de
+
+![Bild](images/open-data-kiel.png)
+
 
 # Organisation einer wissenschaftlichen Tagung
 
->![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
+>![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
 >
 >**Tauschen Sie sich kurz mit einer benachbarten Person aus.**
 >
@@ -408,6 +486,8 @@ Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kom
 > * Data Collector
 >
 > Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich.
+>
+>Ein Beispiel für eine entsprechende Stellenausschreibung finden Sie hier: https://www.pse.kit.edu/karriere/joboffer.php?id=101826&new=true
 
 
 ** -> Welche Lehr-/Lernformate halten Sie für geeignet, Kompetenzen im Umgang mit digitalen Forschungsdaten zu erwerben?**
@@ -418,4 +498,6 @@ Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kom
 
 ![Bild](images\rdmCAU.png) <!-- width="250px" align="right" -->
 
-Mehr zum FDM an der CAU finden Sie hier: https://www.fdm.uni-kiel.de/de
+Mehr zum FDM an der CAU finden Sie hier:
+
+https://www.fdm.uni-kiel.de/de
