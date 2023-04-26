@@ -42,7 +42,7 @@ Britta Petersen (RZ CAU) und Richard Diebel (UB CAU)
 
 >* Beide Projekte sind gefördert vom im Rahmen des [CAU Programms für digitale Lehre 2021-2023](https://www.qe.uni-kiel.de/de/lehrentwicklung/programm-fuer-die-digitale-lehre-2021-2023/programm-fuer-die-digitale-lehre-2021-2023)
 >
-> Laufzeit: 1. Juni 2021 31.12.2023
+>* Laufzeit: 1. Juni 2021 31.12.2023
 >
 >* **Projekt 1** -> generische Ausrichtung
 >
