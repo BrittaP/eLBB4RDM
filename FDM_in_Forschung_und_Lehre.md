@@ -25,6 +25,7 @@ tags:     Forschungsdaten, Forschungsdatenmanagement, FDM, e-Learning, digitale 
 
 Britta Petersen (RZ CAU) und Richard Diebel (UB CAU)
 
+<div style="page-break-after: always;"></div>
 
 # e-Learning Bausteine zu FDM und Digital Literacy an der CAU
 
@@ -50,7 +51,7 @@ Britta Petersen (RZ CAU) und Richard Diebel (UB CAU)
 >
 >* **In der Praxis**: Nutzung gemeinsamer technischer Grundlagen und Infrastrukturen, kontinuierlicher Austausch und Absprachen, gemeinsame Entwicklung von Materialien und Lehrveranstaltungskonzepten
 
-
+<div style="page-break-after: always;"></div>
 
 # Ziele des Projektes elBB4RDM
 
@@ -63,6 +64,8 @@ Britta Petersen (RZ CAU) und Richard Diebel (UB CAU)
 * Entwicklung von didaktischem Begleitmaterial: Beschreibung von möglichen Einsatzszenarien, Anregungen für fachspezifische Ergänzungsmöglichkeiten (z. B. Aufgabenstellungen, Anwendungsbeispiele)  
 * Dissemination von Ergebnissen und Erfahrungen
 * Bereitstellung entwickelter Materialien als OER
+
+<div style="page-break-after: always;"></div>
 
 # Beteiligte am Projekt elBB4RDM
 
@@ -108,9 +111,13 @@ Britta Petersen (RZ CAU) und Richard Diebel (UB CAU)
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 # eLBB4RDM-Ansatz: Bausteinsystem
 
 ![Bild](images/elBB4RDM_Bausteinsystem.png) <!-- width="80%" -->
+
+<div style="page-break-after: always;"></div>
 
 # Aktivitäten eLBB4RDM
 
@@ -149,6 +156,8 @@ Britta Petersen (RZ CAU) und Richard Diebel (UB CAU)
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 {{2-3}}
 ********************************************************************************
 
@@ -185,15 +194,17 @@ Britta Petersen (RZ CAU) und Richard Diebel (UB CAU)
 * Beteiligung an der Erarbeitung der "Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) für die Zielgruppen Studierende, PhDs und Data Stewards": https://zenodo.org/record/7034478#.Y2zr7XbMJPY
 * Gemeinsame Veranstaltung beider Projekte: Sprechstunde zum Datenmanagement in Studium, Lehre und Forschung - Modulare Lehrbausteine in LiaScript im Rahmen der LoveDataWeek 2023
 
-
-
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 ## Evaluation Pilotmaterial
 
 Rückmeldungen zum Baustein "Forschungsdaten ordnen und strukturieren"
 
 ![Bild](images/SS_2022_Feedback_OrdnungundStruktur.png)
+
+<div style="page-break-after: always;"></div>
 
 ### Offene Rückmeldungen: Hilfreiche Inhalte
 
@@ -205,6 +216,8 @@ Rückmeldungen zum Baustein "Forschungsdaten ordnen und strukturieren"
 - Die Hinweise, wie vermieden werden kann eine Hausarbeit kurz vor Abgabe zu löschen, waren sehr hilfreich und haben mich zum Nachdenken angeregt. Der Baustein hat mich motiviert meine Datensicherungen zu checken und zu überarbeiten.
 - Insbesondere die Strukturierung von Hausarbeiten etc., da ich selbst öfter mal das Problem hatte nicht die richtige finale Arbeit abgeschickt zu haben, weil ich nicht richtig geordnet habe.
 - Die Quizfragen und das Arbeitsmaterial am Ende des Kurses.
+
+<div style="page-break-after: always;"></div>
 
 ### Offene Rückmeldungen: Verbesserungsvorschläge
 
@@ -218,6 +231,8 @@ Rückmeldungen zum Baustein "Forschungsdaten ordnen und strukturieren"
 - Eventuell ein bisschen weniger Umfang oder eine abschließende kurze Zusammenfassung mit den wichtigsten Punkten (muss auch nicht ausführlich sein).
 - Weniger kleinschrittig
 
+<div style="page-break-after: always;"></div>
+
 # Technische Umsetzung
 
 {{1}}
@@ -227,12 +242,16 @@ Rückmeldungen zum Baustein "Forschungsdaten ordnen und strukturieren"
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 {{2}}
 ********************************************************************************
 **LiaScript**: https://liascript.github.io/
 ![Bild](images/LiascriptScreenshot.png)
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 # Einbindungsmöglichkeiten in Olat
 
@@ -244,12 +263,16 @@ Rückmeldungen zum Baustein "Forschungsdaten ordnen und strukturieren"
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 {{1-2}}
 ********************************************************************************
 
 ![Bild](images/Olat_Scorm.png)
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{2-3}}
 ********************************************************************************
@@ -258,12 +281,16 @@ Rückmeldungen zum Baustein "Forschungsdaten ordnen und strukturieren"
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 {{3-4}}
 ********************************************************************************
 
 ![Bild](images/Olat_web.png)
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 # Teil II - Beispiel
 
@@ -279,6 +306,7 @@ Rückmeldungen zum Baustein "Forschungsdaten ordnen und strukturieren"
 - ca. 4.700 Studierende (BA + MA) Geschichte und Germanistik
 - Lehrende der Fachdisziplinen Geschichte und Germanistik
 
+<div style="page-break-after: always;"></div>
 
 ## Bausteine
 
@@ -298,11 +326,15 @@ Rückmeldungen zum Baustein "Forschungsdaten ordnen und strukturieren"
 - Einführung in TEI XML
 - Datenbanken in der Germanistik
 
+<div style="page-break-after: always;"></div>
+
 ## Digitale Editionen
 
 Ergänzt die fachwissenschaftliche Lehre mit einer Einführung in digitale Editionen: Einführung, Definition, Paradigmen und Technologien
 
 ![Bild](images/Editionen.png)
+
+<div style="page-break-after: always;"></div>
 
 ## Einführung in TEI XML
 
@@ -312,11 +344,15 @@ Führt in XML und TEI ein. In der praktische Übung wird ein mittelhochdeutscher
 
 ![Bild](images/browseransicht.png)
 
+<div style="page-break-after: always;"></div>
+
 ## Datenbanken
 
 Erklärt grundsätzliche Aspekte von Datenbanken und führt in wichtige Datenbanken der germanistischen Mediävistik ein.
 
 ![Bild](images/Lexer.png)
+
+<div style="page-break-after: always;"></div>
 
 ## Perspektive
 
@@ -332,14 +368,16 @@ Erklärt grundsätzliche Aspekte von Datenbanken und führt in wichtige Datenban
 - Literaturverwaltung
 - Open Access
 
-# Interessierte willkommen!
+<div style="page-break-after: always;"></div>
 
+# Interessierte willkommen!
 
 ![Bild](images/kurzberichte.png) <!-- width="100px" align="right" -->
 
 > Menschen, die Interesse der Nutzung unserer Bausteine, an der Mit- und Weiterentwicklung von Materialien und/oder weiteren Austausch haben, sind sehr herzlich willkommen!
 >
 >**b.petersen@rz.uni-kiel.de**
+>
 >**diebel@ub.uni-kiel.de**
 
 
