@@ -105,11 +105,18 @@ Zentrales Forschungsdatenmanagement, Britta Petersen, b.petersen@rz.uni-kiel.de
 {{11-12}}
 ********************************************************************************
 
-><p style="color:#9a047f">Ich arbeite im medizinischen Bereich.</p>
+><p style="color:#9a047f">Ich habe schon hoschuldidaktische Veranstaltungen besucht.</p>
 
 ********************************************************************************
 
 {{12-13}}
+********************************************************************************
+
+><p style="color:#9a047f">Ich arbeite im medizinischen Bereich.</p>
+
+********************************************************************************
+
+{{13-14}}
 ********************************************************************************
 
 ><p style="color:#9a047f">In meinen Lehrveranstaltungen wird programmiert.</p>
@@ -210,7 +217,7 @@ Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine d
 
 ## Motivation & Aktivierung
 
-{{0-3}}
+{{0-2}}
 ********************************************************************************
 
 **Die Motivation von Lernenden wird von der Erfüllung bestimmter Bedürfnisse bestimmt:**
@@ -220,18 +227,11 @@ Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine d
 {{1-2}}
 ********************************************************************************
 
-![Bild](images\motivation_decyRyan.png "Motivation-bestimmende Bedürfnisse nach Deci & Ryan 1993")
+![Bild](images/motivation_decyRyan_2.png "Motivation-bestimmende Bedürfnisse nach Deci & Ryan 1993")
 
 ********************************************************************************
 
-{{2-3}}
-********************************************************************************
-
-![Bild](images\motivation_decyRyan_2.png "Motivation-bestimmende Bedürfnisse nach Deci & Ryan 1993")
-
-********************************************************************************
-
-{{3-9}}
+{{3-4}}
 ********************************************************************************
 
 **Aktivierung von Lernenden wirkt sich lernförderlich aus:**
@@ -239,28 +239,7 @@ Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine d
 
 ********************************************************************************
 
-{{4-5}}
-********************************************************************************
-
-![Bild](images/aktivierungsgrade_1.png "Nach Beege, B. & Antosch-Bardohn (2020)")
-
-********************************************************************************
-
-{{5-6}}
-********************************************************************************
-
-![Bild](images/aktivierungsgrade_2.png "Nach Beege, B. & Antosch-Bardohn (2020)")
-
-**********************
-
-{{6-7}}
-********************************************************************************
-
-![Bild](images/aktivierungsgrade_3.png "Nach Beege, B. & Antosch-Bardohn (2020)")
-
-**********************
-
-{{7-8}}
+{{4}}
 ********************************************************************************
 
 ![Bild](images/aktivierungsgrade_4.png "Nach Beege, B. & Antosch-Bardohn (2020)")
@@ -273,7 +252,7 @@ Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine d
 ********************************************************************************
 **Die 3-Z-Regel:**
 
-![Bild](images\3Z-Regel.png "Nach Katarzyna Biernacka, Dr. Dominika Dolzycka, Kerstin Helbig, Petra Buchholz")
+![Bild](images/3Z-Regel.png "Nach Katarzyna Biernacka, Dr. Dominika Dolzycka, Kerstin Helbig, Petra Buchholz")
 
 ********************************************************************************
 
@@ -288,7 +267,7 @@ Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine d
 
 # Forschungsdatenmanagement in der Lehre
 
-![Bild](images\FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
+![Bild](images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
 
 **Warum sollten wir den Themenkomplex FDM in die Lehre integrieren?**
 
@@ -299,37 +278,16 @@ Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine d
 {{1-2}}
 ********************************************************************************
 
-![Bild](images\FDMArgumente_1.png)
+![Bild](images/FDMArgumente_4.png)
 
 ********************************************************************************
 
-{{2-3}}
-********************************************************************************
-
-![Bild](images\FDMArgumente_2.png)
-
-********************************************************************************
-
-{{3-4}}
-********************************************************************************
-
-![Bild](images\FDMArgumente_3.png)
-
-********************************************************************************
-
-{{4}}
-********************************************************************************
-
-![Bild](images\FDMArgumente_4.png)
-
-********************************************************************************
-
-{{5}}
+{{2}}
 ********************************************************************************
 
 Es existieren auch Forderungen von Studierendenseite:
 
-![Bild](images\FDMArgumente_Studis.png "Positionspapier Digitalisierung des Studierendenpartlamentes der CAU 2020; Positionspapier zu FAIR und OPEN Data der Zusammenkunft aller Physik-Fachschaften 2020")
+![Bild](images/FDMArgumente_Studis.png "Positionspapier Digitalisierung des Studierendenpartlamentes der CAU 2020; Positionspapier zu FAIR und OPEN Data der Zusammenkunft aller Physik-Fachschaften 2020")
 
 ********************************************************************************
 
@@ -337,7 +295,7 @@ Es existieren auch Forderungen von Studierendenseite:
 
 ## ~~Wordcloud~~: Forschungsdatenmanagement
 
-![Bild](images\FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
+![Bild](images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
 
 **Was genau ist nun mit dem Begriff Forschungsdatenmanagement gemeint?**
 
@@ -365,7 +323,7 @@ Welche Inhaltsaspekte gehören eigentlich dazu? Lassen Sie uns kurz gemeinsam sa
 
 ---
 
-Notieren Sie Stichpunkte zu Ihren Diskussionen auf den zur Verfügung gestellten Zum-Pads.
+Notieren Sie Stichpunkte zu Ihren Diskussionen auf dem Miro-Borad: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556871918720&cot=10.
 
 Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.
 
@@ -498,32 +456,34 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ********************************************************************************
 
-## FAIRe Daten
+## ~~Diskussion~~: Welchen Nutzen hat Forschungsdatenmanagement?
 
-Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten.
----
+![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
 
-![Bild](images\fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")
-
-{{1}}
-********************************************************************************
-![Bild](images\fair.jpg "Quelle: Pundir, Sangya https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg [letzter Zugriff: 25.11.2021], CC-BY-SA-4.0.")
-
-********************************************************************************
-
-## ~~Think-Pair-Share~~: Welchen Nutzen hat Forschungsdatenmanagement?
-
-![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
-
-**Tauschen Sie sich bitte kurz mit einer anderen teilnehmenden Person aus.**
+**Wir schauen uns ein kurzes Video an. Behalten Sie dabei folgende Fragen im Hinterkopf:**
 
 * Welchen Nutzen/welche Vorteile kann ein gutes Forschungsdatenmanagement haben?
 * Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen?
 
-Sie werden für fünf Minuten mit einem/einer Partner\*in in die Break-Out-Räume geschickt.
-Notieren Sie gerne Stichpunkte zu Ihrer Diskussion auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542714668208&cot=14
+Ihre Gedanken dürfen Sie gerne auf dem Miro-Board festhalten: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542714668208&cot=14
+
+---
 
 {{1}}
+********************************************************************************
+
+Movie time!
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+********************************************************************************
+
+
+{{2}}
 ********************************************************************************
 >**Gutes Forschungsdatenmanagement trägt bei zu ...**
 >
@@ -546,8 +506,8 @@ Wir werden uns im Folgenden eine Auswahl an Themenaspekten näher anschauen:
 
 * Forschungsdaten ordnen und strukturieren
 * Versionierung
+* Formate
 * Forschungsdaten dokumentieren
-* Dateiformate
 * FAIR-Prinzipien
 * Nachnutzung von Forschungsdaten
 
@@ -592,7 +552,7 @@ Ordner und Dateien sollten systematisch benannt und geordnet sein, damit
 
 ### Ordnerstrukturen
 
-Folgende Punkte können bei der Erstellung einer günstigen Ordnerstruktur helfen:
+Folgende Punkte können bei der Erstellung einer nachvollziehbaren Ordnerstruktur helfen:
 
 {{1}}
 ********************************************************************************
@@ -643,7 +603,7 @@ Beispiel Ordnerstruktur:
 
 Die Art und Weise der Benennung von Dateien ist ein wichtiger Baustein im Forschungsdatenmanagement.
 
-Folgende Punkte können bei der Erstellung günstiger Dateinamen helfen:
+Folgende Punkte können bei der Erstellung nachvollziehbarer Dateinamen helfen:
 
 {{1}}
 * Weniger als 32 Zeichen (besser noch weniger) für Dateinamen benutzen
@@ -698,76 +658,18 @@ https://tinyurl.com/dateibenennung
 >
 >Denken Sie an eine Ihrer Lehrveranstaltungen, in der Studierende die Bearbeitung von Aufgaben in Form von Dateien bei Ihnen einreichen müssen. Erstellen Sie eine Dateibenennungskonvention, die Ihren Studierenden vorgibt, in welcher Form die abzugebenden Dateien benannt werden sollen.
 >
->Bitte dokumentieren Sie in Form einer README-Datei
+>Überlegen Sie, was für eine Form der Benennung für Sie im Hinblick auf automatisches Sortieren praktisch wäre.
+> 
+>Bitte dokumentieren Sie 
 >
->1. für welche Dateien Ihre Namenskonvention gilt,
->2. die zu benennenden, beschreibenden Namensaspekte und deren Reihenfolge sowie
->3. die ggf. zu verwendenden Abkürzungen.  
+>1. die Konvention Form von [Namensaspekt-a]-[Namensaspekt-b]-[...]-[Namensaspekt-x].\[Dateiendung\]
+>2. für welche Dateien Ihre Namenskonvention gilt,
+>2. die zu verwendenden, beschreibenden Namensaspekte und deren Reihenfolge sowie
+>3. Vorgaben für  ggf. zu verwendende Abkürzungen.  
 >
 >Legen Sie sich ein eigenes zumpad für Ihre Dokumentation an: https://zumpad.zum.de/
 >
 >Posten Sie den Link zu Ihrem Dokument auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542714668602&cot=14
-
-## Blended Learning   
-
-Das sogenannte Blended Learning verknüpft die beiden unterschiedlichen Lernformen (Präsenz- und E-Learning) zu einer Einheit mit dem Ziel, die Vorteile der jeweiligen Lernform einzubringen und die Nachteile der jeweils anderen Lernform zu kompensieren.
-
-Ein e-Learning Baustein, wie das gezeigte Beispiel zu Ordnerstrukturen und Dateibenennung, oder sonstige elektronisch verfügbaren Lernressourcen können gut in asynchronen Phasen der Lehre zum Einsatz kommen. In Präsenzphasen kann das Gelernte wieder aufgegriffen, diskutiert und vertieft werden.
-
-Blended Learning kann in verschiedenen Szenarien durchgeführt werden.
-
-**Blended Learning Szenarien\* am Beispiel e-Learning Baustein Ordnung und Struktur:**
-
-<div style="text-align:left">
-<P><SMALL>\*Abbildungen nach Bremer, C. (2009): Überblick über die Szenarien netzbasierten Lehrens und Lernens</SMALL></P>
-</div>
-
----
-
-{{1-2}}
-********************************************************************************
-<img src="images/asynchroneLehre_1.png"  style="float:right" width=250px/>
-
-**Präsenzphase - Selbstlernphase - Präsenzphase**
-
-* **Präsenzsitzung**: Bedeutung von Dateibenennung kurz anteasern.
-* **Selbstlernphase**: Durcharbeiten des e-Learning Bausteins, inkl. Arbeitsauftrag eine Dateibenennungskonvention zu entwickeln und in einer README-Datei zu dokumentieren (ggf. in Kleingruppenarbeit).
-* **Präsenzsitzung**: Reflexion via Vorstellung ausgewählter README-Dateien, Diskussion im Plenum über Bedeutung von Dateibenennungskonventionen.
-
-********************************************************************************
-
-{{2-3}}
-********************************************************************************
-<img src="images/asynchroneLehre_2.png"  style="float:right" width=250px/>
-
-**Selbstlernphase - Präsenzphase -Selbstlernphase**
-
-* **Selbstlernphase**: Bearbeitung des e-Learning Bausteins
-* **Präsenzsitzung**: In Kleingruppenarbeit eine gemeinsame Dateibenennungskonvention entwickeln und in einer README-Datei dokumentieren.
-* **Selbstlernphase**: Forumsdiskussion, Peer-Review
-
-********************************************************************************
-
-{{3-4}}
-********************************************************************************
-<img src="images/asynchroneLehre_3.png"  style="float:right" width=250px/>
-**Präsenzphase - Selbstlernphase - Selbstlernphase - Präsenzphase**
-
-* **Präsenzsitzung**: Erläuterung der kommenden Aufgaben und der zugehörigen Lernziele
-* **Selbstlernphase**: Neben anderen Recherche- und/oder Leseaufgaben Durcharbeiten des e-Learning Bausteins.
-* **Selbstlernphase**: Neben anderen Arbeitsaufträgen Arbeitsauftrag eine Dateibenennungskonvention zu entwickeln und in einer README-Datei zu dokumentieren (ggf. in Kleingruppenarbeit).
-* **Präsenzsitzung**: Reflexion via Vorstellung ausgewählter README-Dateien, Diskussion im Plenum über Bedeutung von Dateibenennungskonventionen.
-
-********************************************************************************
-
-{{4}}
-********************************************************************************
-
-Komplexere Lerneinheiten können sich auch über die verschiedenen Phasen erstrecken:
-
-<img src="images/asynchroneLehre_4.png"  style="float:right"/>
-
-********************************************************************************
 
 ## Versionierung
 
@@ -943,12 +845,114 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 >**Kleingruppenarbeit**
 >
 >* Bitte tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrzusammenhänge die ***Thematisierung von Ordnerstrukturen, Dateibenennung und/oder die Dateiversionierung*** (einfach oder toolgestützt) integriert werden könnte.
->* Brainstormen Sie zu möglichen Aufgabenstellungen.
->
->Sie haben zehn Minuten für den Austausch in den Break-Out-Räumen.
+>* Brainstormen Sie zu möglichen Lehrszenarien, Aufgabenstellungen, Beispielen, ....
 >
 >Bitte dokumentieren Sie Ihre Ideen auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542717413738&cot=14
 
+
+## Blended Learning   
+
+Das sogenannte Blended Learning verknüpft die beiden unterschiedlichen Lernformen (Präsenz- und E-Learning) zu einer Einheit mit dem Ziel, die Vorteile der jeweiligen Lernform einzubringen und die Nachteile der jeweils anderen Lernform zu kompensieren.
+
+Ein e-Learning Baustein, wie das gezeigte Beispiel zu Ordnerstrukturen und Dateibenennung, oder sonstige elektronisch verfügbaren Lernressourcen können gut in asynchronen Phasen der Lehre zum Einsatz kommen. In Präsenzphasen kann das Gelernte wieder aufgegriffen, diskutiert und vertieft werden.
+
+Blended Learning kann in verschiedenen Szenarien durchgeführt werden.
+
+**Blended Learning Szenarien\* am Beispiel e-Learning Baustein Ordnung und Struktur:**
+
+<div style="text-align:left">
+<P><SMALL>\*Abbildungen nach Bremer, C. (2009): Überblick über die Szenarien netzbasierten Lehrens und Lernens</SMALL></P>
+</div>
+
+---
+
+{{1-2}}
+********************************************************************************
+<img src="images/asynchroneLehre_1.png"  style="float:right" width=250px/>
+
+**Präsenzphase - Selbstlernphase - Präsenzphase**
+
+* **Präsenzsitzung**: Bedeutung von Dateibenennung kurz anteasern.
+* **Selbstlernphase**: Durcharbeiten des e-Learning Bausteins, inkl. Arbeitsauftrag eine Dateibenennungskonvention zu entwickeln und in einer README-Datei zu dokumentieren (ggf. in Kleingruppenarbeit).
+* **Präsenzsitzung**: Reflexion via Vorstellung ausgewählter README-Dateien, Diskussion im Plenum über Bedeutung von Dateibenennungskonventionen.
+
+********************************************************************************
+
+{{2-3}}
+********************************************************************************
+<img src="images/asynchroneLehre_2.png"  style="float:right" width=250px/>
+
+**Selbstlernphase - Präsenzphase -Selbstlernphase**
+
+* **Selbstlernphase**: Bearbeitung des e-Learning Bausteins
+* **Präsenzsitzung**: In Kleingruppenarbeit eine gemeinsame Dateibenennungskonvention entwickeln und in einer README-Datei dokumentieren.
+* **Selbstlernphase**: Forumsdiskussion, Peer-Review
+
+********************************************************************************
+
+{{3-4}}
+********************************************************************************
+<img src="images/asynchroneLehre_3.png"  style="float:right" width=250px/>
+**Präsenzphase - Selbstlernphase - Selbstlernphase - Präsenzphase**
+
+* **Präsenzsitzung**: Erläuterung der kommenden Aufgaben und der zugehörigen Lernziele
+* **Selbstlernphase**: Neben anderen Recherche- und/oder Leseaufgaben Durcharbeiten des e-Learning Bausteins.
+* **Selbstlernphase**: Neben anderen Arbeitsaufträgen Arbeitsauftrag eine Dateibenennungskonvention zu entwickeln und in einer README-Datei zu dokumentieren (ggf. in Kleingruppenarbeit).
+* **Präsenzsitzung**: Reflexion via Vorstellung ausgewählter README-Dateien, Diskussion im Plenum über Bedeutung von Dateibenennungskonventionen.
+
+********************************************************************************
+
+{{4}}
+********************************************************************************
+
+Komplexere Lerneinheiten können sich auch über die verschiedenen Phasen erstrecken:
+
+<img src="images/asynchroneLehre_4.png"  style="float:right"/>
+
+********************************************************************************
+
+## Formate
+
+**Mit welchen Dateinformaten arbeiten Sie?**
+
+<iframe src="https://answergarden.ch/embed/3189718" width="640px" height="400px" style="border: none;" scrolling="no" frameborder="0" title="AnswerGarden" allowTransparency="true"><p><a href="https://answergarden.ch/3189718">Go to AnswerGarden</a></p></iframe>
+
+{{2}}
+********************************************************************************
+
+**Bzgl. Interoperabilität und Nachnutzbarkeit empfehlenswerte Datenformate:**
+
+![Bild](images/formate.png)
+
+
+********************************************************************************
+
+### ~~Beispiel~~: CSV vs XLSX
+
+Die Flexibilität, aber auch die Einschränkungen von dem einfachen, rein textbasierten Format CSV gegenüber XLSX kann z. B. mit folgender kleinen Aufgabenstellung erlebbar gemacht werden:
+
+1. Öffenen Sie Excel
+2. Erstellen Sie eine neue Datei
+3. Geben Sie A, B, C in Zellen A1 bis C1 ein
+4. Geben Sie 1, 2, 3 in die Zellen A2 bis C2 ein
+5. Speichern Sie die Datei als *.csv (Trennzeichen getrennt)
+6. Öffnen Sie die eben abgespeicherte CSV-Datei in Ihrem Texteditor
+7. Wie sind die Daten strukturiert? Welches Trennzeichen wird verwendet?
+8. Ändern Sie das Trennzeichen (Komma, Semikolon, Tabstopp) 
+9. Was passiert, wenn Sie die Datei jetzt in Excel öffnen?
+10. Was müssen Sie tun, um die Daten jetzt korrekt importieren zu können?
+
+-> Einschänkungen des Formats können Sie z. B. zeigen, indem Sie Speicheraufträge für farbig markierte Daten geben. Diese Information geht im CSV-Format verloren. 
+
+
+### ~~Storytelling~~: Formate
+>![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
+>
+>**Kleingruppenarbeit**
+>
+>Entwickeln Sie in Ihrer Gruppe eine eigene kurze "Story" (in Stichpunkten), die die Bedeutung der Wahl von Dateiformaten in einem wissenschaftlichen oder hochschulbezogenen Kontext thematisiert und z. B. als Einstieg in eine Lerneinheit "Formate" dienen könnte.
+>
+> Dokumentieren Sie auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542724517416&cot=14
 
 ## Datendokumentation & Datenqualität
 
@@ -1000,9 +1004,11 @@ Warum ist Datendokumentation wichtig?
 
 ********************************************************************************
 
+
+
 ### ~~Gruppenarbeit~~: Datendokumentation & Datenqualität
 
->![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
+>![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
 >
 >**Kleingruppenarbeit**
 >
@@ -1058,7 +1064,7 @@ Folgende Dokumentationsformen kommen für eine Datendokumentation in Betracht:
 Beispiel für eine Readme-Vorlage:
 https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 
-![Bild](images\datendoku_readme-beispiel.png)
+![Bild](images/datendoku_readme-beispiel.png)
 
 ********************************************************************************
 
@@ -1067,7 +1073,7 @@ https://zenodo.org/record/6956989#.Y8ZHgnbMJPY
 
 Beispiele für Data Dictionary und Codebook
 
-![Bild](images\datendoku_dictionary-codebook.png)
+![Bild](images/datendoku_dictionary-codebook.png)
 
 ********************************************************************************
 
@@ -1079,55 +1085,25 @@ Beispiele für Data Dictionary und Codebook
 >
 >Diskutieren Sie in welchen Zusammenhängen Ihrer eigenen Lehre die Thematisierung der Aspekte Datendokumentation und Datenqualität sinnvoll und passend wäre.
 >
->Brainstormen Sie zu möglichen Sensibilisierungsübungen und Aufgabenstellungen. Notieren Sie diese auf dem Miro-Board:
+>Brainstormen Sie zu möglichen Unsetzungsszenarien, Sensibilisierungsübungen, Aufgabenstellungen u. ä..
+>
+> Notieren Sie Ihre Ideen auf dem Miro-Board:
 >https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542724092914&cot=14
 
-## Formate
+## FAIRe Daten
+
+Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten.
+---
+
+![Bild](images\fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")
 
 {{1}}
 ********************************************************************************
-
-**Warum ist es relevant, sich über genutzte Dateiformate Gedanken zu machen?**
-
-![Bild](images/open-standards-cartoon-de.png)
-
+![Bild](images\fair.jpg "Quelle: Pundir, Sangya https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg [letzter Zugriff: 25.11.2021], CC-BY-SA-4.0.")
 
 ********************************************************************************
 
-### ~~Partnerarbeit~~: Datenformate
-
->![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
->
->**Partnerarbeit**
->
->Tauschen Sie sich mit Ihrem Partner zu Dateiformaten aus, mit denen Sie in Ihren Forschungs- und Lehrzusammenhängen arbeiten.
->
->* Mit welchen Dateiformaten arbeiten Sie?
->* Welche Software wird benötigt, um die Formate zu lesen und zu bearbeiten?
->* Welche Besonderheiten sind zu beachten?
-
-
-{{2}}
-********************************************************************************
-
-**Bzgl. Interoperabilität und Nachnutzbarkeit empfehlenswerte Datenformate:**
-
-![Bild](images/formate.png)
-
-
-********************************************************************************
-
-### ~~Gruppenarbeit~~: Storytelling Datenformate
-
->![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
->
->**Kleingruppenarbeit**
->
->Entwickeln Sie in Ihrer Gruppe eine eigene kurze "Story" (in Stichpunkten), die die Bedeutung der Wahl von Dateiformaten in einem wissenschaftlichen oder hochschulbezogenen Kontext thematisiert und z. B. als Einstieg in eine Lerneinheit "Formate" dienen könnte.
->
-> Dokumentieren Sie auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542724517416&cot=14
-
-## ~~World-Café~~: Themen-Potpourri
+### ~~World-Café~~: FAIR-Prinzipien
 
 ![Bild](images/worldcafe.jpg)<!-- width="350px" align="right" -->
 
@@ -1136,9 +1112,9 @@ Beispiele für Data Dictionary und Codebook
 
 Das World-Cafe ist eine aktivierende Methode aus der Präsenzlehre, kann aber in den virtuellen Raum übertragen werden.
 
-**Rolle der Lehrperson**: erläutern, anregen, begleiten
+**Rolle der Lehrperson:** erläutern, anregen, begleiten
 
-**Rolle der Lernenden:**: reflektieren, diskutieren, argumentieren, aktiv an Gesprächen teilnehmen und Gesprächsrunden leiten
+**Rolle der Lernenden:** reflektieren, diskutieren, argumentieren, aktiv an Gesprächen teilnehmen und Gesprächsrunden leiten
 
 **Online Break-Out statt Tisch**:
 Anstelle der Gruppenarbeit an Tischen werden Break-Out Räume erstellt
