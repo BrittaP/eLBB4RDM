@@ -231,7 +231,7 @@ Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine d
 
 ********************************************************************************
 
-{{3-4}}
+{{2-3}}
 ********************************************************************************
 
 **Aktivierung von Lernenden wirkt sich lernförderlich aus:**
@@ -239,7 +239,7 @@ Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine d
 
 ********************************************************************************
 
-{{4}}
+{{3}}
 ********************************************************************************
 
 ![Bild](images/aktivierungsgrade_4.png "Nach Beege, B. & Antosch-Bardohn (2020)")
@@ -554,32 +554,27 @@ Ordner und Dateien sollten systematisch benannt und geordnet sein, damit
 
 Folgende Punkte können bei der Erstellung einer nachvollziehbaren Ordnerstruktur helfen:
 
-{{1}}
-********************************************************************************
-
 * Ordner fassen Dateien mit gemeinsamen Eigenschaften zusammen
 
   * Mögliche Ordnungskategorien: Teilprojekte, Arbeitspakete, Datum oder Zeitraum (z. B. Monate, Quartale), Datentypen, Datenanalysen, Literatur, Formate, ...
-  {{2}}
+
 * Beschreibende Ordnernamen verweisen auf die Inhalte
-{{3}}
+
 * Ordner sind hierarchisch strukturiert
-{{4}}
+
 * Es sind nicht zu viele Unterordner angelegt worden (Pfadlänge)
-{{5}}
+
 * Laufende und abgeschlossene Arbeiten werden getrennt
-{{6}}
+
 * Rohdaten werden gesondert abgelegt
-{{7}}
+
 * Es gibt eine Zwischenablage, die regelmäßig aufgeräumt wird -->
-{{8}}
+
 * Nicht mehr benötigte Dateien werden regelmäßig gelöscht
 
 ---
 
-********************************************************************************
-
-{{9}}
+{{1}}
 ********************************************************************************
 
 Es gilt außerdem:
@@ -591,7 +586,7 @@ Es gilt außerdem:
 
 ********************************************************************************
 
-{{10}}
+{{2}}
 ********************************************************************************
 Beispiel Ordnerstruktur:
 
@@ -605,22 +600,22 @@ Die Art und Weise der Benennung von Dateien ist ein wichtiger Baustein im Forsch
 
 Folgende Punkte können bei der Erstellung nachvollziehbarer Dateinamen helfen:
 
-{{1}}
+
 * Weniger als 32 Zeichen (besser noch weniger) für Dateinamen benutzen
-{{2}}
+
 * Dateinamen sollten deutlich auf den Inhalt der Datei hinweisen
-{{3}}
+
 * Grundsätzlich keine unspezifischen Dateinamen (untitled3746.cvs, protokoll-final.docx) verwenden
-{{4}}
+
 * Keine Sonderzeichen, Umlaute oder Leerzeichen in Dateinamen benutzen
-{{5}}
+
 * Erlaubte Sonderzeichen sind Unterstrich ( _ ) und Bindestrich ( - )
-{{6}}
+
 * Führende Null(en) bei Nummerierungen verwenden
-{{7}}
+
 * Datumsangaben nach der ISO 8601 (YYYYMMDD oder YYYY-MM-DD oder YYYY_MM_DD)
 
-{{8}}
+{{1}}
 ********************************************************************************
 
 **Es gilt außerdem:**
@@ -633,7 +628,7 @@ Folgende Punkte können bei der Erstellung nachvollziehbarer Dateinamen helfen:
 
 ********************************************************************************
 
-{{9}}
+{{2}}
 ********************************************************************************
 Beispiele für Benennungskonventionen:
 
@@ -1090,18 +1085,84 @@ Beispiele für Data Dictionary und Codebook
 > Notieren Sie Ihre Ideen auf dem Miro-Board:
 >https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542724092914&cot=14
 
-## FAIRe Daten
+## FAIR-Prinzipien
 
-Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten.
+![Bild](images\fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")<!-- width="150px" align="right" -->
+
+Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten. 
+
+Die FAIR-Prinzpien dienen als Leitfaden für die Auswahl von Handlungsoptionen, die sicherstellen sollen, dass die im Rahmen von Forschung geschaffenen digitalen Artefakte auffindbar, zugänglich, interoperabel und wiederverwendbar sind.  
+
 ---
+{{1}}
+>**F**indable
 
-![Bild](images\fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).")
+{{2-3}}
+****************
+Der erste Schritt bei der (Wieder-)Verwendung von Daten besteht darin, sie zu finden. Metadaten und Daten sollten sowohl für Menschen als auch für Computer leicht zu finden sein. Maschinenlesbare Metadaten sind für das automatische Auffinden von Datensätzen und Diensten unerlässlich und daher ein wesentlicher Bestandteil des FAIRification-Prozesses.
+
+F1. (Meta)data are assigned a globally unique and persistent identifier
+
+F2. Data are described with rich metadata (defined by R1 below)
+
+F3. Metadata clearly and explicitly include the identifier of the data they describe
+
+F4. (Meta)data are registered or indexed in a searchable resource
+
+***************
 
 {{1}}
-********************************************************************************
-![Bild](images\fair.jpg "Quelle: Pundir, Sangya https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg [letzter Zugriff: 25.11.2021], CC-BY-SA-4.0.")
+>**A**ccessible
 
-********************************************************************************
+{{3-4}}
+***********************
+Sobald der Nutzer die gewünschten Daten gefunden hat, muss er wissen, wie er auf sie zugreifen kann, möglicherweise einschließlich Authentifizierung und Autorisierung.
+
+A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
+
+A1.1 The protocol is open, free, and universally implementable
+
+A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
+
+A2. Metadata are accessible, even when the data are no longer available
+
+******************
+
+{{1}}
+>**I**nteroperable
+
+{{4-5}}
+**********************
+Daten sollten in einer Form vorliegen, die die Nutzung mit diversen Anwendungen oder Arbeitsabläufen für die Analyse, Speicherung und Verarbeitung ermöglichen.
+
+I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
+
+I2. (Meta)data use vocabularies that follow FAIR principles
+
+I3. (Meta)data include qualified references to other (meta)data
+
+**********************
+
+{{1}}
+>**R**eusable
+
+{{5-6}}
+***************
+Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies zu erreichen, sollten Metadaten und Daten gut dokumentiert und beschrieben sowie mit einer eindeutigen Angabe bzgl. der Nutzungsbedingungen (Lizenzen) versehen sein.
+
+R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
+
+R1.1. (Meta)data are released with a clear and accessible data usage license
+
+R1.2. (Meta)data are associated with detailed provenance
+
+R1.3. (Meta)data meet domain-relevant community standards
+
+**************
+
+<div style="page-break-after: always;"></div>
+
+
 
 ### ~~World-Café~~: FAIR-Prinzipien
 
@@ -1129,19 +1190,15 @@ Nach Ablauf der vorgegebenen Diskussionszeit, Umsetzung der Gruppen durch „Ver
 {{2}}
 ********************************************************************************
 
-**Unsere Diskussionsthemen**:
+**Mögliches Setting für ein FAIR World-Café**:
 
-**Tisch 1**: Bewusstsein schaffen: Bitte diskutieren und sammeln Sie hier Vorteile des FAIRen Teilens von Daten für a) die Gesellschaft, b) die Wissenschaftsgemeinschaft und c) den/die Forschenden und Lehrenden.
+**Tisch 1**: Bitte diskutieren Sie an diesem Tisch darüber, welche Aspekte und Probleme das snafu-Video in Bezug auf die **Auffindbarkeit** von Daten angesprochen hat. Wie können Auffindbarkeitsprobleme gelöst werden? 
 
-Bitte tauschen Sie sich zu Erfahrungen und Ideen für Möglichkeiten der Thematisierung dieser Aspekte in Ihren Lehrveranstaltungen aus.
+**Tisch 2**: Bitte diskutieren Sie an diesem Tisch darüber, welche Aspekte und Probleme das snafu-Video in Bezug auf die **Zugänglichkeit** von Daten angesprochen hat. Wie können Zugänglichkeitsprobleme gelöst werden? 
 
-**Tisch 2**: Welche Aspekte des **Datenschutzes**, der **guten wissenschaftlichen Praxis** und der **Forschungsethik** sind für Ihre Studierenden relevant / kommen in Ihren Forschungs- und Lehrzusammenhängen zum Tragen?
+**Tisch 3**: Bitte diskutieren Sie an diesem Tisch darüber, welche Aspekte und Probleme das snafu-Video in Bezug auf die **Interoperabilität** von Daten angesprochen hat. Wie können Interoperabilitätsprobleme gelöst werden? 
 
-Bitte tauschen Sie sich zu Erfahrungen und Ideen für Möglichkeiten der Thematisierung dieser Aspekte sowie Einübung bestimmter Techniken, wie Anonymisierung/Pseudonymisierung in Ihren Lehrveranstaltungen aus.
-
-**Tisch 3**: Diskutieren Sie bitte, welche Kenntnisse und Fähigkeiten ihre Studierenden bzgl. der **Nachnutzung** und der **Publikation** von Forschungsdaten haben sollten.
-
-Bitte tauschen Sie sich zu Erfahrungen und Ideen für Möglichkeiten der Thematisierung  dieser Aspekte sowie Einübung bestimmter Techniken (z. B. Zitation, Recherchetechniken) in Ihren Lehrveranstaltungen aus.
+**Tisch 4**: Bitte diskutieren Sie an diesem Tisch darüber, welche Aspekte und Probleme das snafu-Video in Bezug auf die **Nachnutzbarkeit** von Daten angesprochen hat. Wie können Nachnutzbarkeitsprobleme gelöst werden? 
 
 ********************************************************************************
 
@@ -1149,9 +1206,9 @@ Bitte tauschen Sie sich zu Erfahrungen und Ideen für Möglichkeiten der Themati
 
 >**Diskussion im Plenum**
 >
->Können Sie sich den Einsatz eines eigenen World-Cafés zum Themenbereich FDM in einer Ihrer Lehrveranstaltungen vorstellen?
+>Können Sie sich den Einsatz eines eigenen World-Cafés in einer Ihrer Lehrveranstaltungen vorstellen?
 >
->Fallen Ihnen spontan mögliche Diskussionsthemen und Fragestellungen zum Umgang mit Daten ein?
+>Fallen Ihnen spontan weiter mögliche Diskussionsthemen und Fragestellungen zum Umgang mit Daten für ein World-Café ein?
 
 ## ~~Gamification~~: Informationen, Forschungsdaten, Lehr-Lernmaterialien und -methoden finden
 
