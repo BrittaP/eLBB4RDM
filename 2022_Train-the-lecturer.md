@@ -105,7 +105,7 @@ Zentrales Forschungsdatenmanagement, Britta Petersen, b.petersen@rz.uni-kiel.de
 {{11-12}}
 ********************************************************************************
 
-><p style="color:#9a047f">Ich habe schon hoschuldidaktische Veranstaltungen besucht.</p>
+><p style="color:#9a047f">Ich habe schon hochschuldidaktische Veranstaltungen besucht.</p>
 
 ********************************************************************************
 
