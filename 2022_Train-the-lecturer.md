@@ -910,7 +910,7 @@ Komplexere Lerneinheiten können sich auch über die verschiedenen Phasen erstre
 
 **Mit welchen Dateinformaten arbeiten Sie?**
 
-<iframe src="https://answergarden.ch/embed/3189718" width="640px" height="400px" style="border: none;" scrolling="no" frameborder="0" title="AnswerGarden" allowTransparency="true"><p><a href="https://answergarden.ch/3189718">Go to AnswerGarden</a></p></iframe>
+<iframe src="https://answergarden.ch/embed/3189718" width="100%" height="500px" style="border: none;" scrolling="no" frameborder="0" title="AnswerGarden" allowTransparency="true"><p><a href="https://answergarden.ch/3189718">Go to AnswerGarden</a></p></iframe>
 
 {{2}}
 ********************************************************************************
