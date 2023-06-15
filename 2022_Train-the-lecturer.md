@@ -947,7 +947,7 @@ Die Flexibilität, aber auch die Einschränkungen von dem einfachen, rein textba
 >
 >Entwickeln Sie in Ihrer Gruppe eine eigene kurze "Story" (in Stichpunkten), die die Bedeutung der Wahl von Dateiformaten in einem wissenschaftlichen oder hochschulbezogenen Kontext thematisiert und z. B. als Einstieg in eine Lerneinheit "Formate" dienen könnte.
 >
-> Dokumentieren Sie auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556852019035&cot=14
+> Dokumentieren Sie auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?share_link_id=765881800401
 
 ## Datendokumentation & Datenqualität
 
@@ -1015,7 +1015,7 @@ Warum ist Datendokumentation wichtig?
 >* Was fällt Ihnen hinsichtlich der Datenqualität an diesem Datensatz auf?
 >
 >Notieren Sie in Stichpunkten, welche Informationen in einer guten Datendokumentation enthalten sein sollten sowie die wichtigsten Punkte Ihrer Diskussionen zur Datenqualität auf dem Miro-Board:
->https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556852019033&cot=14
+>https://miro.com/app/board/uXjVM_wsd4I=/?share_link_id=765881800401
 >
 >Die Excel-Datei Ihres Kollegen finden Sie hier: <A HREF="downloads/average_d.xlsx" download>average_d.xlsx</A> oder auf dem Miro-Board.
 
@@ -1083,7 +1083,7 @@ Beispiele für Data Dictionary und Codebook
 >Brainstormen Sie zu möglichen Unsetzungsszenarien, Sensibilisierungsübungen, Aufgabenstellungen u. ä..
 >
 > Notieren Sie Ihre Ideen auf dem Miro-Board:
->https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556852019034&cot=14
+>https://miro.com/app/board/uXjVM_wsd4I=/?share_link_id=765881800401
 
 ## FAIR-Prinzipien
 
