@@ -664,7 +664,7 @@ https://tinyurl.com/dateibenennung
 >
 >Legen Sie sich ein eigenes zumpad für Ihre Dokumentation an: https://zumpad.zum.de/
 >
->Posten Sie den Link zu Ihrem Dokument auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542714668602&cot=14
+>Posten Sie den Link zu Ihrem Dokument auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556871918720&cot=10.
 
 ## Versionierung
 
