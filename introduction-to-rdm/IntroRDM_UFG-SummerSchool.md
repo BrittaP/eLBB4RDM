@@ -200,13 +200,13 @@ Let us have a look at our workload for today:
 - Expectations
 - Research data and research data management
 - Research data lifecycle
+- GRP & RDM
 - Data organisation
-- Documentation & metadata
 
   ***LUNCH BREAK***
 
+- Documentation & metadata
 - Data formats
-- Back up & long-term storage
 - FAIR principles and Open X
 - Data publication
 - Data management plan (DMP)
@@ -325,6 +325,13 @@ onclick="alert('Let´s play!');"
 ********************************************************************************
 
 {{13-14}}
+********************************************************************************
+
+><p style="color:#9a047f">I play a musical instrument.</p>
+
+********************************************************************************
+
+{{14-15}}
 ********************************************************************************
 
 ><p style="color:#9a047f">I know how to use Git.</p>
