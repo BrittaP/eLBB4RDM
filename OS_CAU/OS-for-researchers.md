@@ -3,7 +3,7 @@ author:   Zentrales Forschungsdatenmanagement der CAU, LZ
 
 email:    zollitsch@ub.uni-kiel.de
 
-icon: Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+icon: OS_CAU/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
 version:  0.0.1
 
@@ -20,7 +20,7 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 
 -----
 
-![Bild](eLBB4RDM/OS_CAU/2022-09-27_FDM_Cleo.jpg)
+![Bild](OS_CAU/2022-09-27_FDM_Cleo.jpg)
 
 (Illustration: Cleo Michelsen)
 
