@@ -421,6 +421,8 @@ Think about the following:
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 {{2-4}}
 ********************************************************************************
 
@@ -429,6 +431,8 @@ Think about the following:
 ![Research Data Repository](OS_CAU/od_repo.png)
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{3-4}}
 ********************************************************************************
@@ -440,6 +444,8 @@ https://opendata.uni-kiel.de/content/index.xml (Research Data Reopsitory)
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 {{4-6}}
 ********************************************************************************
 
@@ -448,6 +454,8 @@ https://opendata.uni-kiel.de/content/index.xml (Research Data Reopsitory)
 ![Open Access Funding](OS_CAU/oa_funding.png)
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{5-6}}
 ********************************************************************************
@@ -458,6 +466,8 @@ https://macau.uni-kiel.de/content/index.xml (Open Access Publication Server)
 
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{6}}
 ********************************************************************************
