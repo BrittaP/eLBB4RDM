@@ -20,7 +20,7 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 
 -----
 
-![Bild](OS_CAU/2022-09-27_FDM_Cleo.jpg)
+![Bild](eLBB4RDM/OS_CAU/2022-09-27_FDM_Cleo.jpg)
 
 (Illustration: Cleo Michelsen)
 
