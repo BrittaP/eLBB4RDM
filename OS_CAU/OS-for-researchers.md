@@ -20,7 +20,7 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 
 -----
 
-![Bild](\2022-09-27_FDM_Cleo.jpg)
+![Bild](OS_CAU/2022-09-27_FDM_Cleo.jpg)
 
 (Illustration: Cleo Michelsen)
 
@@ -35,7 +35,7 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 Julia Prieß-Buchheit:
 Open Science Ambassador for Kiel University and SEA-EU
 
-![Bild](\jpb.jpeg)<!--
+![Bild](OS_CAU/jpb.jpeg)<!--
 style="width: 20%; max-width: 800px;"
 -->
 
@@ -44,7 +44,7 @@ style="width: 20%; max-width: 800px;"
 <div style="float:right">Linda Zollitsch:
 RDM (Didactics) at Kiel University
 
-![Bild](\LZ.png)</div>
+![Bild](OS_CAU/LZ.png)</div>
 
 <div style="page-break-after: always;"></div>
 
@@ -94,7 +94,7 @@ RDM (Didactics) at Kiel University
 ********************************************************************************
 **Open Science encompasses the most diverse aspects of science.**
 
-![OS-Unesco](/os_unesco.png)
+![OS-Unesco](OS_CAU/os_unesco.png)
 
 
 **All these aspects can be seen als part of Open Science**
@@ -135,7 +135,7 @@ RDM (Didactics) at Kiel University
 {{6}}
 ********************************************************************************
 
-??[Open Science](/UV_Open-Science-Checklist_Infographic_EN_v1.pdf)
+![Open Science](OS_CAU/UV_Open-Science-Checklist_Infographic_EN_v1.png)
 
 Checklist from Amsterdam University of Applied Sciences
 
@@ -148,7 +148,7 @@ Checklist from Amsterdam University of Applied Sciences
 {{1-3}}
 ********************************************************************************
 
-![ECoC](/ecoc_2023.png)<!--  width="200px" align="right"
+![ECoC](OS_CAU/ecoc_2023.png)<!--  width="200px" align="right"
 -->
 (ALLEA (2023): The European Code of Conduct for Research Integrity)
 
@@ -157,9 +157,9 @@ Checklist from Amsterdam University of Applied Sciences
 {{2-3}}
 ********************************************************************************
 
-![example](/ecoc_1.png)
+![example](OS_CAU/ecoc_1.png)
 
-![example](/ecoc_2.png)
+![example](OS_CAU/ecoc_2.png)
 (ALEA (2023): The European Code of Conduct for Research Integrity, p. 7)
 
 ********************************************************************************
@@ -218,7 +218,7 @@ Checklist from Amsterdam University of Applied Sciences
 >
 >(https://howtofair.dk/how-to-fair/persistent-identifiers/)
 
-![PID](/PID.png)<!--  width="150px" align="right"
+![PID](OS_CAU/PID.png)<!--  width="150px" align="right"
 -->
 
 ********************************************************************************
@@ -242,7 +242,7 @@ Checklist from Amsterdam University of Applied Sciences
 {{1-4}}
 ********************************************************************************
 
-![DOI](/DOI_logo.svg.png)<!--  width="150px" align="right"
+![DOI](OS_CAU/DOI_logo.svg.png)<!--  width="150px" align="right"
 -->
 (Copyright © 2022 DOI Foundation. Licensed under a Creative Commons Attribution 4.0 International License. DOI®, DOI.ORG®, and shortDOI® are trademarks of the DOI Foundation.)
 
@@ -271,13 +271,13 @@ Checklist from Amsterdam University of Applied Sciences
 
 {{4-5}}
 ********************************************************************************
-![doi](/zenodo_doi.png)
+![doi](OS_CAU/zenodo_doi.png)
 
 ********************************************************************************
 
 {{5}}
 ********************************************************************************
-![doi](/zenodo_doi_2.png)
+![doi](OS_CAU/zenodo_doi_2.png)
 
 ********************************************************************************
 
@@ -288,7 +288,7 @@ Checklist from Amsterdam University of Applied Sciences
 {{1-4}}
 ********************************************************************************
 
-![ORCID](/ORCID-iD_icon-128x128.png)<!--  width="150px" align="right"
+![ORCID](OS_CAU/ORCID-iD_icon-128x128.png)<!--  width="150px" align="right"
 -->
 (Wrigley, Alainna Therese; Meadows, Alice; Haak, Laurel (2017). ORCID iD icon graphics. ORCID. Figure. https://doi.org/10.23640/07243.5008697.v4. Under CC0 License)
 
@@ -331,7 +331,7 @@ Checklist from Amsterdam University of Applied Sciences
 ********************************************************************************
 **How does the record look like**
 
-![Example](/orcid_example.png)
+![Example](OS_CAU/orcid_example.png)
 
 ********************************************************************************
 
@@ -417,7 +417,7 @@ Think about the following:
 
 **RDM@CAU**
 
-![RDM](/rdm.png)
+![RDM](OS_CAU/rdm.png)
 
 ********************************************************************************
 
@@ -426,14 +426,14 @@ Think about the following:
 
 **OpenData@CAU**
 
-![Research Data Repository](/od_repo.png)
+![Research Data Repository](OS_CAU/od_repo.png)
 
 ********************************************************************************
 
 {{3-4}}
 ********************************************************************************
 
-![Open Data](/od.png)
+![Open Data](OS_CAU/od.png)
 
 https://opendata.uni-kiel.de/content/index.xml (Research Data Reopsitory)
 
@@ -445,14 +445,14 @@ https://opendata.uni-kiel.de/content/index.xml (Research Data Reopsitory)
 
 **OpenAccess@CAU**
 
-![Open Access Funding](/oa_funding.png)
+![Open Access Funding](OS_CAU/oa_funding.png)
 
 ********************************************************************************
 
 {{5-6}}
 ********************************************************************************
 
-![Open Access](/oa.png)
+![Open Access](OS_CAU/oa.png)
 
 https://macau.uni-kiel.de/content/index.xml (Open Access Publication Server)
 
