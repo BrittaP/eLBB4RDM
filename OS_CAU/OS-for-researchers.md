@@ -20,7 +20,7 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 
 -----
 
-![Bild](OS_CAU/2022-09-27_FDM_Cleo.jpg)
+![Bild](OS_CAU\2022-09-27_FDM_Cleo.jpg)
 
 (Illustration: Cleo Michelsen)
 
@@ -35,7 +35,7 @@ tags: Forschungsdaten, Gute wissenschaftliche Praxis, Open Science, Open Access,
 Julia Prieß-Buchheit:
 Open Science Ambassador for Kiel University and SEA-EU
 
-![Bild](OS_CAU/jpb.jpeg)<!--
+![Bild](OS_CAU\jpb.jpeg)<!--
 style="width: 20%; max-width: 800px;"
 -->
 
@@ -44,7 +44,7 @@ style="width: 20%; max-width: 800px;"
 <div style="float:right">Linda Zollitsch:
 RDM (Didactics) at Kiel University
 
-![Bild](OS_CAU/LZ.png)</div>
+![Bild](OS_CAU\LZ.png)</div>
 
 <div style="page-break-after: always;"></div>
 
