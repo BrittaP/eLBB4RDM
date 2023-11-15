@@ -113,7 +113,6 @@ keywords: FDM, RDM, Forschungsdatenmanagement, Forschungsdaten, Hochschullehre, 
 - Machen Sie auf sich aufmerksam, wenn Sie etwas sagen wollen.
 - Hören Sie sich gegenseitig zu und lassen Sie einander ausreden.
 - Helfen Sie sich gegenseitig.
-- Erledigen Sie möglichst nichts nebenbei.
 - Beteiligen Sie sich aktiv.
 
 <div style="page-break-after: always;"></div>
