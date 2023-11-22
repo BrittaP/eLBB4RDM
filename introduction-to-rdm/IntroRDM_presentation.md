@@ -377,14 +377,14 @@ onclick="alert('What do you think?');"
 >
 > Enter words that you associate with the term "research data management".
 >
->You may enter as many words as you like: https://answergarden.ch/3005403
+>You may enter as many words as you like: https://answergarden.ch/2861448
 
 ---
 
 {{1}}
 ********************************************************************************
 
-<iframe src="https://answergarden.ch/3005403" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://answergarden.ch/2861448" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
 ********************************************************************************
@@ -416,81 +416,25 @@ What is research data management?
 
 ******************
 
-{{3-6}}
-What do you think is the benefit of good research data management?
----
-
-{{4-5}}
-***************
-
->**Let us discuss**
->![image](images/kurzberichte.png)<!--
-style="width: 20%; max-width: 800px; float:right"
-title="working"
-onclick="alert('Group work');"
--->
->
->You will have some minutes to think about it.
->
->- What might be the benefit of research data management?
->
->Share your thoughts with us!
-
-****************
-
-<div style="page-break-after: always;"></div>
-
-{{5-6}}
-********************
-The benefits of good research data management are...
----
-- Reproducibility of results
-- Findability of the data
-- Traceability of research
-- Transparency of research
-- Quality assurance and quality attribute
-- Efficiency in the research process
-- Sustainability
-- Knowledge generation
-- No redundancy
-- Structuring, organisation
-- Enable collaborations
-- …
-- …
-****************
-
-<div style="page-break-after: always;"></div>
-
 ### Research Data
 
->**Group work**:
+><big>**What is reserach data?**</big>
 >![image](images\kurzberichte.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 title="puzzle"
 onclick="alert('Let´s work together!');"
 -->
 >
->Find out with what kind of data your group members are working with.
+>Let us have a quick **chat survey**:
 >
->Together, add everything that you think can be research data to your collection.
->
->Please use the following pads to take notes during break out session:
->
->https://zumpad.zum.de/p/Research-data_G1
->
->https://zumpad.zum.de/p/Research-data_G2
->
->https://zumpad.zum.de/p/Research-data_G3
->
->https://zumpad.zum.de/p/Research-data_G4
+>Please enter everything, you think can be research data into the chat.
 
----
 
 <div style="page-break-after: always;"></div>
 
 {{1}}
 **********
-What are research data?
+What is research data?
 ---
 
 > _‘In short data means whatever is necessary to validate or reproduce your research findings, or to gain a richer understanding of them.’_
@@ -551,7 +495,53 @@ What are research data?
 
 <div style="page-break-after: always;"></div>
 
-{{1}}
+{{1-2}}
+************
+**Planning**:
+
+* How do you plan to create data?
+* Will data be reused?
+* Which data types, in terms of data formats (e.g. image data, text data or measurement data in tables) are created?
+* Which analyses are planned?
+* What volume of data can be expected?
+* What legal and ethical aspects need to be taken into account?
+* Who is responsible?
+
+************
+
+{{2-3}}
+************
+**Collection and analysis**:
+
+* What approaches are taken to document your work in a comprehensible manner?
+* What measures are taken to ensure high quality of the data?
+* Which digital methods and tools (e.g. software) are required to use and analyse the data?
+* How will the data be stored and backed up during the project?
+* How will the security of sensitive data be guaranteed during the project (access and utilisation management)?
+************
+
+{{3-4}}
+************
+**Archiving & publication**:
+
+* What legal particularities exist in connection with the handling of research data in the research project?
+* Are there any effects or restrictions to be expected with regard to subsequent publication or accessibility?
+* How are utilisation and copyright aspects as well as ownership issues taken into account?
+* Are there any important scientific codes or professional standards that should be taken into account?
+************
+
+{{4-5}}
+************
+**Subsequent use**:
+
+* Which data is particularly suitable for re-use?
+* What criteria are used to select research data in order to make it available for re-use by others?
+* Do you plan to archive your data in a suitable infrastructure?
+* If so, how and where? Are there embargo periods?
+* When can the research data be used by third parties?
+************
+
+{{6}}
 ************
 
 ![RD-Lifecycle](images\FDM_Zyklus_klein_ohneText.jpg) <!-- width="300px" align="right" -->
@@ -880,11 +870,61 @@ onclick="alert('Let´s work together!');"
 
 <div style="page-break-after: always;"></div>
 
+### Metadata
+
+{{0}}
+*********
+
+<big>What is Metadata?</big>
+
+*********
+
+{{1}}
+*********
+![image](images/datadocumentation.png) <!--
+style="width: 20%; max-width: 800px; float:right"
+-->
+
+Metdata is...
+
+- Data about data
+
+- Administrative data
+
+  - Information on the management of the data
+
+  - Mostly generic
+
+- Subject data
+
+  - Individual aspects or data sets in more detail
+
+  - Structured with respect to the research discipline
+
+- Generic standards
+
+  - [DataCite Metadata Schema](https://schema.datacite.org/)
+
+  - [Dublin Core Metadata Initiative](https://dublincore.org/)
+
+- Discipline-specific standards
+
+  - [Metadata Standards Directory](https://rdamsc.bath.ac.uk/)
+
+*******
+
+<div style="page-break-after: always;"></div>
+
 ### Understanding Data
+
+
 <div style="float:left; width:30%;">
   <p>
 
+{{0-9}}
+******************
 > __Date:__ 364.07
+***********
 
 {{2-3}}
 ***********
@@ -1060,46 +1100,9 @@ Origin, Location and Meaning of Data
 
 </div>
 
-<div style="page-break-after: always;"></div>
+---
 
-### Metadata
-
-{{0-1}}
-*********
-![image](images/datadocumentation.png) <!--
-style="width: 20%; max-width: 800px; float:right"
--->
-
-- Data about data
-
-- Administrative data
-
-  - Information on the management of the data
-
-  - Mostly generic
-
-- Subject data
-
-  - Individual aspects or data sets in more detail
-
-  - Structured with respect to the research discipline
-
-- Generic standards
-
-  - [DataCite Metadata Schema](https://schema.datacite.org/)
-
-  - [Dublin Core Metadata Initiative](https://dublincore.org/)
-
-- Discipline-specific standards
-
-  - [Metadata Standards Directory](http://rd-alliance.github.io/metadata-directory/)
-
-*******
-
-<div style="page-break-after: always;"></div>
-
-{{1-2}}
-**************
+### Mandatory Metadata
 
 >**Individual work**:
 >![image](images/working.png) <!--
@@ -1108,15 +1111,15 @@ title="working"
 onclick="alert('Data documentation');"
 -->
 >
+>Do you know the [Kiel University research data repository](https://opendata.uni-kiel.de/content/index.xml)?
+>
 >Go to
->http://rd-alliance.github.io/metadata-directory/subjects/
+>https://opendata.uni-kiel.de/content/publish/metadata.xml?lang=en
 >
->Search for a meta data standard appropriate to your research subject!
+>* Which metadata is mandatory?
 >
->There is no standard? What can you do?
+>* Is this information sufficient to understand your research data?
 
-
-**************
 
 <div style="page-break-after: always;"></div>
 
@@ -1133,23 +1136,26 @@ onclick="alert('Data documentation');"
 <div style="page-break-after: always;"></div>
 
 ## File formats
->**Partner work**:
+
+>**Group work**:
 >![image](images\kurzberichte.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 title="puzzle"
 onclick="alert('Let´s work together!');"
 -->
 >
-> Collect all file formats you are working with and post them to the miro-Board.
+> Let us collect all file formats you are working with.
 >
-> Give some explanation on your file formats to your partner.
+>Post all file formats you are working with into the answergarden:
 >
-> * What kind of data hides behind the format?
-> * What kind of software is needed to read it?
-> * Anything special to consider?
->
->Use the miro-Bord to take notes: https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764543971666820&cot=14
+>https://answergarden.ch/3931685
 
+{{1}}
+*************
+
+<iframe src="https://answergarden.ch/3931685" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+*************
 <div style="page-break-after: always;"></div>
 
 ### Choosing file formats
@@ -1325,13 +1331,44 @@ Movie time!
 style="width: 20%; max-width: 800px; float:right"
 title="working"
 onclick="alert('Group work');"-->
->Your will be asigned to group F, A, I or R.
+>Your will be assigned to group F, A, I or R.
 >
->Please discuss in your group what aspects, problems & solutions have been touched by the video regarding F(indability), A(ccessibility), I(nteroperability) and R(eusablity) of data.
+>Please discuss in each group:
 >
->Use the Miro-Board to take notes.
+>* What is the benefit of good research data management?
+>
+>* Depending on the group your are assigned to, please also discuss what aspects, problems & solutions have been touched  
+>
+>   * regarding F(indability),
+>   * A(ccessibility)
+>   * I(nteroperability)
+>   * R(eusablity) of data.
+>
+>Use the [Miro-Board](https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764555145308718&cot=14) to take notes.
 
 ****************
+
+{{2}}
+********************
+The benefits of good research data management are...
+---
+- Reproducibility of results
+- Findability of the data
+- Traceability of research
+- Transparency of research
+- Quality assurance and quality attribute
+- Efficiency in the research process
+- Sustainability
+- Knowledge generation
+- No redundancy
+- Structuring, organisation
+- Enable collaborations
+- …
+- …
+****************
+
+<div style="page-break-after: always;"></div>
+
 
 ### How FAIR is your data?
 
@@ -1349,7 +1386,7 @@ onclick="alert('Individual work');"
 
 <div style="page-break-after: always;"></div>
 
-### Open X
+## Open X
 
 * Open Science
 
@@ -1370,19 +1407,14 @@ onclick="alert('Individual work');"
 
 <div style="page-break-after: always;"></div>
 
-#### Open Access
+### Open Access
 
->"Open access is the term given to access granted to research publications and other materials online free of charge. A research document published under open access conditions may be read, downloaded, saved, linked to, printed and used by anybody at no cost." (https://www.dfg.de/en/research_funding/programmes/infrastructure/lis/open_access/what_is_open_access/index.html)
+>"Open access is the term given to access granted to research publications and other materials online free of charge. A research document published under open access conditions may be read, downloaded, saved, linked to, printed and used by anybody at no cost."
+>
+>Source: [DFG](https://www.dfg.de/en/research_funding/programmes/infrastructure/lis/open_access/what_is_open_access/index.html)
 
------
-
-Open access is often represented with the help of an open lock.
-
-
-![Open Access](images\access.png)<!--  width="80px" align="right"
--->
-
------
+<div style="float:left; width:80%;">
+**Open access** contributions are often represented with the help of an open lock.
 
 - Distribution of research output online, __freely available__ for everyone
 
@@ -1392,9 +1424,23 @@ Open access is often represented with the help of an open lock.
 
 - Formerly only open publication of journal articles, papers, etc.
 
+</div>
+
+<div style="float:right; width:10%;">
+![Open Access](images\access.png)
+</div>
+
+### Open Access at Kiel University
+
+>**Information and services @Kiel University:**
+>
+>* [Guidelines for promoting Open Access at Kiel University](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinien-der-cau-zu-open-access)
+>* [University Library](https://www.ub.uni-kiel.de/de/publizieren/publizieren/informationen) provides information, help and services.
+>* [MACAU is the Open Access Repository of Kiel University (CAU)](https://macau.uni-kiel.de/content/publish/information.xml)
+
 <div style="page-break-after: always;"></div>
 
-#### Open Data
+### Open Data
 
 >"Open data are data that have been made available for free use, re-use and dissemination. They can comprise any kind of data from learning materials to geographical data, statistics, traffic data, academic publications, medical data, radio and tv broadcasts.
 >
@@ -1412,12 +1458,28 @@ Open access is often represented with the help of an open lock.
 
 -----
 
-__FAIR?__
+{{1}}
+********************
 
------
+>**What do you think?**
+>
+>$$
+OPEN
+=
+FAIR\, ?
+$$
+
+********************
 
 <div style="page-break-after: always;"></div>
 
+### Open Data at Kiel University
+
+>**Information and services @Kiel University:**
+>
+>* No guidelines for promoting Open Data at Kiel University :-(
+>* [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de) provides information, help and services.
+>* [**opendata@uni-kiel**](https://opendata.uni-kiel.de/content/index.xml) is the Open Data Repository of Kiel University (CAU)
 
 ### Licenses
 {{0-1}}
@@ -1727,7 +1789,7 @@ title="working"
 onclick="alert('Individual work');"
 -->
 >
->Download the CAU template for data management plans: [CAU\_DMP\_Template](https://lms.uni-kiel.de/m/278602a45da821a97539679f1cc25dc4/CAU_DMP_Template_1.1.2.rtf)
+>Download the CAU template for data management plans: [CAU\_DMP\_Template](https://www.datamanagement.uni-kiel.de/de/service/materialien)
 >
 >Have look at the template and try to sketch out a DMP for your research project.
 >
