@@ -339,7 +339,7 @@ onclick="alert('Let´s play!');"
 
 <div style="page-break-after: always;"></div>
 
-## Expectations
+## Reasons to be here
 We would like to know a little bit more about your expectations and your fears regarding this workshop.
 
 > **Group work**:
@@ -349,7 +349,7 @@ title="working"
 onclick="alert('Group work');"
 -->
 >
-> Collect your ***hopes/wishes***<!-- style='color: #9a047f' --> and your ***fears***<!-- style='color: #9a047f' --> regarding this workshop, using oncoo cards.
+> Introduce yourself to your group memebers. Together collect your ***reasons to be here***<!-- style='color: #9a047f' --> and possible ***concerns***<!-- style='color: #9a047f' --> regarding this workshop, using oncoo cards.
 >
 > https://www.oncoo.de/0fou
 
