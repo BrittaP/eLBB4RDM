@@ -349,7 +349,7 @@ title="working"
 onclick="alert('Group work');"
 -->
 >
-> Introduce yourself to your group memebers. Together collect your ***reasons to be here***<!-- style='color: #9a047f' --> and possible ***concerns***<!-- style='color: #9a047f' --> regarding this workshop, using oncoo cards.
+> Introduce yourself to your group members. Together collect your ***reasons to be here***<!-- style='color: #9a047f' --> and possible ***concerns***<!-- style='color: #9a047f' --> regarding this workshop, using oncoo cards.
 >
 > https://www.oncoo.de/0fou
 
