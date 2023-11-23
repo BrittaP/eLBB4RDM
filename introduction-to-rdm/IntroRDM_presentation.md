@@ -355,7 +355,7 @@ onclick="alert('Group work');"
 
 <div style="page-break-after: always;"></div>
 
-### Review Expectations
+### Review 
 
 <iframe src="https://www.oncoo.de/t/0fou" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"></iframe>
 
@@ -418,7 +418,7 @@ What is research data management?
 
 ### Research Data
 
-><big>**What is reserach data?**</big>
+><big>**What is research data?**</big>
 >![image](images\kurzberichte.png)<!--
 style="width: 20%; max-width: 800px; float:right"
 title="puzzle"
