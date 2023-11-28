@@ -415,7 +415,12 @@ What is research data management?
 >[University of Edinburgh Research Data Service](https://www.ed.ac.uk/information-services/research-support/research-data-service/research-data-management)
 
 ******************
+<<<<<<< HEAD
+<div style="page-break-after: always;"></div>
 
+=======
+
+>>>>>>> 2834a02105112148250f9871c169d348d9a02e2e
 ### Research Data
 
 ><big>**What is research data?**</big>
@@ -487,8 +492,7 @@ What is research data?
 <center>
 {{0-1}}
 ************
-![RD-Lifecycle](images\FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
-
+![RD-Lifecycle](images/FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
 
 ************
 </center>
@@ -499,6 +503,15 @@ What is research data?
 ************
 **Planning**:
 
+<<<<<<< HEAD
+* How do you plan to create data?
+* Will data be reused?
+* Which data types, in terms of data formats (e.g. image data, text data or measurement data in tables) are created?
+* Which analyses are planned?
+* What volume of data can be expected?
+* What legal and ethical aspects need to be taken into account?
+* Who is responsible?
+=======
 * How do you plan to create data?
 * Will data be reused?
 * Which data types, in terms of data formats (e.g. image data, text data or measurement data in tables) are created?
@@ -545,6 +558,48 @@ What is research data?
 ************
 
 ![RD-Lifecycle](images\FDM_Zyklus_klein_ohneText.jpg) <!-- width="300px" align="right" -->
+>>>>>>> 2834a02105112148250f9871c169d348d9a02e2e
+
+************
+
+{{2-3}}
+************
+**Collection and analysis**:
+
+* What approaches are taken to document your work in a comprehensible manner?
+* What measures are taken to ensure high quality of the data?
+* Which digital methods and tools (e.g. software) are required to use and analyse the data?
+* How will the data be stored and backed up during the project?
+* How will the security of sensitive data be guaranteed during the project (access and utilisation management)?
+************
+
+{{3-4}}
+************
+**Archiving & publication**:
+
+* What legal particularities exist in connection with the handling of research data in the research project?
+* Are there any effects or restrictions to be expected with regard to subsequent publication or accessibility?
+* How are utilisation and copyright aspects as well as ownership issues taken into account?
+* Are there any important scientific codes or professional standards that should be taken into account?
+************
+
+{{4-5}}
+************
+**Re-use**:
+
+* Which data is particularly suitable for re-use?
+* What criteria are used to select research data in order to make it available for re-use by others?
+* Do you plan to archive your data in a suitable infrastructure?
+* If so, how and where? Are there embargo periods?
+* When can the research data be used by third parties?
+************
+
+<div style="page-break-after: always;"></div>
+
+{{6}}
+************
+
+![RD-Lifecycle](images/FDM_Zyklus_klein_ohneText.jpg) <!-- width="300px" align="right" -->
 
 Individual work:
 ---
@@ -629,6 +684,7 @@ Find your workspace at the [Miro-Board](https://miro.com/app/board/uXjVPvwAFbI=/
 
 {{1-2}}
 ****************************************
+<div style="page-break-after: always;"></div>
 
 >**Example for a file name following a naming convention**
 >
@@ -870,6 +926,53 @@ onclick="alert('Let´s work together!');"
 
 <div style="page-break-after: always;"></div>
 
+<<<<<<< HEAD
+## Metadata
+
+{{0}}
+*********
+
+<big>What is Metadata?</big>
+
+*********
+
+{{1}}
+*********
+![image](images/datadocumentation.png) <!--
+style="width: 20%; max-width: 800px; float:right"
+-->
+
+Metdata is...
+
+- Data about data
+
+- Administrative data
+
+  - Information on the management of the data
+
+  - Mostly generic
+
+- Subject data
+
+  - Individual aspects or data sets in more detail
+
+  - Structured with respect to the research discipline
+
+- Generic standards
+
+  - [DataCite Metadata Schema](https://schema.datacite.org/)
+
+  - [Dublin Core Metadata Initiative](https://dublincore.org/)
+
+- Discipline-specific standards
+
+  - [Metadata Standards Directory](https://rdamsc.bath.ac.uk/)
+
+*******
+
+<div style="page-break-after: always;"></div>
+
+=======
 ### Metadata
 
 {{0}}
@@ -915,6 +1018,7 @@ Metdata is...
 
 <div style="page-break-after: always;"></div>
 
+>>>>>>> 2834a02105112148250f9871c169d348d9a02e2e
 ### Understanding Data
 
 
@@ -1347,6 +1451,7 @@ onclick="alert('Group work');"-->
 >Use the [Miro-Board](https://miro.com/app/board/uXjVPvwAFbI=/?moveToWidget=3458764555145308718&cot=14) to take notes.
 
 ****************
+<div style="page-break-after: always;"></div>
 
 {{2}}
 ********************
@@ -1403,7 +1508,6 @@ onclick="alert('Individual work');"
 * Citizen Science
 
 * ...
-
 
 <div style="page-break-after: always;"></div>
 
@@ -2076,6 +2180,8 @@ Principle 3
 
 *************
 
+<div style="page-break-after: always;"></div>
+
 3. <p style="color:#9a047f">**Storage**</p>
 
 {{3-4}}
@@ -2115,6 +2221,8 @@ Principle 3
 >    - [Zenodo](https://zenodo.org/)
 
 ************
+
+<div style="page-break-after: always;"></div>
 
 5. <p style="color:#9a047f">**Licensing**</p>
 
