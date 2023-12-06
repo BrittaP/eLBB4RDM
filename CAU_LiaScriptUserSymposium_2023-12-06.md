@@ -100,6 +100,7 @@ Britta Petersen (RZ CAU) & Richard Diebel (UB CAU)
 ## Project seminar on digital history
 
 <center>
+  
 ><p style="color:#9a047f">***Use of LiaScript to let students create their own learning content***</p>
 ---
 </center>
