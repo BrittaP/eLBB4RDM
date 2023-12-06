@@ -27,7 +27,7 @@ Britta Petersen (RZ CAU) & Richard Diebel (UB CAU)
 
 [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
 
-# Prijects on RDM and digital literacy at Kiel University
+# Projects on RDM and digital literacy
 
 ![Bild](images/fdm_lehre.png) <!-- width="100px" align="right" -->
 
@@ -100,9 +100,10 @@ Britta Petersen (RZ CAU) & Richard Diebel (UB CAU)
 ## Project seminar on digital history
 
 <center>
-  
-><p style="color:#9a047f">***Use of LiaScript to let students create their own learning content***</p>
----
+
+
+><big><p style="color:#9a047f">***Use of LiaScript to let students create their own learning content***</p></big>
+
 </center>
 
 {{1-2}}
