@@ -117,7 +117,7 @@ Britta Petersen (RZ CAU) & Richard Diebel (UB CAU)
   * Establishment of a teaching-learning format to promote research-based learning in history programmes
   * Acquisition of job-related skills (work in schools, archives, libraries and research institutions)
 
-* **Conducted**: WS 23/23
+* **Conducted**: WS 22/23
 * **Required performance**: Content development and technical realization of a digital learning module on a self-chosen topic from the field of "RDM" or "Digital Literacy"
 
 ******************
