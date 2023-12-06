@@ -27,7 +27,7 @@ Britta Petersen (RZ CAU) & Richard Diebel (UB CAU)
 
 [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
 
-# e-Learning modules on RDM and digital literacy at Kiel University
+# Prijects on RDM and digital literacy at Kiel University
 
 ![Bild](images/fdm_lehre.png) <!-- width="100px" align="right" -->
 
