@@ -49,19 +49,19 @@ TinyURL zu dieser Präsentation: https://tinyurl.com/FDM-biol-116
 
 # Was sind Forschungsdaten?
 
->![Bild](images/QR_anwergarden.png) <!-- style="width: 10%; float:right" -->
+>![Bild](https://chart.googleapis.com/chart?chs=400x400&cht=qr&chld=L|0&chl=https%3A%2F%2Fanswergarden.ch%2F4024842) <!-- style="width: 20%; float:right" -->
 >
 >**Lassen Sie uns kurz gemeinsam sammeln!**
 >
 >* Welche Beispiele für Forschungsdaten können Sie nennen?
 >
->https://answergarden.ch/2992576
+>https://answergarden.ch/4024842
 >
 > Sie dürfen so viele Begriffe eingeben, wie Sie möchten.
 
 ---
 
-<iframe src="https://answergarden.ch/2992576" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://answergarden.ch/4024842" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 {{1}}
 ********************************************************************************
@@ -487,11 +487,7 @@ Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kom
 >
 > Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich.
 >
->Ein Beispiel für eine entsprechende Stellenausschreibung finden Sie hier: https://www.pse.kit.edu/karriere/joboffer.php?id=101826&new=true
-
-
-** -> Welche Lehr-/Lernformate halten Sie für geeignet, Kompetenzen im Umgang mit digitalen Forschungsdaten zu erwerben?**
-
+>Ein Beispiel für eine entsprechende Stellenausschreibung finden Sie hier: https://recruitingapp-5636.de.umantis.com/Vacancies/418/Description/31
 
 
 # Herzlichen Dank!
