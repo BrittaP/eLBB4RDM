@@ -35,6 +35,8 @@ comment:  This document provides a brief introduction to research data managemen
 >
 > ![ccby](images/ccby.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/) with exception of the used material from other copyright holders.
 
+<div style="page-break-after: always;"></div>
+
 # Forschungsdatenmanagement
 
 TinyURL zu dieser Präsentation: https://tinyurl.com/FDM-biol-116
@@ -44,8 +46,7 @@ TinyURL zu dieser Präsentation: https://tinyurl.com/FDM-biol-116
     <sub style="text-align: center;">Illustration: Cleo Michelsen</sub>
 </div>
 
-
-
+<div style="page-break-after: always;"></div>
 
 # Was sind Forschungsdaten?
 
@@ -62,6 +63,8 @@ TinyURL zu dieser Präsentation: https://tinyurl.com/FDM-biol-116
 ---
 
 <iframe src="https://answergarden.ch/4024842" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<div style="page-break-after: always;"></div>
 
 {{1}}
 ********************************************************************************
@@ -109,6 +112,8 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 # Was ist Forschungsdatenmanagement?
 
 ![Bild](images\kurzberichte.png) <!--
@@ -132,6 +137,8 @@ onclick="alert('Let´s work together!');"
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 # Der Forschungsdatenlebenszyklus
 
 Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entlang des Forschungsdatenlebenszyklus...
@@ -142,10 +149,10 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 
 ![RD-Lifecyrcle](images\FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
 
-
 ************
 </center>
 
+<div style="page-break-after: always;"></div>
 
 {{1-2}}
 ********************************************************************************
@@ -165,10 +172,11 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 * Wer ist verantwortlich?
 * Welche Rechte habe ich, um die Daten zu publizieren?
 
-
 ---
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{2-3}}
 ********************************************************************************
@@ -185,6 +193,8 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 ********************************************************************************
 ---
 
+<div style="page-break-after: always;"></div>
+
 {{3-4}}
 ********************************************************************************
 
@@ -199,6 +209,8 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 
 ---
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 {{4-5}}
 ********************************************************************************
@@ -217,6 +229,8 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 # Ziel: FAIRe Daten
 
 Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar halten.
@@ -229,6 +243,8 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 ![Bild](images\fair.jpg "Quelle: Pundir, Sangya https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg [letzter Zugriff: 25.11.2021], CC-BY-SA-4.0.")
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 # Welchen Nutzen hat Forschungsdatenmanagement?
 
@@ -278,6 +294,7 @@ Welche Leitlinie der **~~DFG Leitlinien zur guten wissenschaftlichen Praxis~~** 
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
 
 # Erste Schritte im FDM
 
@@ -291,12 +308,16 @@ Welche Leitlinie der **~~DFG Leitlinien zur guten wissenschaftlichen Praxis~~** 
 <P><SMALL>https://xkcd.com/1459. Shared under CC-BY-NC License</SMALL></P>
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ## Ordnung und Struktur
 
 https://tinyurl.com/dateibenennung
 
 
 ![Bild](images\Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
+
+<div style="page-break-after: always;"></div>
 
 ## Literaturverwaltung
 
@@ -312,6 +333,8 @@ https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi
 
 ***
 
+<div style="page-break-after: always;"></div>
+
 {{2}}
 ***
 An der Universitätsbibliothek finden Sie Kurse zu citavi sowie verschiedenes Selbstlernmaterial:
@@ -321,6 +344,8 @@ An der Universitätsbibliothek finden Sie Kurse zu citavi sowie verschiedenes Se
 https://www.ub.uni-kiel.de/de/beratung-kurse/Kurse/c3-12.html
 
 ***
+
+<div style="page-break-after: always;"></div>
 
 ## opendata@uni-kiel.de
 
@@ -332,6 +357,7 @@ Denken Sie jetzt schon daran, wie Sie Ihre Daten nachhaltig aufbewahren können:
 
 ![Bild](images/open-data-kiel.png)
 
+<div style="page-break-after: always;"></div>
 
 # Organisation einer wissenschaftlichen Tagung
 
@@ -345,7 +371,11 @@ Denken Sie jetzt schon daran, wie Sie Ihre Daten nachhaltig aufbewahren können:
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 <iframe src="https://www.oncoo.de/t/z7f7" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<div style="page-break-after: always;"></div>
 
 {{1}}
 ********************************************************************************
@@ -386,7 +416,6 @@ Denken Sie jetzt schon daran, wie Sie Ihre Daten nachhaltig aufbewahren können:
 
 ********************************************************************************
 
-
 {{3}}
 ********************************************************************************
 
@@ -402,6 +431,8 @@ Denken Sie jetzt schon daran, wie Sie Ihre Daten nachhaltig aufbewahren können:
 * Publikationsarten (z. B. zusätzliche Datensatzveröffentlichung gewünscht?)
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 # Aktuelle Entwicklungen und wichtige Player
 
@@ -424,6 +455,9 @@ Denken Sie jetzt schon daran, wie Sie Ihre Daten nachhaltig aufbewahren können:
 Als größter Forschungsförderer in Deutschland hat sich die **DFG** mit dem Thema Forschungsdatenmanagement auseinandergesetzt. 2015 wurden die [DFG-Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/) veröffentlicht und ist durch fachspezifische Empfehlungen ergänzt. Der neue [Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis"](https://wissenschaftliche-integritaet.de/kodex/) geht an vielen Stellen auf ***FAIR & Open Data*** ein.
 
 ---
+
+<div style="page-break-after: always;"></div>
+
 ![Bild](images/BMBF-logo.png) <!-- width="150px" align="right" -->
 
 Das **Bundesministerium für Bildung und Forschung (BMBF)**:
@@ -431,6 +465,8 @@ Das **Bundesministerium für Bildung und Forschung (BMBF)**:
 Als einer der Förderer und Initiatoren der Nationalen Forschungsdateninfrastruktur verlangt das BMBF in den Richtlinien zur Förderung eine Datenmanagementplanung, wobei die Vorlagen hierzu variieren.
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ![Bild](images/European-Commission-logo.png) <!-- width="150px" align="right" -->
 
@@ -457,6 +493,8 @@ Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kom
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 {{3}}
 ********************************************************************************
 
@@ -466,6 +504,8 @@ Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kom
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 {{4}}
 ********************************************************************************
 
@@ -474,6 +514,8 @@ Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kom
 ![Bild](images/screenshot_nfdi4biodiversity.jpg)
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 # Berufliche Perspektiven
 
@@ -489,6 +531,7 @@ Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kom
 >
 >Ein Beispiel für eine entsprechende Stellenausschreibung finden Sie hier: https://recruitingapp-5636.de.umantis.com/Vacancies/418/Description/31
 
+<div style="page-break-after: always;"></div>
 
 # Herzlichen Dank!
 
@@ -497,3 +540,5 @@ Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kom
 Mehr zum FDM an der CAU finden Sie hier:
 
 https://www.fdm.uni-kiel.de/de
+
+<div style="page-break-after: always;"></div>
