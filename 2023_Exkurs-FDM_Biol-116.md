@@ -152,6 +152,8 @@ onclick="alert('Let´s work together!');"
 # Ziel: FAIRe Daten
 
 Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar halten.
+
+--> Den Original Artikel finden Sie [hier](https://www.nature.com/articles/sdata201618).
 ---
 
 ![Bild](images/fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).") <!-- width="500px" -->
@@ -227,9 +229,6 @@ R1.2. (Meta)data are associated with detailed provenance
 R1.3. (Meta)data meet domain-relevant community standards
 
 **************
-
-
---> Den Original Artikel finden Sie [hier](https://www.nature.com/articles/sdata201618).
 
 <div style="page-break-after: always;"></div>
 
@@ -391,7 +390,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 
 - Versionen? Verwenden Sie das [***semantische Versionsschema***](https://semverdoc.org/) (Major.Minor.Patch), z. B. 2.0.0
 
-  - Vermeiden Sie Anhänge, wie _final, _fertig, _inArbeit u. ä.
+  - Vermeiden Sie Anhänge, wie \_final, \_fertig, \_inArbeit u. ä.
 
 - Vermeiden Sie Leerzeichen und Sonderzeichen "🦄". 
 
@@ -555,7 +554,6 @@ Analysis data files will be named as follows:
 “YYYYMMDD\_area\_object\_condition_version”
 (example: “20230701\_Bov\_bs\_2_v1-1.csv”)
 
-
 **Abbreviations** in use:
 
 *area*: KI=Kiel, Bov=Bovenau, Emk=Emkendorf
@@ -586,11 +584,9 @@ https://tinyurl.com/dateibenennung
 
 <div style="page-break-after: always;"></div>
 
-### How do you like this
+### How do you like this?
 
 ![Tweet](introduction-to-rdm/images/Tweet_BuMiFi_Dateinamen.jpg)
-
-********************************************************************************
 
 ## Literaturverwaltung
 
@@ -632,7 +628,7 @@ Denken Sie jetzt schon daran, wie Sie Ihre Daten nachhaltig aufbewahren können:
 
 <div style="page-break-after: always;"></div>
 
-# Organisation einer wissenschaftlichen Tagung
+# Datenmanagement: Wissenschaftliche Tagung
 
 >![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
 >
@@ -710,7 +706,7 @@ Einige mögliche Punkte
 
 <div style="page-break-after: always;"></div>
 
-# Aktuelle Entwicklungen und wichtige Player
+# Wichtige Player
 
 {{0-2}}
 ********************************************************************************
