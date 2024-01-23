@@ -438,7 +438,7 @@ Welche Leitlinie der **~~DFG Leitlinien zur guten wissenschaftlichen Praxis~~** 
 
 <div style="page-break-after: always;"></div>
 
-{{3}}
+{{3-4}}
 ********************************************************************************
 
 **Beispiel für ein dokumentiertes Versionierungsschema**
@@ -451,6 +451,8 @@ Have a look here: [Zenodo](https://zenodo.org/record/6076538#.Y4pE63bMJPa)
 
 <div style="page-break-after: always;"></div>
 
+{{4}}
+********************************************************************************
 
 **How do you like this?**
 
