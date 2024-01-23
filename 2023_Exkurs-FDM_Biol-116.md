@@ -502,16 +502,6 @@ Have a look here: [Zenodo](https://zenodo.org/record/6076538#.Y4pE63bMJPa)
 
 <div style="page-break-after: always;"></div>
 
-{{4}}
-********************************************************************************
-
-**How do you like this?**
-
-![Tweet](introduction-to-rdm/images/Tweet_BuMiFi_Dateinamen.jpg)
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
 
 ### Beispiel README
 
@@ -580,7 +570,7 @@ Version information is given in the form of a major-minor specification in the f
 
 **major changes**: Extensive corrections, adjustments or additions to a data set or text file, such as a large number of additional entries in a table or extensive cleaning of data or addition of a chapter to a text. In this case, the version number increases in steps of one ("major" number + 1), e.g. from version 2.0 to version 3.0. If the "major" version number is changed, the "minor" version number must be numbered upwards again starting from "0" (e.g. version change from 2.14 to 3.0).
 
-**minor changes**: The version number in second place ("minor") increases by +1 if minor corrections have been made, such as the correction of spelling and typing errors. in texts or tables.
+**minor changes**: The version number in second place ("minor") increases by +1 if minor corrections have been made, such as the correction of spelling and typing errors in texts or tables.
 
 **~~STORAGE~~**
 
@@ -596,11 +586,17 @@ https://tinyurl.com/dateibenennung
 
 <div style="page-break-after: always;"></div>
 
+### How do you like this
+
+![Tweet](introduction-to-rdm/images/Tweet_BuMiFi_Dateinamen.jpg)
+
+********************************************************************************
+
 ## Literaturverwaltung
 
 Eine **Literaturverwaltungssoftware** hilft Ihnen, die für Ihre Arbeiten genutzten Quellen zu verwalten!
 
-{{1}}
+{{1-2}}
 ***
 Das Rechenzentrum stellt Ihnen eine Citavi-Campuslizenz zur Verfügung:
 
