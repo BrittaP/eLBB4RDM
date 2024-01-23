@@ -124,7 +124,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 <div style="page-break-after: always;"></div>
 
-# Was ist Forschungsdatenmanagement?
+# Forschungsdatenmanagement?
 
 ![Bild](images/kurzberichte.png) <!--
 style="width: 20%; max-width: 800px; float:right"
@@ -152,9 +152,9 @@ onclick="alert('Let´s work together!');"
 # Ziel: FAIRe Daten
 
 Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar halten.
-
---> Den Original Artikel finden Sie [hier](https://www.nature.com/articles/sdata201618).
 ---
+
+***--> Den Original Artikel finden Sie [hier](https://www.nature.com/articles/sdata201618).***
 
 ![Bild](images/fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).") <!-- width="500px" -->
 
@@ -325,7 +325,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 
 <div style="page-break-after: always;"></div>
 
-# Welchen Nutzen hat FDM?
+# Nutzen von FDM?
 
 >![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
 >
