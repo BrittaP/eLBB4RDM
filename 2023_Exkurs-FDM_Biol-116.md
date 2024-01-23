@@ -162,6 +162,75 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
 ********************************************************************************
 
+{{2}}
+>**F**indable
+
+{{3-4}}
+****************
+Der erste Schritt bei der (Wieder-)Verwendung von Daten besteht darin, sie zu finden. Metadaten und Daten sollten sowohl für Menschen als auch für Computer leicht zu finden sein. Maschinenlesbare Metadaten sind für das automatische Auffinden von Datensätzen und Diensten unerlässlich und daher ein wesentlicher Bestandteil des FAIRification-Prozesses.
+
+F1. (Meta)data are assigned a globally unique and persistent identifier
+
+F2. Data are described with rich metadata (defined by R1 below)
+
+F3. Metadata clearly and explicitly include the identifier of the data they describe
+
+F4. (Meta)data are registered or indexed in a searchable resource
+
+***************
+
+{{3}}
+>**A**ccessible
+
+{{4-5}}
+***********************
+Sobald der Nutzer die gewünschten Daten gefunden hat, muss er wissen, wie er auf sie zugreifen kann, möglicherweise einschließlich Authentifizierung und Autorisierung.
+
+A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
+
+A1.1 The protocol is open, free, and universally implementable
+
+A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
+
+A2. Metadata are accessible, even when the data are no longer available
+
+******************
+
+{{4}}
+>**I**nteroperable
+
+{{5-6}}
+**********************
+Daten sollten in einer Form vorliegen, die die Nutzung mit diversen Anwendungen oder Arbeitsabläufen für die Analyse, Speicherung und Verarbeitung ermöglichen.
+
+I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
+
+I2. (Meta)data use vocabularies that follow FAIR principles
+
+I3. (Meta)data include qualified references to other (meta)data
+
+**********************
+
+{{5}}
+>**R**eusable
+
+{{6-7}}
+***************
+Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies zu erreichen, sollten Metadaten und Daten gut dokumentiert und beschrieben sowie mit einer eindeutigen Angabe bzgl. der Nutzungsbedingungen (Lizenzen) versehen sein.
+
+R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
+
+R1.1. (Meta)data are released with a clear and accessible data usage license
+
+R1.2. (Meta)data are associated with detailed provenance
+
+R1.3. (Meta)data meet domain-relevant community standards
+
+**************
+
+
+--> Den Original Artikel finden Sie [hier](https://www.nature.com/articles/sdata201618).
+
 <div style="page-break-after: always;"></div>
 
 
@@ -257,7 +326,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 
 <div style="page-break-after: always;"></div>
 
-# Welchen Nutzen hat Forschungsdatenmanagement?
+# Welchen Nutzen hat FDM?
 
 >![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
 >
@@ -284,27 +353,6 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 
 ********************************************************************************
 
-{{2}}
-********************************************************************************
-
-**Kurzer Rechercheauftrag**:
-
-Welche Leitlinie der **~~DFG Leitlinien zur guten wissenschaftlichen Praxis~~** beschäftigt sich mit der Dokumentation?
-
-********************************************************************************
-
-{{3}}
-********************************************************************************
-
-><p style="color:#9a047f">**Leitlinie 12: Dokumentation**
-„Wissenschaftlerinnen und Wissenschaftler dokumentieren alle für das Zustandekommen eines Forschungsergebnisses relevanten Informationen so nachvollziehbar, wie dies im betroffenen Fachgebiet erforderlich und angemessen ist, um das Ergebnis überprüfen und bewerten zu können. […]“
-</p>
->
-><P><SMALL>Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur guten wissenschaftlichen Praxis. Kodex. http://doi.org/10.5281/zenodo.3923602, S. 17.  
-</SMALL></P>
-
-********************************************************************************
-
 <div style="page-break-after: always;"></div>
 
 # Erste Schritte im FDM
@@ -324,6 +372,7 @@ Welche Leitlinie der **~~DFG Leitlinien zur guten wissenschaftlichen Praxis~~** 
 ### Daten strukturiert ablegen
 
 - Versuchen Sie, aussagekräftige Namen zu finden ➞ keine "Fantasienamen"
+
 - Verwenden Sie ein einheitliches Schema und eine logische Struktur
 
   - Ordnerstruktur und Dateinamen
@@ -341,6 +390,8 @@ Welche Leitlinie der **~~DFG Leitlinien zur guten wissenschaftlichen Praxis~~** 
   - Datum, z. B. JJJJ-MM-TT
 
 - Versionen? Verwenden Sie das [***semantische Versionsschema***](https://semverdoc.org/) (Major.Minor.Patch), z. B. 2.0.0
+
+  - Vermeiden Sie Anhänge, wie _final, _fertig, _inArbeit u. ä.
 
 - Vermeiden Sie Leerzeichen und Sonderzeichen "🦄". 
 
@@ -466,16 +517,7 @@ Have a look here: [Zenodo](https://zenodo.org/record/6076538#.Y4pE63bMJPa)
 
 >Ordnerstrukturen und Namenskonventionen sollten in einer **README-Datei** dokumentiert werden, die als einfache Textdatei in der ersten hierarchischen Ebene der gewählten Ordnerstruktur abgelegt werden sollte. 
 
-{{1-2}}
-********************************************************************************
-
-<div style="float:right; width:30%;">
-  <img src="introduction-to-rdm/images/Abb_OrdnerstrukturArchproject_2022_bp.png" alt="folder structure">
-</div>
-
-********************************************************************************
-
-{{2}}
+{{1}}
 ********************************************************************************
 
 Such a README-file could look like this:
@@ -733,7 +775,7 @@ Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kom
 
 <div style="page-break-after: always;"></div>
 
-{{3}}
+{{3-4}}
 ********************************************************************************
 
 **Für Ihren Fachbereich**: [**Dataplant**](https://www.nfdi4plants.de/)
