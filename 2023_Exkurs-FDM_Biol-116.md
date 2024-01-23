@@ -3,8 +3,8 @@
 author:   Britta Petersen
 email:    b.petersen@rz.uni-kiel.de
 version:  0.1.0
-language: en
-narrator: UK English Female
+language: de
+narrator: DE German Female
 
 icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
@@ -12,7 +12,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 -->
 
-# Disclaimer
+# Biol-116 - Disclaimer
 
 >**Britta Petersen, Cleo Michelsen**
 >
@@ -39,16 +39,19 @@ comment:  This document provides a brief introduction to research data managemen
 
 # Forschungsdatenmanagement
 
-TinyURL zu dieser Präsentation: https://tinyurl.com/FDM-biol-116
+TinyURL zu dieser Präsentation: http://tinyurl.com/biol116-FDM
 
-<div style="center; width:60%;">
+<div style="center; width:55%;">
   <img src="images/fdm_lehre.png" alt="teaching rdm">
     <sub style="text-align: center;">Illustration: Cleo Michelsen</sub>
 </div>
 
 <div style="page-break-after: always;"></div>
 
-# Was sind Forschungsdaten?
+# Forschungsdaten?
+
+{{0-1}}
+********************************************************************************
 
 >![Bild](https://chart.googleapis.com/chart?chs=400x400&cht=qr&chld=L|0&chl=https%3A%2F%2Fanswergarden.ch%2F4024842) <!-- style="width: 20%; float:right" -->
 >
@@ -62,11 +65,18 @@ TinyURL zu dieser Präsentation: https://tinyurl.com/FDM-biol-116
 
 ---
 
+********************************************************************************
+
+{{1-2}}
+********************************************************************************
+
 <iframe src="https://answergarden.ch/4024842" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 <div style="page-break-after: always;"></div>
 
-{{1}}
+********************************************************************************
+
+{{2-3}}
 ********************************************************************************
 Die DFG schreibt hierzu:
 
@@ -76,7 +86,7 @@ Die DFG schreibt hierzu:
 
 ********************************************************************************
 
-{{2}}
+{{3-4}}
 ********************************************************************************
 
 Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge University den Begriff Forschungsadaten:
@@ -87,10 +97,10 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ********************************************************************************
 
-{{3}}
+{{4}}
 ********************************************************************************
 
-![Bild](images\forschungsdatenBSP.png) <!-- width="350px" align="right" -->
+![Bild](images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
 
 **Beispiele für Forschungsdaten**:
 
@@ -116,7 +126,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 # Was ist Forschungsdatenmanagement?
 
-![Bild](images\kurzberichte.png) <!--
+![Bild](images/kurzberichte.png) <!--
 style="width: 20%; max-width: 800px; float:right"
 title="Zusammenarbeit"
 onclick="alert('Let´s work together!');"
@@ -139,7 +149,23 @@ onclick="alert('Let´s work together!');"
 
 <div style="page-break-after: always;"></div>
 
-# Der Forschungsdatenlebenszyklus
+# Ziel: FAIRe Daten
+
+Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar halten.
+---
+
+![Bild](images/fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).") <!-- width="500px" -->
+
+{{1}}
+********************************************************************************
+![Bild](images/fair.jpg "Quelle: Pundir, Sangya https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg [letzter Zugriff: 25.11.2021], CC-BY-SA-4.0.")
+
+********************************************************************************
+
+<div style="page-break-after: always;"></div>
+
+
+# Forschungsdatenlebenszyklus
 
 Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entlang des Forschungsdatenlebenszyklus...
 
@@ -147,7 +173,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 {{0-1}}
 ************
 
-![RD-Lifecyrcle](images\FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
+![RD-Lifecyrcle](images/FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen, based on UK Data Service") <!-- width="500px" -->
 
 ************
 </center>
@@ -156,7 +182,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 
 {{1-2}}
 ********************************************************************************
-![Bild](images\Planung_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](images/Planung_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Planung**:
 
@@ -180,7 +206,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 
 {{2-3}}
 ********************************************************************************
-![Bild](images\erhebung-analyse_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](images/erhebung-analyse_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Erhebung und Analyse**:
 
@@ -198,7 +224,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 {{3-4}}
 ********************************************************************************
 
-![Bild](images\veroeffentl-archiv_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](images/veroeffentl-archiv_fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Archivierung & Veröffentlichung**:
 
@@ -215,7 +241,7 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 {{4-5}}
 ********************************************************************************
 
-![Bild](images\nachnutzung-fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
+![Bild](images/nachnutzung-fdm-zyklus_2022.png) <!-- width="150px" align="right" -->
 
 **Nachnutzung**:
 
@@ -231,24 +257,9 @@ Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten entla
 
 <div style="page-break-after: always;"></div>
 
-# Ziel: FAIRe Daten
-
-Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar halten.
----
-
-![Bild](images\fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).") <!-- width="500px" -->
-
-{{1}}
-********************************************************************************
-![Bild](images\fair.jpg "Quelle: Pundir, Sangya https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg [letzter Zugriff: 25.11.2021], CC-BY-SA-4.0.")
-
-********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
 # Welchen Nutzen hat Forschungsdatenmanagement?
 
->![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
+>![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
 >
 >**Tauschen Sie sich kurz mit einer benachbarten Person aus.**
 >
@@ -310,12 +321,234 @@ Welche Leitlinie der **~~DFG Leitlinien zur guten wissenschaftlichen Praxis~~** 
 
 <div style="page-break-after: always;"></div>
 
-## Ordnung und Struktur
+### Daten strukturiert ablegen
+
+- Versuchen Sie, aussagekräftige Namen zu finden ➞ keine "Fantasienamen"
+- Verwenden Sie ein einheitliches Schema und eine logische Struktur
+
+  - Ordnerstruktur und Dateinamen
+
+  - Hierarchische Ordnung mit dem Wichtigsten zuerst
+
+  - Denken Sie an Ihre Vorlieben beim ___Sortieren!___
+
+  - Berühren Sie niemals Ihre Rohdaten - bewahren Sie sie in einem separaten Ordner auf!
+
+- Befolgen Sie [***ISO 8601***] (https://en.wikipedia.org/wiki/ISO_8601) für Daten und Zeiten
+
+  - Datum und Uhrzeit, z.B. JJJJMMTThhmmss±hhmm
+
+  - Datum, z. B. JJJJ-MM-TT
+
+- Versionen? Verwenden Sie das [***semantische Versionsschema***](https://semverdoc.org/) (Major.Minor.Patch), z. B. 2.0.0
+
+- Vermeiden Sie Leerzeichen und Sonderzeichen "🦄". 
+
+- Erlaubte Sonderzeichen sind Unterstrich (_) und Bindestrich (-)
+
+- ***Dokumentieren*** Sie Ihre Namenskonventionen und die verwendeten Abkürzungen
+
+  - README.md
+
+<div style="page-break-after: always;"></div>
+
+### Beispiele
+
+{{0-1}}
+********************************************************************************
+
+**Beispiel Ordnerstruktur**
+
+<center>
+  <img src="images\Abb_OrdnerstrukturArchproject_2022_bp.png" alt="example folder hirarchy">
+    <sub style="text-align: right;">Provided by Oliver Nakoinz</sub>
+</center>
+
+********************************************************************************
+
+{{1-2}}
+****************************************
+
+>**Beispiel für einen Dateinamen, der einer Benennungskonvention folgt:**
+>
+>[Project name]\_[Approach]\_[Location]\_[Person-ID]_[Date].[Format-Suffix]
+>
+>Rebel-Hunting\_Interview\_DS-1-Orbital-Battle-Station\_Organa\_1976-05-25.mp4
+
+****************************************
+
+<div style="page-break-after: always;"></div>
+
+### Versionskontrolle
+
+{{0-1}}
+********************************************************************************
+
+<center><img src="introduction-to-rdm/images/versioning-geek-and-poke.jpg" alt="which version to choose?" width="350"></center>
+
+********************************************************************************
+
+{{1-2}}
+********************************************************************************
+
+- Versionen in separaten Dateien speichern
+
+  - Semantische Versionierung (Major.Minor.Patch), z.B.,
+
+    - __0.1.0__ (eine Beta-Version)
+
+    - __1.0.0__ (eine Release-Version)
+
+    - __1.0.1__ (ein Release mit leichten Korrekturen)
+
+  - kann im Dateinamen enthalten sein
+
+  - Definieren Sie, was Sie als "Release" oder "leichte Korrektur" betrachten
+
+- Dokumentieren Sie Ihr Versionsschema und dokumentieren Sie ständig Ihre Änderungen
+
+  - README.md
+
+  - Versionskontrolltabelle
+
+- Arbeiten Sie in einem Team? Viele Änderungen? Verwenden Sie ein verteiltes Versionskontrollsystem!
+
+  - Git
+
+  - GitLab, GitHub
+---
+
+********************************************************************************
+
+<div style="page-break-after: always;"></div>
+
+{{2-3}}
+********************************************************************************
+
+**Wie eine Versionskontrolltabelle aussehen könnte**
+
+| Versionsnr.  | Changes                      | Date      | changed by |
+| :----------  | :----------                      | ---        | ---               |
+| 1.0          | Release                         | 2016-11-2  | KL                |
+| 1.1          | Erased spelling mistakes  | 2016-11-20 | KL                |
+| 1.2          | Changed layout            | 2017-02-20 | GN                |
+| 2.0          | Add new chapter (3.1.) | 2017-02-20 | GN                |
+
+********************************************************************************
+
+<div style="page-break-after: always;"></div>
+
+{{3}}
+********************************************************************************
+
+**Beispiel für ein dokumentiertes Versionierungsschema**
+
+<img src="introduction-to-rdm/images/OstData_Versionierungsschema.png" alt="Beispiel Versionierungschema">
+
+Have a look here: [Zenodo](https://zenodo.org/record/6076538#.Y4pE63bMJPa)
+
+********************************************************************************
+
+<div style="page-break-after: always;"></div>
+
+
+**How do you like this?**
+
+![Tweet](introduction-to-rdm/images/Tweet_BuMiFi_Dateinamen.jpg)
+
+********************************************************************************
+
+<div style="page-break-after: always;"></div>
+
+### Beispiel README
+
+>Ordnerstrukturen und Namenskonventionen sollten in einer **README-Datei** dokumentiert werden, die als einfache Textdatei in der ersten hierarchischen Ebene der gewählten Ordnerstruktur abgelegt werden sollte. 
+
+{{1-2}}
+********************************************************************************
+
+<div style="float:right; width:30%;">
+  <img src="introduction-to-rdm/images/Abb_OrdnerstrukturArchproject_2022_bp.png" alt="folder structure">
+</div>
+
+********************************************************************************
+
+{{2}}
+********************************************************************************
+
+Such a README-file could look like this:
+
+
+**~~GENERAL~~**
+
+Project: Any study or research project
+
+Date: 2023-07-10
+
+Description: [Short description of the project]
+
+Course: Research Data Management in Prehistoric Archaeology
+
+Lecturer(s): [Names]
+
+**~~FOLDER~~**
+
+All files related to the project live in the folder ***AnyStudyProject***, with content organized into subfolders as follows:
+
+– ***RawData***: All raw data goes into this folder, subfolders organized by date if applicable
+
+– ***AnalysedData***: Data files to be analysed, subfolders organized by date if applicable
+
+– ***Figures***: Figures created from analysis files
+
+– ***ThesisDrafts***: Draft of thesis, including text, figures, outlines
+
+– ***References***: Library of my references
+
+– ***AnalogDocumentation***: Scanned copies of my written research notes and other research notes
+
+– ***Miscellaneous***: Other information that relates to this project
+
+**~~FILE NAMING~~**
+
+Raw data files will be named as follows:
+
+“raw_YYYYMMDD\_area\_object\_condition”
+(example: “raw_20230701\_Bov\_bs\_2.csv”)
+
+Analysis data files will be named as follows:
+
+“YYYYMMDD\_area\_object\_condition_version”
+(example: “20230701\_Bov\_bs\_2_v1-1.csv”)
+
+
+**Abbreviations** in use:
+
+*area*: KI=Kiel, Bov=Bovenau, Emk=Emkendorf
+
+*objects*: bs=blade scraper, B=hatchet
+
+*condition*: 1=fully preserved, 2=partly preserved, 3=poorly preserved/fragment
+
+**~~VERSIONING~~**
+
+Version information is given in the form of a major-minor specification in the file name (vmajor-minor).
+
+**major changes**: Extensive corrections, adjustments or additions to a data set or text file, such as a large number of additional entries in a table or extensive cleaning of data or addition of a chapter to a text. In this case, the version number increases in steps of one ("major" number + 1), e.g. from version 2.0 to version 3.0. If the "major" version number is changed, the "minor" version number must be numbered upwards again starting from "0" (e.g. version change from 2.14 to 3.0).
+
+**minor changes**: The version number in second place ("minor") increases by +1 if minor corrections have been made, such as the correction of spelling and typing errors. in texts or tables.
+
+**~~STORAGE~~**
+
+All files will be stored on my computer and backed up [daily,weekly,...] to CAU Cloud and and an external hard disk.
+
+********************************************************************************
+
+## Weiter lernen
 
 https://tinyurl.com/dateibenennung
 
-
-![Bild](images\Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
+![Bild](images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg "Illustration: Cleo Michelsen")
 
 <div style="page-break-after: always;"></div>
 
@@ -327,7 +560,7 @@ Eine **Literaturverwaltungssoftware** hilft Ihnen, die für Ihre Arbeiten genutz
 ***
 Das Rechenzentrum stellt Ihnen eine Citavi-Campuslizenz zur Verfügung:
 
-![Bild](images\citavi-RZ.jpg)
+![Bild](images/citavi-RZ.jpg)
 
 https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi
 
@@ -339,7 +572,7 @@ https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi
 ***
 An der Universitätsbibliothek finden Sie Kurse zu citavi sowie verschiedenes Selbstlernmaterial:
 
-![Bild](images\citavi-UB.jpg)
+![Bild](images/citavi-UB.jpg)
 
 https://www.ub.uni-kiel.de/de/beratung-kurse/Kurse/c3-12.html
 
@@ -361,7 +594,7 @@ Denken Sie jetzt schon daran, wie Sie Ihre Daten nachhaltig aufbewahren können:
 
 # Organisation einer wissenschaftlichen Tagung
 
->![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
+>![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
 >
 >**Tauschen Sie sich kurz mit einer benachbarten Person aus.**
 >
@@ -379,6 +612,9 @@ Denken Sie jetzt schon daran, wie Sie Ihre Daten nachhaltig aufbewahren können:
 
 {{1}}
 ********************************************************************************
+
+Einige mögliche Punkte
+---
 
 **Vorbereitungen**
 
