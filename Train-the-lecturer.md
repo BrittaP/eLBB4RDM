@@ -14,11 +14,17 @@ comment:  This document provides a brief introduction to research data managemen
 
 # Train-the-Lecturer Forschungsdatenmanagement
 
-<center><img src="images/fdm_lehre.png" alt="people standing in front of " height="auto" width="auto"></center>
+<center><img src="images/fdm_lehre.png" alt="people standing in front of " height="50%" width="50%"></center>
 (Illustration: Cleo Michelsen)
 
+> To see this document as an interactive LiaScript rendered version, click on the
+> following link/badge:
+>
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://cau-git.rz.uni-kiel.de/fdm/schulungen/git-einfuehrung/-/raw/main/course_materials/didactic_aspects.md)
+>
+> If you have questions, don´t hesitate to contact us: [fdm@rz.uni-kiel.de](mailto:fdm@rz.uni-kiel.de)
 
-Zentrales Forschungsdatenmanagement, Britta Petersen, b.petersen@rz.uni-kiel.de
+---
 
 ## Warm up
 
@@ -136,26 +142,6 @@ Zentrales Forschungsdatenmanagement, Britta Petersen, b.petersen@rz.uni-kiel.de
 - Fehler zulassen -> positive Fehlerkultur.
 - Geben Sie Bescheid, wenn Sie eine Pause benötigen.
 
-## ~~Kartenabfrage~~: Erwartungen an den Workshop
-
-Ich würde gerne etwas mehr über Ihre Erwartungen und Befürchtungen in Bezug auf diesen Workshop erfahren.
-
-Sie werden in Kleingruppen für 10 Minuten in Break-Out-Räumen zusammenkommen.
-
-> **Stellen Sie sich einander kurz vor:**
->
->* Aus welchen Fachbereichen kommen Sie?
->* Welche Fachinhalte vermitteln Sie?
->
->Tauschen Sie sich in Ihrer Kleingruppe dazu aus, welche **Wünsche/Erwartungen** und welche **Befürchtungen** in Bezug auf diesen Workshop Sie mitbringen.
->
->* Sammeln Sie Ihre Punkte bitte auf **ONCOO-Karten**: https://www.oncoo.de/jzvb
->* Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.  
-
-### ~~Review~~: Erwartungen an den Workshop
-
-<iframe src="https://www.oncoo.de/t/jzvb" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
 ## Ziele dieses Workshops
 
 ![Goals today](images/targets.png) <!-- width="200px" align="right" -->
@@ -193,87 +179,392 @@ Unsere Agenda für heute
 - Nähere Betrachtung von einzelnen Themenaspekten
 - Übungen ausprobieren und eigene Ideen/Übungen/Aufgabenstellungen entwickeln
 - Lehr-/Lernmaterialien und Methoden suchen und finden
-- Offene Fragen
+- Offene Fragen/Wünsche
 - Feedback
 
 ---
 
-** Wir machen eine Stunde Mittagspause**: ca. 12:45 - 13:45 Uhr
+** Wir machen eine Stunde Mittagspause**
 
 # Allgemeine didaktische Hinweise
 
 Bevor wir in das Thema Forschungsdatenmanagement einsteigen, einige allgemeine didaktische Hinweise:
 
+## Planung einer Lehrveranstaltung
+
+Bei der Planung einer Lehrveranstaltung müssen Sie immer drei wichtige Fragen beantworten:
+
+- Was ist das Ziel?
+- Wer ist Ihre Zielgruppe?
+- Wie viel Zeit haben Sie zur Verfügung?
+
+<!-- style="width: 80%;background-color: lightblue;"-->
+``` ascii
+
+         Ziel🎯
+          /\
+         /  \
+        /____\
+  Zeit⏳       Zielgruppe👥
+```
+
 ## Rahmenbedingungen einer Lehrveranstaltung
 
-![Bild](images/planung_lehre_bremer_2002.png)
+Neben den Schlüsselfragen gilt es, sich weitere Rahmenbedingungen zu verdeutlichen und diese bei der Planung zu beachten:
 
+<!-- style="width: 80%;background-color: lightblue;"-->
+``` ascii
+
+ .--------------------------------.
+ | Aspects of course planning     |
+ '--------------------------------'
+
+                        learning styles    prior knowledge     learning content
+                                    \         /                   /
+                                   .-------------.     .-----------------.
+                   diversity------ | learners👥  |     | content related |----learning objectives
+                                   '-------------'     | aspects 🎯      |
+                                        \              '-----------------'
+                                         \              /
+           type of course                 \            /               equipment
+                   \                       \          /                  /
+               .----------------.        +-----------------+       .--------------.
+      time-----| administrativ  |--------| course planning |-------|  technical   |--- support
+               | aspects ⏳      |        +-----------------+       |  aspects     |
+               '----------------'                |                 '--------------'
+                 /        |                      |                         \
+  learning location     formal                   |                          \
+                        requirements             |                         media
+                                         .-------------.  
+                                         | didactic    |
+                            assessment---| aspects     | \
+                                         '-------------'  social forms
+                                                |
+                                        teaching methods
+```
 ## Phasen einer Lerneinheit
 
-![Bild](images/phasen_lehrveranstaltung_beat.png "Phasen einer Lerneinheit, aus Basisveranstaltung Beat - be a tutor")
+<!-- style="width: 80%;background-color: palegrey;"-->
+``` ascii
+.----------------------------------------------------------------------.
+|Preparation: define goal(s), target group, time and other             |
+|conditions. Explain access and technical requirements, references     |
+|to related materials/LMS course, other references                     |
++----------------------------------------------------------------------+
 
-![Bild](images\lehr-lern-modell_Leisen_2020.jpg "Lehr-Lern-Modell nach Leisen, 2020; online unter www.lehr-lern-modell.de/aufgabenstellungen")
+.----------------------------------------------------------------------.
+| Teaching unit                                                        |
+| +----------------.  .--------------------------.  .----------------+ |
+| | Entry      📖  |  | Working phase        👩‍💻  |  | Closing    🏁  | |
+| |----------------|  |--------------------------|  |--------------- | |
+| | identify       |  | stimulate                |  | summarize      | |
+| | activate       |  | support                  |  | confirm        | |
+| | motivate       |  | lead/direct              |  | feedback       | |
+| |                |  |                          |  | evaluate       | |
+| |                |  |                          |  | close          | |
+| |                |  |                          |  | open           | |
+| +----------------'  '--------------------------'  '----------------+ |
+|                                                                      |
+|      -----------------learning objectives----------------->          |
+'----------------------------------------------------------------------'
+
++----------------------------------------------------------------------+
+| Follow-up: save results, share minutes with participants,            |
+| evaluate feedback, reflection                                        |
+'----------------------------------------------------------------------'
+
+```
+## Planungshilfen
+
+Bei der Gestaltung und Vorbereitung einer Lehrveranstaltung können hilfreich sein:
+
+- **Mindmaps**
+
+  - helfen, einen thematischen Überblick über Inhalte und Rahmenbedingungen zu erhalten
+
+- **Checklisten**
+
+  - helfen bei der (Selbst-)Organisation im Vorfeld
+
+- **Ablaufpläne**
+
+  - helfen bei der Feinplanung der Veranstaltung
+  - helfen, während einer Veranstaltungsdurchführung organisiert zu bleiben
+
+- **Vorhandenes Unterrichtsmaterial**
+
+  - offen lizensiert und nachnutzbar aufbereitetes Lehr-/Lernmaterial (OER) 
+
+### Checklist
+
+Checklisten können helfen, sich auf eine Lehrveranstaltung vorzubereiten. 
+
+```markdown
+# Checklist: Planning a workshop
+
+## People involved
+
+- Who is responsible and who else is involved (e.g. aditional technical support)?
+
+## Who is the audience?
+
+- Who is your audience?
+- Prior knowledge and experiences?
+- What motivates people to participate?
+- Any special needs to be considered?
+- ...
+
+## What is the topic?
+
+- What is the core topic of your workshop?
+- How can you break down a complex topic into manageable learning bites?
+
+## Learning objectives
+
+Define clear, comprehensible and achievable goals.
+
+- What knowledge and what skills should participants have acquired at the end of the workshop?
+
+## Time
+
+- How much time do you have?
+
+## Formal requirements
+
+- Are there any formalties to consider?
+
+## Type of implementation
+
+- Do you conduct your workshop as face-to-face event, online, hybrid or blended?
+
+- [ ] face-to-face
+- [ ] online
+- [ ] hybrid
+- [ ] blended
+
+## Required material
+
+- List the required material (e.g. handouts, presentation, videos, paper and markers)
+
+## Technical aspects
+
+- What technical aspects do you need to take into account for preparation and implementation of your workshop?
+- What kind of OS and softwares will you be working with?
+- Is it necessary to prepare the devices used (e.g. installation of programs)?
+- Any preparations with regard to authorization and authentication for certain systems necessary?
+
+## Methods and social forms
+
+- What kind of teaching methods do you plan to use?
+- In which social forms will participants work?
+
+## Assessment
+
+- Do you plan an assessment?
+- Which form of assessment do you plan?
+
+## Feedback/Evaluation
+
+- How do you plan to collect feedback?
+- Will you use tools to evaluate?
+```
+
+### Ablaufpläne
+
+Ablaufpläne helfen dabei, eine Veranstaltung Schritt für Schritt zu planen.
+
+Ablaufpläne helfen dabei...
+
+- das Zeitlimit einzuhalten
+- einen Überblick über die kommenden Schritte zu haben
+- die benötigten Materialien (z.B. über Links) zum richtigen Zeitpunkt zur Hand zu haben
+- Rollen zuzuweisen (Teamteaching)
+- die Veranstaltung an jemanden abgeben zu können
+- ...
 
 
-## Motivation & Aktivierung
+> Ein Beispiel könnte so aussehen:
+>
+> [Bild](images/Planungsraster.png)
+
+Ein runterladbares Beispiel finden Sie hier: [Ablaufplan: Introduction to Git&GitLab](https://cau-git.rz.uni-kiel.de/fdm/schulungen/git-einfuehrung/-/tree/main/course_materials?ref_type=heads)
+
+
+
+## Die Frage nach dem Wie?
+
+### Prioritäten setzen
+
+> **Zeit ist immer ein limitierender Faktor! **
+>
+> Wir müssen entscheiden, was wirklich nötig ist, um Lernziele in einer bestimmten Zeit zu erreichen, d.h. wir müssen
+>
+> - Prioritäten setzen
+> - das Wesentliche aus den zu vermittelnden Inhalten herausfiltern.
+
+Hier kann eine Tabelle hilfreich sein, um einen Überblick über besonders und weniger wichtige Inhalte zu erhalten
+---
+
+<!-- markdownlint-capture -->
+
+<!-- markdownlint-disable MD033 -->
+
+<!-- style="width: 100%;background-color:lightblue;"-->
+> | muss | sollte | könnte |
+> | ------------------------------ | -------- | -------- |
+> | Absolut notwendig, um <br> das Thema zu verstehen. | Es wäre sinnvoll <br>, diese Aspekte anzusprechen. | Wenn genügend Zeit zur Verfügung steht, wäre es schön, diese Aspekte zu behandeln. |
+> | ... | ... | ... |
+
+<!-- markdownlint-restore -->
+
+### Motivation
+
+{{0-4}}
+********************************************************************************
+
+**Nach der Selbstbestimmungstheorie von Deci & Ryan (2008) wird die Motivation der Lernenden durch die Erfüllung bestimmter Bedürfnisse bestimmt:**
+
+********************************************************************************
 
 {{0-2}}
 ********************************************************************************
 
-**Die Motivation von Lernenden wird von der Erfüllung bestimmter Bedürfnisse bestimmt:**
+<!-- style="width: 80%;background-color: palegrey;"-->
+``` ascii
+                 +----------+
+                / feeling of \
+      +--------+  competency  +---------+
+     / feeling  \            /  social   \
+    +of autonomy +----------+ integration +
+     \          /            \           /
+      '--------+  MOTIVATION  +---------'
+                \            /
+                 '----------'
+```
 
 ********************************************************************************
 
-{{1-2}}
+{{2}}
 ********************************************************************************
-
-![Bild](images/motivation_decyRyan_2.png "Motivation-bestimmende Bedürfnisse nach Deci & Ryan 1993")
-
-********************************************************************************
-
-{{2-3}}
-********************************************************************************
-
-**Aktivierung von Lernenden wirkt sich lernförderlich aus:**
----
+<!-- style="width: 80%;background-color: palegrey;"-->
+``` ascii
+                       .-------------------.
+                       | achievable goals  |
+                       '-------------------'
+ .-------------------.            |             .----------------------------.
+ | transparent goals |       +----------+       |good atmosphere, activities |
+ '-------------------'      /            \      '----------------------------'
+             \    +--------+  competence  +---------+    /
+              \  /          \            / social    \  /
+                +  autonomy  +----------+ integration +
+                 \          /            \           /
+                  '--------+  MOTIVATION  +---------'
+                            \            /
+                             '----------'
+```
 
 ********************************************************************************
 
 {{3}}
 ********************************************************************************
 
-![Bild](images/aktivierungsgrade_4.png "Nach Beege, B. & Antosch-Bardohn (2020)")
+>**Was denken Sie? Welche Maßnahmen können die Motivation der Lernenden steigern? Wie können wir als Lehrende auf die Bedürfnisse der Lernenden eingehen?**
 
-**********************
+********************************************************************************
 
-## Planungshilfen
+### Aktivierung
+
+{{0-1}}
+********************************************************************************
+
+<!-- style="width: 70%;background-color: lightblue;"-->
+``` ascii
+ .-------------------------------------------------------------.
+ | Level of activation during lessons                          |
+ |-------------------------------------------------------------|
+ |                                                             |  
+ | .---------------.                                           |
+ | |  interactive  |-> collaborative and creating processes    |
+ | '-------+-------'                                           |
+ |        |                                                    |
+ |        |  more learning-friendly than                       |
+ |        V                                                    |
+ |.-------+-------.                                            |
+ || collaborative |-> generate output, contribute own ideas    |
+ |'-------+-------'                                            |
+ |        |                                                    |
+ |        |  more learning-friendly than                       |
+ |        V                                                    |
+ |.-------+-------.                                            |
+ ||     active    |-> to do something, to be actively involved |
+ |'---------------'                                            |
+ |        |                                                    |
+ |        |  more learning-friendly than                       |
+ |        V                                                    |
+ |.-------+-------.                                            |
+ ||    passive    |-> listening                                |
+ |'---------------'                                            |
+ '-------------------------------------------------------------'
+```
+
+********************************************************************************
 
 {{1-2}}
 ********************************************************************************
-**Die 3-Z-Regel:**
 
-![Bild](images/3Z-Regel.png "Nach Katarzyna Biernacka, Dr. Dominika Dolzycka, Kerstin Helbig, Petra Buchholz")
+Verschiedene Aktivierungsmethoden eine Variation von Sozial- und Arbeitsformen einbeziehen
+---
+
+- Sie haben einen positiven Effekt auf das Lernen
+- Sie verlagern die Aktivität vom Trainer auf die Lernenden
+- Verschiedene Methoden sprechen unterschiedliche Lerntypen an
+- Verschiedene Sozialformen sprechen unterschiedliche Lerntypen an
+- Unterschiedliche Methoden erfordern einen unterschiedlichen Zeitaufwand
 
 ********************************************************************************
 
 {{2-3}}
 ********************************************************************************
 
-**Planungsraster/Lehrdrehbücher**
+Kriterien für die Auswahl einer Methode
+---
 
-![Bild](images/Planungsraster.png)
+- Thema
+- Größe der Gruppe
+- Energie der Gruppe
+- Verfügbare Zeit
+- Persönlicher Unterrichtsstil
+********************************************************************************
+
+{{3}}
+********************************************************************************
+
+Verschiedene Universitäten bieten Sammlungen von Methoden für die Lehre an.
+---
+
+Eine kleine Auswahl haben wir Ihnen mitgebracht:
+
+- [Methodensammlung der CAU Kiel](https://einfachgutelehre.uni-kiel.de/methoden)
+
+- [Methodensammlung Universität Konstanz](https://www.uni-konstanz.de/asd/infopool/toolbox-lehre/methodensammlung/)
+
+- [Methodensammlung HS Fulda](https://www.hs-fulda.de/unsere-hochschule/a-z-alle-institutionen/dienstleistungen-lehre-und-studium/fuer-lehrende/hochschuldidaktik/methodenkoffer)
 
 ********************************************************************************
 
+
 # Forschungsdatenmanagement in der Lehre
 
+{{0-1}}
+********************************************************************************
 ![Bild](images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
 
 **Warum sollten wir den Themenkomplex FDM in die Lehre integrieren?**
 
-* Forschungsdatenmanagement und Data Literacy sind in allen wissenschaftlichen Disziplinen ein in den letzten Jahren immer mehr diskutiertes Thema.
+* Forschungsdatenmanagement/Data Literacy sind in allen wissenschaftlichen Disziplinen ein in den letzten Jahren immer mehr diskutiertes Thema.
 
-* Nachdem zunächst die Aus- und Weiterbildung von Forschenden und Infrastrukturmitarbeitenden im Bereich FDM fokussiert wurde, wird heute zunehmend eine Integration des Themenbereichs in die Lehre gefordert:
+* Nachdem zunächst die Aus- und Weiterbildung von Forschenden und Infrastrukturmitarbeitenden im Bereich FDM fokussiert wurde, wird heute zunehmend auch eine Integration des Themenbereichs in die Lehre gefordert:
+********************************************************************************
 
 {{1-2}}
 ********************************************************************************
@@ -291,22 +582,107 @@ Es existieren auch Forderungen von Studierendenseite:
 
 ********************************************************************************
 
+## Förderer und andere wichtige Player
+
+{{0-2}}
+********************************************************************************
+
+**Forschungsförderer** legen zunehmend Wert auf ein gutes Forschungsdatenmanagement und fordern bei Forschungsanträgen z. B. den Nachweis von Planungen (DMPs) zum Umgang mit Daten.
+
+********************************************************************************
+
+{{1-2}}
+********************************************************************************
+
+---
+
+![Bild](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/DFG-logo-blau.svg/506px-DFG-logo-blau.svg.png) <!-- width="100px" align="right" -->
+
+**Deutsche Forschungsgemeinschaft (DFG)**:
+
+Als größter Forschungsförderer in Deutschland hat sich die **DFG** mit dem Thema Forschungsdatenmanagement auseinandergesetzt. 2015 wurden die [DFG-Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/) veröffentlicht und ist durch fachspezifische Empfehlungen ergänzt. Der neue [Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis"](https://wissenschaftliche-integritaet.de/kodex/) geht an vielen Stellen auf ***FAIR & Open Data*** ein.
+
+---
+![Bild](images/BMBF-logo.png) <!-- width="150px" align="right" -->
+
+Das **Bundesministerium für Bildung und Forschung (BMBF)**:
+
+Als einer der Förderer und Initiatoren der Nationalen Forschungsdateninfrastruktur verlangt das BMBF in den Richtlinien zur Förderung eine Datenmanagementplanung, wobei die Vorlagen hierzu variieren.
+
+---
+
+![Bild](images/European-Commission-logo.png) <!-- width="150px" align="right" -->
+
+**Europäische Kommission (EC):**
+
+Im Rahmenprogramm Horizon 2020 wurden erstmals die Anforderungen an das Forschungsdatenmanagement im Open Data Pilot formuliert. Seit 2017 ist die Beteiligung am Open Data Pilot und somit das Datenmanagement nach den FAIR-Data-Prinzipien (findable, accessible, interoperable and reusable) mit einer mehrstufigen Datenmanagementplanung und der Veröffentlichung unter Open Access der Standard. Das gilt auch für das aktuelle [Rahmenprogramm Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf).
+
+********************************************************************************
+
+{{2-3}}
+********************************************************************************
+
+---
+
+![Bild](images/nfdi_logo.png) <!-- width="150px" align="right" -->
+
+**Nationale Forschungsdateninfrastruktur (NFDIs)**:
+
+Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kompetenz- und Infrastrukturnetzwerk, das die Bereitstellung und Erschließung von Forschungsdaten für die Wissenschaft sicherstellen soll.
+
+[**NFDI e. V.**](https://www.nfdi.de/)
+
+![Bild](images/screenshot_nfdi.jpg)
+
+********************************************************************************
+
+{{3}}
+********************************************************************************
+
+---
+
+**Kurzer Rechercheauftrag**:
+
+Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
+
+[**NFDI e. V.**](https://www.nfdi.de/)
+
+********************************************************************************
+
+## Berufliche Perspektiven aufzeigen
+
+> Mit wissenschaftlicher Expertise ***und*** guten Kenntnissen im Bereich des Datenmanagements entstehen zusätzliche berufliche Perspektiven innerhalb der Fachwissenschaften sowie in zentralen Einrichtungen, wie Rechenzentren oder Universitätsbibliotheken zur Verfügung.
+>
+> Mögliche Berufsbezeichnungen für diese Tätigkeitsbereiche sind z. B.:
+>
+> * Data Steward,
+> * Data Curator und/oder
+> * Data Collector
+>
+> Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich.
+
 # Orientierung im Themenbereich FDM
+
+Der Themenbereich Forschungsdatenmanagement ist komplex. 
+
+Wir wollen uns dem Themenbereich erstmal vorsichtig nähern...
 
 ## ~~Wordcloud~~: Forschungsdatenmanagement
 
-![Bild](images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
+![Bild](images/FragezeichenTyp.jpg) <!-- width="80px" align="right" -->
 
-**Was genau ist nun mit dem Begriff Forschungsdatenmanagement gemeint?**
-
-Welche Inhaltsaspekte gehören eigentlich dazu? Lassen Sie uns kurz gemeinsam sammeln!
+**Was genau ist mit dem Begriff Forschungsdatenmanagement gemeint?**
 
 > Was denken Sie? Welche Inhaltsaspekte gehören zum Themenspektrum FDM?
 >
 > Geben Sie unter https://answergarden.ch/2861448 Begriffe ein, die Sie mit dem Begriff Forschungsdatenmanagement verbinden. Sie dürfen so viele Eingaben machen, wie Sie möchten.
 
+{{1}}
+********************************************************************************
+
 <iframe src="https://answergarden.ch/2861448" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
+********************************************************************************
 
 ## ~~Gruppenarbeit~~: Lernzielmatrix zum Themenbereich FDM
 
@@ -327,7 +703,7 @@ Notieren Sie Stichpunkte zu Ihren Diskussionen auf dem Miro-Borad: https://miro.
 
 Bestimmen Sie eine Person, die Ihre Diskussion im Plenum kurz zusammenfasst.
 
-Sie haben 10 Minuten Zeit.
+Sie haben ~10 Minuten Zeit.
 ---
 
 ## Begriffsdefinition Forschungsdatenmanagement
@@ -456,60 +832,16 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ********************************************************************************
 
-## ~~Diskussion~~: Welchen Nutzen hat Forschungsdatenmanagement?
-
-![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
-
-**Wir schauen uns ein kurzes Video an. Behalten Sie dabei folgende Fragen im Hinterkopf:**
-
-* Welchen Nutzen/welche Vorteile kann ein gutes Forschungsdatenmanagement haben?
-* Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen?
-
-Ihre Gedanken dürfen Sie gerne auf dem Miro-Board festhalten: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542714668208&cot=14
-
----
-
-{{1}}
-********************************************************************************
-
-Movie time!
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-
-********************************************************************************
-
-
-{{2}}
-********************************************************************************
->**Gutes Forschungsdatenmanagement trägt bei zu ...**
->
-> - Reproduzierbarkeit von Ergebnissen (GWP)
-> - Rückverfolgbarkeit und Transparenz der Forschung (GWP)
-> - gute Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und beschreibende Metadaten
-> - Wissenserhalt – Daten sollen unabhängig von einzelnen Menschen, Projekten oder Institutionen zugänglich sein (GWP)
-> - Erleichterung der Zusammenarbeit
-> - Vorbeugung von Datenverlusten
-> - Kostenersparnis, z. B. durch Nachnutzung statt neuer Erhebung
-> - Transfer der Daten in zukünftige Projekte
-> - Erhöhung der Sichtbarkeit der eigenen Arbeit durch Forschungsdatenzitation
-> - Erfüllung von Auflagen der Drittmittelgeber
-> - ….
-
-********************************************************************************
 # Erste Schritte im FDM
 
-Wir werden uns im Folgenden eine Auswahl an Themenaspekten näher anschauen:
+Wir werden uns eine Auswahl an Themenaspekten etwas näher anschauen:
 
 * Forschungsdaten ordnen und strukturieren
 * Versionierung
 * Formate
 * Forschungsdaten dokumentieren
-* FAIR-Prinzipien
 * Nachnutzung von Forschungsdaten
+* FAIR-Prinzipien
 
 ## Strukturierte Ordner- und Dateibenennung
 
@@ -636,13 +968,6 @@ Beispiele für Benennungskonventionen:
 
 ********************************************************************************
 
-### ~~Einzelarbeit~~: Ordner- und Dateibenennung als e-Learning Baustein
-
-https://tinyurl.com/dateibenennung
-
-![Bild](images/Comic_Datenverlust_v2_2022_web.jpg "Illustration: Cleo Michelsen")
-
-
 ### ~~Einzelarbeit~~: Dateibenennungskonvention für Abgaben
 
 <div style="text-align:center">
@@ -662,9 +987,7 @@ https://tinyurl.com/dateibenennung
 >2. die zu verwendenden, beschreibenden Namensaspekte und deren Reihenfolge sowie
 >3. Vorgaben für  ggf. zu verwendende Abkürzungen.  
 >
->Legen Sie sich ein eigenes zumpad für Ihre Dokumentation an: https://zumpad.zum.de/
->
->Posten Sie den Link zu Ihrem Dokument auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556871918720&cot=10.
+>Dokumentieren Sie auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556871918720&cot=10.
 
 ## Versionierung
 
@@ -833,79 +1156,6 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 
 ********************************************************************************
 
-### ~~Gruppenarbeit~~: Reflexion zur Integration in die Lehre
-
->![Bild](images\kurzberichte.png) <!-- width="150px" align="right" -->
->
->**Kleingruppenarbeit**
->
->* Bitte tauschen Sie sich in Ihrer Gruppe darüber aus, in welchen Ihrer Lehrzusammenhänge die ***Thematisierung von Ordnerstrukturen, Dateibenennung und/oder die Dateiversionierung*** (einfach oder toolgestützt) integriert werden könnte.
->* Brainstormen Sie zu möglichen Lehrszenarien, Aufgabenstellungen, Beispielen, ....
->
->Bitte dokumentieren Sie Ihre Ideen auf dem Miro-Board: https://miro.com/app/board/uXjVP0G7n2Y=/?moveToWidget=3458764542717413738&cot=14
-
-
-## Blended Learning   
-
-Das sogenannte Blended Learning verknüpft die beiden unterschiedlichen Lernformen (Präsenz- und E-Learning) zu einer Einheit mit dem Ziel, die Vorteile der jeweiligen Lernform einzubringen und die Nachteile der jeweils anderen Lernform zu kompensieren.
-
-Ein e-Learning Baustein, wie das gezeigte Beispiel zu Ordnerstrukturen und Dateibenennung, oder sonstige elektronisch verfügbaren Lernressourcen können gut in asynchronen Phasen der Lehre zum Einsatz kommen. In Präsenzphasen kann das Gelernte wieder aufgegriffen, diskutiert und vertieft werden.
-
-Blended Learning kann in verschiedenen Szenarien durchgeführt werden.
-
-**Blended Learning Szenarien\* am Beispiel e-Learning Baustein Ordnung und Struktur:**
-
-<div style="text-align:left">
-<P><SMALL>\*Abbildungen nach Bremer, C. (2009): Überblick über die Szenarien netzbasierten Lehrens und Lernens</SMALL></P>
-</div>
-
----
-
-{{1-2}}
-********************************************************************************
-<img src="images/asynchroneLehre_1.png"  style="float:right" width=250px/>
-
-**Präsenzphase - Selbstlernphase - Präsenzphase**
-
-* **Präsenzsitzung**: Bedeutung von Dateibenennung kurz anteasern.
-* **Selbstlernphase**: Durcharbeiten des e-Learning Bausteins, inkl. Arbeitsauftrag eine Dateibenennungskonvention zu entwickeln und in einer README-Datei zu dokumentieren (ggf. in Kleingruppenarbeit).
-* **Präsenzsitzung**: Reflexion via Vorstellung ausgewählter README-Dateien, Diskussion im Plenum über Bedeutung von Dateibenennungskonventionen.
-
-********************************************************************************
-
-{{2-3}}
-********************************************************************************
-<img src="images/asynchroneLehre_2.png"  style="float:right" width=250px/>
-
-**Selbstlernphase - Präsenzphase -Selbstlernphase**
-
-* **Selbstlernphase**: Bearbeitung des e-Learning Bausteins
-* **Präsenzsitzung**: In Kleingruppenarbeit eine gemeinsame Dateibenennungskonvention entwickeln und in einer README-Datei dokumentieren.
-* **Selbstlernphase**: Forumsdiskussion, Peer-Review
-
-********************************************************************************
-
-{{3-4}}
-********************************************************************************
-<img src="images/asynchroneLehre_3.png"  style="float:right" width=250px/>
-**Präsenzphase - Selbstlernphase - Selbstlernphase - Präsenzphase**
-
-* **Präsenzsitzung**: Erläuterung der kommenden Aufgaben und der zugehörigen Lernziele
-* **Selbstlernphase**: Neben anderen Recherche- und/oder Leseaufgaben Durcharbeiten des e-Learning Bausteins.
-* **Selbstlernphase**: Neben anderen Arbeitsaufträgen Arbeitsauftrag eine Dateibenennungskonvention zu entwickeln und in einer README-Datei zu dokumentieren (ggf. in Kleingruppenarbeit).
-* **Präsenzsitzung**: Reflexion via Vorstellung ausgewählter README-Dateien, Diskussion im Plenum über Bedeutung von Dateibenennungskonventionen.
-
-********************************************************************************
-
-{{4}}
-********************************************************************************
-
-Komplexere Lerneinheiten können sich auch über die verschiedenen Phasen erstrecken:
-
-<img src="images/asynchroneLehre_4.png"  style="float:right"/>
-
-********************************************************************************
-
 ## Formate
 
 **Mit welchen Dateinformaten arbeiten Sie?**
@@ -924,30 +1174,20 @@ Komplexere Lerneinheiten können sich auch über die verschiedenen Phasen erstre
 
 ### ~~Beispiel~~: CSV vs XLSX
 
-Die Flexibilität, aber auch die Einschränkungen von dem einfachen, rein textbasierten Format CSV gegenüber XLSX kann z. B. mit folgender kleinen Aufgabenstellung erlebbar gemacht werden:
+Die Flexibilität, aber auch die Einschränkungen von dem einfachen, rein textbasierten Format CSV gegenüber z. B. XLSX kann z. B. mit folgender kleinen Aufgabenstellung erlebbar gemacht werden:
 
-1. Öffenen Sie Excel
+1. Öffenen Sie ein Tabellenkalkulationsprogramm, z. B. Excel
 2. Erstellen Sie eine neue Datei
-3. Geben Sie A, B, C in Zellen A1 bis C1 ein
+3. Geben Sie A, B, C in die Zellen A1 bis C1 ein
 4. Geben Sie 1, 2, 3 in die Zellen A2 bis C2 ein
 5. Speichern Sie die Datei als *.csv (Trennzeichen getrennt)
 6. Öffnen Sie die eben abgespeicherte CSV-Datei in Ihrem Texteditor
 7. Wie sind die Daten strukturiert? Welches Trennzeichen wird verwendet?
 8. Ändern Sie das Trennzeichen (Komma, Semikolon, Tabstopp) 
-9. Was passiert, wenn Sie die Datei jetzt in Excel öffnen?
+9. Was passiert, wenn Sie die Datei jetzt in Ihrem Tabellenkalulationsprogramm öffnen?
 10. Was müssen Sie tun, um die Daten jetzt korrekt importieren zu können?
 
--> Einschänkungen des Formats können Sie z. B. zeigen, indem Sie Speicheraufträge für farbig markierte Daten geben. Diese Information geht im CSV-Format verloren. 
-
-
-### ~~Storytelling~~: Formate
->![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
->
->**Kleingruppenarbeit**
->
->Entwickeln Sie in Ihrer Gruppe eine eigene kurze "Story" (in Stichpunkten), die die Bedeutung der Wahl von Dateiformaten in einem wissenschaftlichen oder hochschulbezogenen Kontext thematisiert und z. B. als Einstieg in eine Lerneinheit "Formate" dienen könnte.
->
-> Dokumentieren Sie auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?share_link_id=765881800401
+-> Demonstrieren Sie Informationsverluste, indem Sie z. B. CSV-Speicheraufträge für farbig markierte Daten (Information liegt dann im Format vor) geben. Diese Information geht im CSV-Format verloren. 
 
 ## Datendokumentation & Datenqualität
 
@@ -998,8 +1238,6 @@ Warum ist Datendokumentation wichtig?
 >* Zusammenarbeit zu erschweren.
 
 ********************************************************************************
-
-
 
 ### ~~Gruppenarbeit~~: Datendokumentation & Datenqualität
 
@@ -1072,18 +1310,9 @@ Beispiele für Data Dictionary und Codebook
 
 ********************************************************************************
 
-### ~~Gruppenarbeit~~: Reflexion zur Integration in die Lehre
+## Nachnutzung von Forschungsdaten
 
->![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
->
->**Kleingruppenarbeit**
->
->Diskutieren Sie in welchen Zusammenhängen Ihrer eigenen Lehre die Thematisierung der Aspekte Datendokumentation und Datenqualität sinnvoll und passend wäre.
->
->Brainstormen Sie zu möglichen Unsetzungsszenarien, Sensibilisierungsübungen, Aufgabenstellungen u. ä..
->
-> Notieren Sie Ihre Ideen auf dem Miro-Board:
->https://miro.com/app/board/uXjVM_wsd4I=/?share_link_id=765881800401
+>Welche Kenntnisse und Fähigkeiten brauchen Ihre Studierenden, um Forschungsdaten nachnutzen zu können?
 
 ## FAIR-Prinzipien
 
@@ -1162,7 +1391,61 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 <div style="page-break-after: always;"></div>
 
+## ~~Diskussion~~: Nutzen von Forschungsdatenmanagement und FAIRen Daten
 
+{{0-1}}
+********************************************************************************
+
+![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
+
+**Wir schauen uns ein kurzes Video an. Behalten Sie dabei folgende Fragen im Hinterkopf:**
+
+* Welchen Nutzen/welche Vorteile haben gutes Forschungsdatenmanagement und FAIRe Daten (für Forschende, für die Gesellschaft?)?
+* Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen?
+
+>* Sammeln Sie Ihre Punkte gerne bereits während das Video läuft auf **ONCOO-Karten**: https://www.oncoo.de/jzvb
+
+---
+
+********************************************************************************
+
+{{1-2}}
+********************************************************************************
+
+Movie time!
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+********************************************************************************
+
+{{2-3}}
+********************************************************************************
+
+<iframe width="560" height="315" src="https://www.oncoo.de/t/jzvb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+********************************************************************************
+
+
+{{3}}
+********************************************************************************
+>**Gutes Forschungsdatenmanagement trägt bei zu ...**
+>
+> - Reproduzierbarkeit von Ergebnissen (GWP)
+> - Rückverfolgbarkeit und Transparenz der Forschung (GWP)
+> - gute Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und beschreibende Metadaten
+> - Wissenserhalt – Daten sollen unabhängig von einzelnen Menschen, Projekten oder Institutionen zugänglich sein (GWP)
+> - Erleichterung der Zusammenarbeit
+> - Vorbeugung von Datenverlusten
+> - Kostenersparnis, z. B. durch Nachnutzung statt neuer Erhebung
+> - Transfer der Daten in zukünftige Projekte
+> - Erhöhung der Sichtbarkeit der eigenen Arbeit durch Forschungsdatenzitation
+> - Erfüllung von Auflagen der Drittmittelgeber
+> - ….
+
+********************************************************************************
 
 ### ~~World-Café~~: FAIR-Prinzipien
 
@@ -1201,14 +1484,6 @@ Nach Ablauf der vorgegebenen Diskussionszeit, Umsetzung der Gruppen durch „Ver
 **Tisch 4**: Bitte diskutieren Sie an diesem Tisch darüber, welche Aspekte und Probleme das snafu-Video in Bezug auf die **Nachnutzbarkeit** von Daten angesprochen hat. Wie können Nachnutzbarkeitsprobleme gelöst werden? 
 
 ********************************************************************************
-
-### ~~Reflexion~~: World-Café
-
->**Diskussion im Plenum**
->
->Können Sie sich den Einsatz eines eigenen World-Cafés in einer Ihrer Lehrveranstaltungen vorstellen?
->
->Fallen Ihnen spontan weiter mögliche Diskussionsthemen und Fragestellungen zum Umgang mit Daten für ein World-Café ein?
 
 ## ~~Gamification~~: Informationen, Forschungsdaten, Lehr-Lernmaterialien und -methoden finden
 
@@ -1253,88 +1528,16 @@ Typische Gamification-Elemente sind bspw. Das Sammeln von Punkten, das Erreichen
 >
 >Welche spielerischen Elemente setzen Sie bereits in der Lehre ein? Können Sie Erfahrungen oder Empfehlungen hierzu teilen?
 
-# Aktuelle Entwicklungen / wichtige Player
+# Reflexion zur Integration in die Lehre
 
-{{0-2}}
-********************************************************************************
-
-**Forschungsförderer** legen zunehmend Wert auf ein gutes Forschungsdatenmanagement und fordern bei Forschungsanträgen z. B. den Nachweis von Planungen (DMPs) zum Umgang mit Daten.
-
-********************************************************************************
-
-{{1-2}}
-********************************************************************************
-
----
-
-![Bild](images/dfg_logo_schriftzug_blau.jpg) <!-- width="100px" align="right" -->
-
-**Deutsche Forschungsgemeinschaft (DFG)**:
-
-Als größter Forschungsförderer in Deutschland hat sich die **DFG** mit dem Thema Forschungsdatenmanagement auseinandergesetzt. 2015 wurden die [DFG-Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/) veröffentlicht und ist durch fachspezifische Empfehlungen ergänzt. Der neue [Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis"](https://wissenschaftliche-integritaet.de/kodex/) geht an vielen Stellen auf ***FAIR & Open Data*** ein.
-
----
-![Bild](images/BMBF-logo.png) <!-- width="150px" align="right" -->
-
-Das **Bundesministerium für Bildung und Forschung (BMBF)**:
-
-Als einer der Förderer und Initiatoren der Nationalen Forschungsdateninfrastruktur verlangt das BMBF in den Richtlinien zur Förderung eine Datenmanagementplanung, wobei die Vorlagen hierzu variieren.
-
----
-
-![Bild](images/European-Commission-logo.png) <!-- width="150px" align="right" -->
-
-**Europäische Kommission (EC):**
-
-Im Rahmenprogramm Horizon 2020 wurden erstmals die Anforderungen an das Forschungsdatenmanagement im Open Data Pilot formuliert. Seit 2017 ist die Beteiligung am Open Data Pilot und somit das Datenmanagement nach den FAIR-Data-Prinzipien (findable, accessible, interoperable and reusable) mit einer mehrstufigen Datenmanagementplanung und der Veröffentlichung unter Open Access der Standard. Das gilt auch für das aktuelle [Rahmenprogramm Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf).
-
-********************************************************************************
-
-{{2-3}}
-********************************************************************************
-
----
-
-![Bild](images/nfdi_logo.png) <!-- width="150px" align="right" -->
-
-**Nationale Forschungsdateninfrastruktur (NFDIs)**:
-
-Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kompetenz- und Infrastrukturnetzwerk, das die Bereitstellung und Erschließung von Forschungsdaten für die Wissenschaft sicherstellen soll.
-
-[**NFDI e. V.**](https://www.nfdi.de/)
-
-![Bild](images/screenshot_nfdi.jpg)
-
-********************************************************************************
-
-{{3}}
-********************************************************************************
-
----
-
-**Kurzer Rechercheauftrag**:
-
-Welches Konsortium der NFDI ist für Ihren Fachbereich relevant?
-
-[**NFDI e. V.**](https://www.nfdi.de/)
-
-********************************************************************************
-
-# Berufliche Perspektiven aufzeigen
-
-> Mit wissenschaftlicher Expertise ***und*** guten Kenntnissen im Bereich des Datenmanagements entstehen zusätzliche berufliche Perspektiven innerhalb der Fachwissenschaften sowie in zentralen Einrichtungen, wie Rechenzentren oder Universitätsbibliotheken zur Verfügung.
+>![Bild](images/kurzberichte.png) <!-- width="150px" align="right" -->
 >
-> Mögliche Berufsbezeichnungen für diese Tätigkeitsbereiche sind z. B.:
+>Diskutieren Sie in welchen Zusammenhängen Ihrer eigenen Lehre die Thematisierung von FDM-Aspekten sinnvoll und möglich wäre.
 >
-> * Data Steward,
-> * Data Curator und/oder
-> * Data Collector
+>Brainstormen Sie zu möglichen Unsetzungsszenarien, Sensibilisierungsübungen, Aufgabenstellungen u. ä..
 >
-> Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich.
-
-** -> Was denken Sie? Welche Kenntnisse und Kompetenzen benötigen Studierende zusätzlich zu fachlichen Inhalten?**
-
-** -> Welche Lehr-/Lernformate halten Sie für geeignet, Kompetenzen im Umgang mit digitalen Forschungsdaten zu erwerben?**
+> Notieren Sie Ihre Ideen gerne auch auf dem Miro-Board:
+>https://miro.com/app/board/uXjVM_wsd4I=/?share_link_id=765881800401
 
 # Themen- und Vertiefungswünsche
 
