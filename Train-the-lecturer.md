@@ -13,18 +13,16 @@ comment:  This document provides a brief introduction to research data managemen
 -->
 
 # Train-the-Lecturer Forschungsdatenmanagement
-
-<center><img src="images/fdm_lehre.png" alt="people standing in front of " height="50%" width="50%"></center>
-(Illustration: Cleo Michelsen)
-
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
 > [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://cau-git.rz.uni-kiel.de/fdm/schulungen/git-einfuehrung/-/raw/main/course_materials/didactic_aspects.md)
 >
-> If you have questions, don´t hesitate to contact us: [fdm@rz.uni-kiel.de](mailto:fdm@rz.uni-kiel.de)
+> If you have questions, please contact us: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
+>
+> This work is licenced under CCBY (https://creativecommons.org/licenses/by/4.0/)
 
----
+<center><img src="images/fdm_lehre.png" alt="people standing in front of " height="50%" width="50%"></center>
 
 ## Warm up
 
@@ -968,28 +966,7 @@ Beispiele für Benennungskonventionen:
 
 ********************************************************************************
 
-### ~~Einzelarbeit~~: Dateibenennungskonvention für Abgaben
-
-<div style="text-align:center">
-><p style="color:#9a047f">**Haben Sie sich schon mal über die Dateinamen von bei Ihnen eingereichten Hausarbeiten oder sonstigen abgabepflichtigen Aufgaben geärgert?**</p>
-</div>
-
->**Einzelarbeit** (gerne auch in Partnerarbeit, falls Sie eine Veranstaltung gemeinsam durchführen)
->
->Denken Sie an eine Ihrer Lehrveranstaltungen, in der Studierende die Bearbeitung von Aufgaben in Form von Dateien bei Ihnen einreichen müssen. Erstellen Sie eine Dateibenennungskonvention, die Ihren Studierenden vorgibt, in welcher Form die abzugebenden Dateien benannt werden sollen.
->
->Überlegen Sie, was für eine Form der Benennung für Sie im Hinblick auf automatisches Sortieren praktisch wäre.
-> 
->Bitte dokumentieren Sie 
->
->1. die Konvention Form von [Namensaspekt-a]-[Namensaspekt-b]-[...]-[Namensaspekt-x].\[Dateiendung\]
->2. für welche Dateien Ihre Namenskonvention gilt,
->2. die zu verwendenden, beschreibenden Namensaspekte und deren Reihenfolge sowie
->3. Vorgaben für  ggf. zu verwendende Abkürzungen.  
->
->Dokumentieren Sie auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556871918720&cot=10.
-
-## Versionierung
+### Versionierung
 
 {{0-1}}
 ********************************************************************************
@@ -1069,7 +1046,7 @@ https://zenodo.org/record/6076538#.Y4pE63bMJPa
 
 ********************************************************************************
 
-### Softwaregestützte Versionierung
+#### Softwaregestützte Versionierung
 
 Es gibt eine Reihe von nützlichen Tools, die Ihnen helfen, insbesondere textbasierte Daten und Forschungsdatencode zu verfolgen und zu versionieren.
 
@@ -1080,7 +1057,7 @@ Die am weitesten verbreiteten basieren auf dem Versionsverwaltungssystem Git und
 * Bitbucket: https://bitbucket.org
 * Gitea: https://gitea.io/en-us
 
-### Gitlab RZ CAU
+#### Gitlab RZ CAU
 
 > **Das Rechenzentrum betreibt einen zentral den Git-Dienst [Gitlab RZ CAU](https://cau-git.rz.uni-kiel.de/) für die Einrichtungen der CAU.**
 >
@@ -1155,6 +1132,27 @@ Das Rechenzentrum der Universität Kiel richtet auf Antrag Projektgruppen ein.
 > <p style="color:#9a047f">***Studierende wie Mitarbeitende müssen sich ein erstes Mal eingeloggt haben, bevor sie von Betreuern auffindbar sind und Projekten hinzugefügt werden können!***</p>
 
 ********************************************************************************
+
+### ~~Einzelarbeit~~: Dateibenennungskonvention für Abgaben
+
+<div style="text-align:center">
+><p style="color:#9a047f">**Haben Sie sich schon mal über die Dateinamen von bei Ihnen eingereichten Hausarbeiten oder sonstigen abgabepflichtigen Aufgaben geärgert?**</p>
+</div>
+
+>**Einzelarbeit** (gerne auch in Partnerarbeit, falls Sie eine Veranstaltung gemeinsam durchführen)
+>
+>Denken Sie an eine Ihrer Lehrveranstaltungen, in der Studierende die Bearbeitung von Aufgaben in Form von Dateien bei Ihnen einreichen müssen. Erstellen Sie eine Dateibenennungskonvention, die Ihren Studierenden vorgibt, in welcher Form die abzugebenden Dateien benannt werden sollen.
+>
+>Überlegen Sie, was für eine Form der Benennung für Sie im Hinblick auf automatisches Sortieren praktisch wäre.
+> 
+>Bitte dokumentieren Sie 
+>
+>1. die Konvention Form von [Namensaspekt-a]-[Namensaspekt-b]-[...]-[Namensaspekt-x].\[Dateiendung\]
+>2. für welche Dateien Ihre Namenskonvention gilt,
+>2. die zu verwendenden, beschreibenden Namensaspekte und deren Reihenfolge sowie
+>3. Vorgaben für  ggf. zu verwendende Abkürzungen.  
+>
+>Dokumentieren Sie auf dem Miro-Board: https://miro.com/app/board/uXjVM_wsd4I=/?moveToWidget=3458764556871918720&cot=10.
 
 ## Formate
 
@@ -1313,6 +1311,77 @@ Beispiele für Data Dictionary und Codebook
 ## Nachnutzung von Forschungsdaten
 
 >Welche Kenntnisse und Fähigkeiten brauchen Ihre Studierenden, um Forschungsdaten nachnutzen zu können?
+
+### Forschungsdaten finden
+
+Wer Daten nachnutzen möchte, muss zunächst einen passenden Datensatz finden:
+
+- In Fachrepositorien (z.B. https://www.fidgeo.de/daten-publikationen/daten-publikationen) und fachübergreifenden Repositorien (z. B. https://zenodo.org/)
+- In institutionellen Repositorien (z.B. https://opendata.uni-kiel.de/content/index.xml) 
+- In Repositorien für offene Verwaltungsdaten (z. B. https://opendata.schleswig-holstein.de/dataset)
+- Mittels Metasuchmaschinen (z. B. B2FIND http://b2find.eudat.eu, gesisDataSearch http://datasearch.gesis.org/start, Mendeley Data https://data.mendeley.com/)
+- Recherche in bibliothekarischen Suchmaschinen (z. B. BASE https://www.base-search.net/Search/Advanced)
+- Google: Stichwort und „data set“ bzw. Google Dataset Search
+
+Eine schöne Übersicht über Open Access Repositorien finden Sie hier: https://www.uni-due.de/imperia/md/images/ogesomo/oa-rechercheplattformen.pdf 
+
+### Forschungsdaten zitieren
+
+Ein gefundener Datensatz muss korrekt zitiert werden:
+
+- **Nach FORCE11-Empfehlung**: Autor*in(nen) (Publikationsjahr): Titel der Forschungsdaten. Datenrepositorium oder Archiv. Version. Weltweit persistenter Identifikator (vorzugsweise als Link)
+
+- **Nach DataCite 2013**: Urheber*in (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller Ressourcentyp. Identifikator
+
+---
+
+{{1}}
+********************************************************************************
+>**Aufgabe**: 
+>
+>Zitieren Sie folgende Publikation nach FORCE11-Empfehlung: http://dx.doi.org/10.13140/RG.2.2.34005.12001 
+
+********************************************************************************
+
+{{2}}
+********************************************************************************
+>**Lösung**:
+>
+>Risan, Patrick (2017): Accommodating Trauma in Police Interviews. An Exploration of Rapport in Investigative Interviews of Traumatized Victims, 2013. NSD - Norwegian Centre for Research Data. https://doi.org/10.13140/RG.2.2.34005.12001
+
+********************************************************************************
+
+### Rechtslage einschätzen 
+
+Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizensysteme bekannt sein.
+
+Das bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.creativecommons.net/was-ist-cc/):
+
+<div style="width:75%;">
+![CCLizenzen](https://herrmayr.de/wp-content/uploads/2019/12/%C3%9Cbersicht_CC_Lizenzen-1024x529.png "Die Creative Commons Lizenzen im Überblick (Quelle: Symbole von Creative Commons Schweiz CC BY 4.0; Tabelle von Burgert/TU München CC BY 4.0)")
+</div>
+
+---
+
+{{1}}
+********************************************************************************
+>**Aufgabe**: 
+>
+>Sie finden eine ähnliche Abbildung, wie die obige auf dieser Seite: https://lehreladen.rub.de/e-learning-technik-in-der-lehre/open-educational-resources/creative-commons/
+>
+>1. Unter welcher Lizenz wurde die dortige Abbildung veröffentlicht? 
+>2. Welches Problem ergiebt sich, wenn wir genau jene Abbildung in diese Präsentation einbauen würden? 
+
+********************************************************************************
+
+{{2}}
+********************************************************************************
+>**Lösung**:
+>
+>1. [CCBYSA](https://creativecommons.org/licenses/by-sa/4.0/)
+>2. Diese Präsentation ist unter CCBY lizensiert. CCBYSA sieht jedoch vor, dass nur **unter gleichen Bedingungen** nachgenutzt werden darf.  
+
+********************************************************************************
 
 ## FAIR-Prinzipien
 
